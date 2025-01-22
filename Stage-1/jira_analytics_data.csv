@@ -1,0 +1,700 @@
+summary,ticket_id,issue type,status,project key,project name,priority,resolution,assignee,month_opened,month_closed,updated
+Could not resolve placeholder 'NUMBER_OF_MASTERS',LCH-2233,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Spencer Woo,4/1/2021,22/1/2021,29/Dec/21 1:39
+Autoscaling Does Not Scale Down,LCH-2234,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,A,Marco Antonio Kuchla Braga,4/1/2021,26/1/2021,29/Sep/22 10:12
+Production database outage on 1-4-2021 of approximately 8 minutes,LCH-2235,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Marco Antonio Kuchla Braga,4/1/2021,19/1/2021,19/Jul/22 7:02
+Please provide DB utilization report for mbeurope project (prd),LCH-2237,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Ygor Costa,5/1/2021,13/1/2021,15/Jan/21 7:32
+backup process takes more than 24h,LCH-2238,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Timothy Bell,5/1/2021,16/1/2021,29/Jan/21 8:54
+ElasticSearch licence expired on DXP Cloud environment,LCH-2239,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Spencer Woo,5/1/2021,20/1/2021,21/Jun/23 12:10
+Builds are failing due to no space on GCP/GKE to store them,LCH-2240,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Eddie Olson,5/1/2021,6/1/2021,12/Jan/21 10:51
+Github repository access for MISK,LCH-2244,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Ygor Costa,6/1/2021,12/1/2021,07/Nov/22 12:50
+"Custom service cannot be deleted, and appears to persist after deleting and recreating the service",LCH-2246,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Albertinin Mourato,7/1/2021,1/2/2021,11/Oct/22 2:35
+"GitHub PAT for non-admin users leads to ""no credentials with admin access to manage hooks"" error when integrating with Jenkins and creating the webhook",LCH-2247,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Rafael Wolf,7/1/2021,3/4/2021,04/Nov/22 10:52
+Request for the Analytics Cloud team to have DXP Cloud services deployed to the LiferayCloud-Customer-AC GCP project,LCH-2249,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Albertinin Mourato,8/1/2021,18/1/2021,13/Apr/22 1:04
+Custom theme missing after deployment,LCH-2250,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Eddie Olson,8/1/2021,18/1/2021,12/Jul/22 6:26
+Elasticsearch server in UAT restarting periodically,LCH-2251,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Albertinin Mourato,11/1/2021,22/1/2021,29/Jan/21 6:34
+Get to know specific values of parameters configured at database level,LCH-2252,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Eddie Olson,11/1/2021,14/1/2021,17/Dec/21 5:04
+Set read-only access to Dynatrace for specific users,LCH-2253,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Eddie Olson,11/1/2021,12/1/2021,13/Jan/21 8:03
+Mysql Signal 11 analysis - follow up of LCH-2208,LCH-2254,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Vinicios Grein,12/1/2021,21/1/2021,22/Jan/21 6:39
+Providing access to Dynatrace for a new user,LCH-2256,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Albertinin Mourato,12/1/2021,15/1/2021,18/Jan/21 11:53
+HAProxy timeout values might cause side effects,LCH-2257,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Eddie Olson,12/1/2021,12/1/2021,12/Jan/21 10:51
+Change SSL Policy for halcondxpc,LCH-2258,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Spencer Woo,14/1/2021,25/1/2021,29/Jun/22 9:15
+Certificate error for new custom domains,LCH-2259,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Spencer Woo,14/1/2021,15/1/2021,29/Dec/21 12:19
+Open ports on DXP Cloud,LCH-2260,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Albertinin Mourato,14/1/2021,28/1/2021,27/Apr/22 6:45
+after the first SSO login to DXPCloud the old authentication method is disabled,LCH-2261,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Albertinin Mourato,14/1/2021,15/1/2021,15/Jan/21 7:35
+"Deployments consistently ""failing"" for various services",LCH-2264,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Albertinin Mourato,14/1/2021,20/1/2021,13/Apr/22 1:04
+"The builds are broken, they failed trying to deploy/upload services to liferay.cloud",LCH-2265,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Albertinin Mourato,15/1/2021,29/1/2021,02/Jul/24 4:39
+Please confirm if CDN cache has been completely cleared for JLR,LCH-2266,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Eddie Olson,15/1/2021,15/1/2021,13/Apr/22 1:04
+Jenkins failing with timeout,LCH-2267,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Spencer Woo,15/1/2021,22/1/2021,11/Aug/22 10:42
+VPN is intermittent on Klabin's environments,LCH-2268,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Kiana Suetani,18/1/2021,29/1/2021,29/Jan/21 7:43
+Dynatrace provisioning for Sumitomocp,LCH-2271,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Spencer Woo,19/1/2021,22/1/2021,07/Sep/22 11:20
+searchCollaborators autocomplete is still present in Console,LCH-2272,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Albertinin Mourato,19/1/2021,29/1/2021,29/Jan/21 1:31
+Metrics for Martinbrower,LCH-2273,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Albertinin Mourato,19/1/2021,1/2/2021,05/Feb/21 2:56
+Expired license causes CI to have deployment errors of the Commerce package,LCH-2275,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Eddie Olson,20/1/2021,22/1/2021,21/Sep/22 8:24
+Requesting help for understanding VPN configuration settings,LCH-2276,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Critical,Done,Spencer Woo,20/1/2021,2/2/2021,05/Feb/21 2:56
+VPN stuck in Connecting...,LCH-2277,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,21/1/2021,2/2/2021,19/Jan/22 8:05
+Dynatrace-related requests by customer STOXXHOSTING,LCH-2278,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,21/1/2021,2/2/2021,30/Nov/21 5:45
+Can not see VPN logs,LCH-2279,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,21/1/2021,27/1/2021,16/Aug/22 6:35
+Urgent: Connection is lost with the database when trying to delete expired saml sessions,LCH-2280,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,21/1/2021,26/1/2021,15/Sep/22 3:43
+Addition to notification on service failure,LCH-2282,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rafael Wolf,22/1/2021,26/1/2021,13/Jan/22 9:14
+Dynatrace license expiring,LCH-2283,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,22/1/2021,22/1/2021,01/Jun/22 5:02
+MySQL slow query logs from the DB server of mbna-prd environment,LCH-2284,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,22/1/2021,30/1/2021,16/Aug/22 6:34
+Find out timing of customer's databases' manual backup,LCH-2285,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rafael Wolf,22/1/2021,12/2/2021,03/May/22 7:42
+Access denied. User is missing or has incorrect credentials,LCH-2287,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Albertinin Mourato,25/1/2021,26/1/2021,24/Jun/22 10:36
+Grant access permission to the dynatrace dashboard,LCH-2288,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rafael Wolf,25/1/2021,26/1/2021,29/Jan/21 6:34
+Multiple VPN containers at the same time are complicating debugging the VPN Connection.,LCH-2290,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Albertinin Mourato,25/1/2021,5/2/2021,26/Feb/21 5:18
+Secret activities don't filter to current secret,LCH-2291,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Albertinin Mourato,25/1/2021,29/1/2021,29/Jan/21 7:26
+Unable to connect VPN because no trusted RSA public key found,LCH-2293,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,26/1/2021,17/2/2021,21/Oct/22 2:37
+Team members have no access to environments,LCH-2298,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,27/1/2021,28/1/2021,29/Jan/21 8:24
+Performance issues in the mbna-prd environment,LCH-2299,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,27/1/2021,1/2/2021,07/Dec/21 3:16
+Custom Domains Limit,LCH-2300,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,27/1/2021,1/2/2021,18/Apr/22 7:21
+Can not connect to external OpenID,LCH-2301,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rafael Wolf,28/1/2021,29/1/2021,16/Aug/22 7:52
+RCA investigation of alert 1786,LCH-2302,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Vinicios Grein,28/1/2021,8/2/2021,26/Feb/21 5:19
+Certificate error for new custom domains,LCH-2303,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,28/1/2021,1/2/2021,18/Apr/22 7:21
+Backup restore process is stuck,LCH-2304,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Allen Ziegenfus,28/1/2021,2/2/2021,03/Oct/22 4:57
+Deploy build to environment DR is failed,LCH-2306,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Albertinin Mourato,29/1/2021,2/2/2021,05/Feb/21 2:56
+Load tests on MBNA-Test and Dev environments,LCH-2308,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,István Gergely-Tárnoki,29/1/2021,8/2/2021,16/Nov/23 8:52
+Build error in COVE prd site,LCH-2314,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Liege Kluppel,30/1/2021,11/2/2021,09/Mar/22 1:13
+Builds are failing,LCH-2315,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,30/1/2021,1/2/2021,05/Feb/21 2:55
+Deploy error: Updates to StatefulSet service are not allowed for the following fields: 'volumes'. Service creation failed for the search service,LCH-2316,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Albertinin Mourato,1/2/2021,2/2/2021,14/Jul/22 12:38
+Requesting Dynatrace access for a new user of MARTINBROWERUS,LCH-2317,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Albertinin Mourato,2/2/2021,3/2/2021,27/Apr/22 4:48
+Automatic backup creation fails intermittently,LCH-2318,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Next Release,Kiana Suetani,2/2/2021,18/2/2021,24/Aug/22 9:22
+LogsView loses buildGroupUid parameter on logDate or instance selection,LCH-2319,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Albertinin Mourato,2/2/2021,3/2/2021,05/Feb/21 2:56
+Requesting Dynatrace access for new users of STOXXHOSTING,LCH-2320,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Albertinin Mourato,2/2/2021,2/2/2021,30/Nov/21 5:45
+CPU / Memory alerts - feedback,LCH-2321,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Liege Kluppel,2/2/2021,8/2/2021,13/Jan/22 9:08
+Questions about penetration testing and backend security,LCH-2322,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Vinicios Grein,2/2/2021,10/2/2021,24/Mar/22 5:32
+Jenkins build failures,LCH-2323,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Albertinin Mourato,3/2/2021,9/2/2021,04/Jul/22 8:55
+Invite users to Dynatrace tenant of JAGUARGRP,LCH-2324,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Albertinin Mourato,3/2/2021,4/2/2021,05/Feb/21 2:56
+Disable weak cipher suites,LCH-2325,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,4/2/2021,16/2/2021,14/Oct/22 2:53
+Requesting VPN Tunnel utilization report for Martin Brower,LCH-2326,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,4/2/2021,12/2/2021,26/Feb/21 5:19
+Virtual instance is not working properly,LCH-2327,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Liege Kluppel,5/2/2021,12/2/2021,26/Feb/21 5:19
+Jenkins service is inaccessible (DNS entry not resolved),LCH-2328,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Albertinin Mourato,5/2/2021,8/2/2021,12/Apr/21 7:28
+Backup creation fails,LCH-2330,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,8/2/2021,16/2/2021,24/Aug/22 9:20
+Disk full on CI Service,LCH-2331,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,8/2/2021,8/2/2021,17/Feb/22 10:06
+Request to increase dynatrace host limit to 6 for MARTINBROWERUS,LCH-2332,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,István Gergely-Tárnoki,8/2/2021,12/2/2021,16/Nov/23 8:52
+Storage utilization for the database in the mbna-prd environment,LCH-2334,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,8/2/2021,12/3/2021,08/Sep/22 4:11
+Production server got restarted,LCH-2335,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,9/2/2021,17/2/2021,25/May/22 6:13
+Additional Dynatrace access for Jaguar,LCH-2336,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,9/2/2021,10/2/2021,26/Feb/21 5:19
+Provision new database instance for Martinbrower,LCH-2343,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,10/2/2021,3/3/2021,13/Jan/22 2:04
+Request for Dynatrace account details,LCH-2346,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Albertinin Mourato,11/2/2021,18/2/2021,08/Mar/22 4:28
+"Service liferay keeps restarting, even in old builds",LCH-2348,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,12/2/2021,16/2/2021,29/Dec/21 1:38
+Argus Customer Portal performance testing window for Feb. 2021,LCH-2350,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,13/2/2021,22/2/2021,06/Sep/22 10:07
+Dynatrace user administration request,LCH-2351,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,13/2/2021,16/2/2021,26/Feb/21 5:19
+Severe Liferay Service Errors Cause Production to be Unavailable,LCH-2352,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Kiana Suetani,14/2/2021,5/3/2021,06/Sep/22 12:09
+Elasticsearch service volume renaming,LCH-2353,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Jared Gorski,15/2/2021,1/3/2021,24/Jun/22 4:12
+Additional Dynatrace access for Jaguar,LCH-2354,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,15/2/2021,16/2/2021,26/Feb/21 5:18
+elasticsearch cluster in RED: no_valid_shard_copy,LCH-2355,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Kiana Suetani,15/2/2021,22/2/2021,26/Feb/21 5:19
+Database connection issue?,LCH-2356,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,15/2/2021,17/2/2021,16/Aug/22 7:53
+elasticsearch cluster in RED: no_valid_shard_copy,LCH-2357,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Kiana Suetani,15/2/2021,24/2/2021,26/Feb/21 5:19
+Request for file from volume,LCH-2358,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Jared Gorski,15/2/2021,19/2/2021,02/Mar/22 1:46
+Liferay Unable to Start Due to Red Search Cluster Health,LCH-2359,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Kiana Suetani,15/2/2021,23/2/2021,20/Sep/22 5:21
+liferay service can't connect to search service,LCH-2360,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Kiana Suetani,16/2/2021,23/2/2021,16/Aug/22 7:39
+RCA for Public IP change in the custom SFTP Service at host webserver-mbeurope-test--ports.lfr.cloud,LCH-2361,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Vinicios Grein,16/2/2021,1/3/2021,12/Jan/22 5:37
+Requesting Dynatrace access for a new user of KLABINDIGWP,LCH-2362,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,16/2/2021,16/2/2021,28/Dec/21 9:42
+ElasticSearch licence expired on DXP Cloud environment,LCH-2370,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Liege Kluppel,17/2/2021,23/2/2021,09/Aug/22 9:55
+CI endpoint is unaccessible,LCH-2371,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,17/2/2021,22/2/2021,16/Aug/22 7:53
+Add subPath only for Deployments not StatefulSets,LCH-2372,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,17/2/2021,18/2/2021,19/Feb/21 2:53
+Jenkins check fails for PR,LCH-2373,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Brian Greenwald,18/2/2021,8/4/2021,08/Apr/21 5:25
+"Values of secrets do not fetch, causing CI service not starting up",LCH-2374,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,18/2/2021,4/3/2021,10/Mar/21 7:13
+Requesting Dynatrace access for a new user of PROCTEPG,LCH-2375,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,18/2/2021,19/2/2021,06/Dec/21 7:28
+Liferay Service shutdown/restart analysis,LCH-2376,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Vinicios Grein,18/2/2021,18/3/2021,28/Oct/22 8:01
+Java 11 on ci service request,LCH-2379,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Jared Gorski,18/2/2021,5/3/2021,01/Sep/22 4:57
+Activate SSO for Argus,LCH-2380,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,19/2/2021,24/2/2021,12/Sep/22 5:50
+Production Liferay service previously unavailable due to severe search errors,LCH-2381,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Kiana Suetani,19/2/2021,23/2/2021,31/Mar/22 3:13
+Search service always takes an extra 5 minutes to deploy due to error killing pod,LCH-2382,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Jared Gorski,20/2/2021,11/3/2021,02/Aug/22 4:31
+Preview URLs are not functioning in production environment,LCH-2383,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Carlos Carvalho,20/2/2021,9/3/2021,12/Oct/22 2:31
+Retrieve logs,LCH-2384,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,22/2/2021,3/3/2021,16/Aug/22 6:19
+Ghost Liferay instance in UAT,LCH-2389,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Liege Kluppel,23/2/2021,25/2/2021,06/Sep/22 12:06
+Elasticsearch cluster problem in UAT,LCH-2392,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Kiana Suetani,23/2/2021,1/3/2021,17/Feb/22 6:40
+lfrjarvis environment v4 orphaned services issue,LCH-2393,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Liege Kluppel,23/2/2021,25/2/2021,03/Dec/21 11:44
+All services goes down while deployment,LCH-2395,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Kiana Suetani,24/2/2021,26/2/2021,20/Jul/22 11:55
+Additional Dynatrace access for Jaguar,LCH-2396,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Carlos Carvalho,24/2/2021,2/3/2021,09/Feb/22 12:04
+Recommendation for Gradle Workspace version to use with DXP 7.2 FP10,LCH-2397,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Liege Kluppel,24/2/2021,2/3/2021,11/Jul/22 7:53
+VPN Connection doesn't work,LCH-2399,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Carlos Carvalho,24/2/2021,4/3/2021,22/Dec/21 3:08
+Investigating CI disk space issues and requesting quota increase for trimedxcustomerportal-infra,LCH-2400,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,24/2/2021,19/3/2021,26/May/22 8:26
+Dynatrace information loss,LCH-2401,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,24/2/2021,15/3/2021,15/Dec/21 6:14
+Request to clear the CDN’s cache for argusgroup-prod,LCH-2402,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,24/2/2021,3/3/2021,26/Aug/22 2:08
+PRD is down,LCH-2405,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Liege Kluppel,25/2/2021,1/3/2021,11/Jan/22 9:36
+Configure github repository through SSH with public and private keys,LCH-2406,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Carlos Carvalho,25/2/2021,4/3/2021,04/Dec/21 3:17
+Expose new database instance through the VPN tunnel for MB,LCH-2412,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Jared Gorski,25/2/2021,4/3/2021,11/Mar/21 1:47
+"Prod deployment attempting to update JVM parameters is unsuccessful, with OOM and “Unable to get cluster node with address” errors",LCH-2413,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,26/2/2021,5/3/2021,06/Jun/22 6:18
+Questions about lcp-secret-ci-cli-user and lcp-secret-ci-cli-password (follow up of LCH-2374),LCH-2417,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Jared Gorski,26/2/2021,3/3/2021,07/Dec/21 11:52
+O2CAREWEBSITE has exceeded their CPU plan,LCH-2418,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,István Gergely-Tárnoki,26/2/2021,5/3/2021,16/Nov/23 8:52
+Service liferay failed to connect to database and was restarted,LCH-2419,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Liege Kluppel,26/2/2021,8/3/2021,30/Nov/21 6:12
+Add user to Dynatrace,LCH-2420,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,2/3/2021,4/3/2021,11/Mar/21 1:47
+Error re-occurs on CI service: 'No disk space left on device',LCH-2421,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,2/3/2021,12/3/2021,24/May/22 12:19
+Showing that DB and all devices are encrypted,LCH-2422,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Jared Gorski,2/3/2021,15/3/2021,28/Oct/22 8:47
+Volumes permissions set to 777,LCH-2423,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,István Gergely-Tárnoki,2/3/2021,15/3/2021,16/Nov/23 8:52
+DB error while updating the image on UAT,LCH-2424,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Jared Gorski,2/3/2021,10/3/2021,29/Sep/22 11:03
+Database outage in the mbna-test environment,LCH-2425,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Jared Gorski,2/3/2021,18/3/2021,18/Aug/22 12:48
+Correct Dynatrace,LCH-2426,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,3/3/2021,9/3/2021,16/Jul/21 10:06
+Update nginx and HAProxy to the latest stable version,LCH-2427,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Jared Gorski,4/3/2021,12/3/2021,30/Sep/22 8:18
+Readiness probe failing,LCH-2428,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Renato Preuss Montanholi,4/3/2021,23/4/2021,09/Sep/22 5:34
+A new certificate for a new custom domain is not valid,LCH-2429,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,4/3/2021,12/3/2021,16/Jul/21 10:07
+Not able to build CI service due to 401 error,LCH-2430,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,4/3/2021,12/3/2021,09/Apr/21 5:25
+Improve IPSec VPN logging,LCH-2431,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Jared Gorski,4/3/2021,13/3/2021,20/Oct/22 7:41
+VPN Disconnects,LCH-2432,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,4/3/2021,24/3/2021,04/Dec/21 3:11
+Security scan analysis,LCH-2433,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,4/3/2021,18/3/2021,14/Mar/22 6:20
+User is not receiving Argus DXPC environment email invitations,LCH-2436,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,5/3/2021,11/3/2021,11/Mar/21 1:47
+Feature Request: Mail alert about build deployment,LCH-2437,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,5/3/2021,12/3/2021,01/Jun/22 1:32
+java.net.UnknownHostException: database--route: Name does not resolve,LCH-2438,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,8/3/2021,8/3/2021,02/Jun/22 4:17
+User Access adjustments for Argus Dynatrace instance,LCH-2440,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,8/3/2021,12/3/2021,23/Aug/22 9:07
+Streaming the liferay logs to Dynatrace logs,LCH-2441,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,8/3/2021,12/3/2021,16/Aug/22 3:45
+Requesting large amount of webserver logs,LCH-2442,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,9/3/2021,19/3/2021,16/Aug/22 3:39
+DEV environment inaccesible. shows the message: This server has not been activated with Liferay Connected Services.,LCH-2443,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Carlos Carvalho,9/3/2021,17/3/2021,25/Jan/22 6:10
+Multiple jobs/pipelines present in the lrtma Jenkins instance,LCH-2444,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,10/3/2021,12/3/2021,15/Feb/22 4:40
+Dynatrace Invitation and Variables,LCH-2446,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,10/3/2021,16/3/2021,07/Oct/22 9:57
+Builds failing in trimedxcustomerportal-infra due to an existing pipeline lock,LCH-2448,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,10/3/2021,29/3/2021,25/Aug/22 12:26
+The client lost the demo git repository,LCH-2449,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,11/3/2021,12/3/2021,19/Mar/21 6:22
+Webserver configurations cannot be updated to disable TLS1.0 and TLS1.1,LCH-2450,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,11/3/2021,18/3/2021,01/Feb/22 9:50
+Change SSL configuration from compatible to modern profile,LCH-2451,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,11/3/2021,15/3/2021,09/Apr/21 5:22
+Using the CLI’s lcp deploy command erases the git origin configuration,LCH-2452,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,11/3/2021,9/4/2021,04/Nov/22 10:52
+Client Request: Using Azure DevOps for their git repository,LCH-2454,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,11/3/2021,12/3/2021,20/Sep/22 6:09
+Unable to access shell in the mbna-prd environment,LCH-2458,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Daniel Franco,12/3/2021,12/3/2021,12/Mar/21 5:57
+Can not deploy hotfix,LCH-2463,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Brian Greenwald,15/3/2021,17/3/2021,05/Jul/22 9:32
+End point is not ready to receive requests,LCH-2464,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Brian Greenwald,16/3/2021,23/3/2021,19/Jul/22 8:40
+Temporary increase for MB,LCH-2467,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Brian Greenwald,16/3/2021,22/3/2021,16/Mar/22 7:05
+Service doesn't start,LCH-2468,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Brian Greenwald,16/3/2021,5/4/2021,05/Apr/21 5:56
+Registering custom domains for exposed ports,LCH-2469,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,16/3/2021,25/3/2021,22/Jun/22 3:04
+Questions about using the API to invalidate a client's CDN cache,LCH-2471,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Brian Greenwald,17/3/2021,26/3/2021,26/Aug/22 2:09
+Customer cannot restore dev environment,LCH-2473,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Timothy Bell,17/3/2021,20/4/2021,11/Aug/22 2:42
+Requesting disk space quota increase for trimedxcustomerportal-infra’s Jenkins instance,LCH-2474,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Vinicios Grein,17/3/2021,31/3/2021,27/May/22 10:54
+NPE after update to the last release,LCH-2475,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,17/3/2021,15/4/2021,16/Apr/21 4:14
+Build 377 never deploys to UAT,LCH-2476,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,18/3/2021,29/3/2021,30/Dec/21 10:45
+Error with scheduled backup,LCH-2478,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,19/3/2021,26/3/2021,26/Jul/22 9:05
+Custom services not able to be clustered together,LCH-2482,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,19/3/2021,23/4/2021,21/Jun/22 1:17
+Koroneiki UAT times out intermittently,LCH-2486,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,20/3/2021,14/5/2021,04/Dec/21 3:11
+When auto-scaling is disabled the single node goes down(?),LCH-2487,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,22/3/2021,22/3/2021,16/Apr/21 4:14
+Unable to register license after restoring a prd backup in uat,LCH-2488,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,22/3/2021,29/3/2021,11/Aug/22 10:40
+Obtain heap dump from container,LCH-2491,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,23/3/2021,25/3/2021,02/Jun/21 12:22
+CI builds failing,LCH-2492,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,23/3/2021,13/4/2021,04/Nov/22 10:51
+VPN not working in non-prd environments,LCH-2493,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,23/3/2021,25/3/2021,16/Jul/21 10:15
+the service in PRD has been lost during 20 minutes,LCH-2496,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Vinicios Grein,23/3/2021,8/4/2021,06/Oct/22 5:07
+Memory leak in DXP Cloud browser tab,LCH-2498,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Renato Preuss Montanholi,24/3/2021,19/5/2021,04/Dec/21 3:11
+Revealing a secret on Edit screen is not logged as Activity,LCH-2499,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,24/3/2021,24/3/2021,16/Apr/21 4:14
+Metrics period limitation,LCH-2500,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Brian Greenwald,25/3/2021,2/4/2021,16/Apr/21 4:14
+Back-off restarting failed container,LCH-2501,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,25/3/2021,29/3/2021,15/Aug/22 11:32
+Request: create read-only user for Jenkins,LCH-2502,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,25/3/2021,6/4/2021,11/Oct/22 12:33
+Webserver not resolving after custom domain change,LCH-2503,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,25/3/2021,8/4/2021,21/Sep/22 2:09
+questions about the service after adding a new custom domain,LCH-2506,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Jared Gorski,26/3/2021,8/4/2021,12/Jan/22 5:13
+Delete unused pipelines from STOXX's Jenkins,LCH-2507,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,István Gergely-Tárnoki,26/3/2021,26/3/2021,16/Nov/23 8:52
+Please provide binary logs for MARTINBROWER,LCH-2508,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,István Gergely-Tárnoki,26/3/2021,7/4/2021,16/Nov/23 8:52
+Heap dump request for kdolwebsite-prd,LCH-2509,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,26/3/2021,7/4/2021,08/Dec/21 5:09
+Network endpoints not reaching a ready status for many hours,LCH-2510,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,26/3/2021,10/5/2021,20/Jun/23 1:24
+"Old build of ""adminer"" and ""liferayupgrade"" running",LCH-2517,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,30/3/2021,30/3/2021,16/Apr/21 4:14
+Threat Stack service,LCH-2519,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,30/3/2021,8/4/2021,07/Feb/23 10:37
+I need to test a cluster in the supportes environment,LCH-2525,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,30/3/2021,30/3/2021,16/Apr/21 4:14
+Issues with failover replica,LCH-2526,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,30/3/2021,8/4/2021,17/Feb/22 6:20
+Prod down - readiness probe failing,LCH-2527,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,30/3/2021,31/3/2021,19/May/22 1:23
+Increase Custom Domains limit,LCH-2528,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,30/3/2021,31/3/2021,13/Oct/22 8:30
+Coronasahayata.in Production Site is Down,LCH-2530,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,31/3/2021,31/3/2021,16/Apr/21 4:14
+Autoscaling activities,LCH-2531,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Rita Tuan,31/3/2021,1/4/2021,01/Jun/22 9:48
+Escalation Critical Incident LCH-2530,LCH-2532,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,31/3/2021,31/3/2021,16/Apr/21 4:14
+Can not access webserver endpoint,LCH-2533,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Spencer Woo,31/3/2021,26/4/2021,16/Jun/22 3:29
+Backup creation fails with socket hang up error,LCH-2534,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Renato Preuss Montanholi,31/3/2021,3/5/2021,06/Sep/22 11:30
+Default domains aren't working,LCH-2535,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Ryan Nealeigh,31/3/2021,7/4/2021,30/Nov/21 5:45
+Restore failed / license not available,LCH-2536,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Renato Preuss Montanholi,31/3/2021,4/5/2021,11/Aug/22 8:21
+LCP deploy is not working,LCH-2537,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,High,Done,Eddie Olson,31/3/2021,31/3/2021,16/Apr/21 4:14
+Feature Request: Add Nginx Plus in webserver service,LCH-2538,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,1/4/2021,2/4/2021,16/Apr/21 4:14
+Backups are not being created,LCH-2539,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Jared Gorski,1/4/2021,6/4/2021,16/Jul/21 10:10
+Improvement request - CLI message for missing lcp.json,LCH-2540,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,1/4/2021,2/4/2021,16/Apr/21 4:14
+SSL Certificate did not auto-renew,LCH-2541,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,1/4/2021,12/4/2021,17/Aug/22 11:27
+"Instance restarted - Pod sandbox changed, it will be killed and re-created",LCH-2542,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,1/4/2021,13/4/2021,01/Jun/21 2:35
+SSL certificate Expired,LCH-2543,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,1/4/2021,13/4/2021,17/Aug/22 11:29
+Jenkins disk usage,LCH-2552,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Rita Tuan,5/4/2021,19/4/2021,16/Jul/21 9:34
+Liferay service in restart loop,LCH-2563,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,6/4/2021,15/4/2021,17/Oct/22 1:13
+Improvement Request - Create alert for cert renewal failure,LCH-2564,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,6/4/2021,7/4/2021,13/May/21 7:55
+"AC project owner cannot access environments, is instead redirected to the /projects page",LCH-2565,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,6/4/2021,30/4/2021,13/Dec/21 4:15
+CI has an unlimited access user to liferay.com internal services,LCH-2566,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Rita Tuan,7/4/2021,8/4/2021,03/Nov/22 12:43
+Improvement Request - Multiple Jenkins Credentials,LCH-2567,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,7/4/2021,7/4/2021,16/Apr/21 4:14
+Search service with expired license,LCH-2568,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,7/4/2021,13/4/2021,16/Aug/22 10:58
+Antivirus support,LCH-2570,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,8/4/2021,22/4/2021,07/Feb/23 10:37
+High disk Watermark on Search - DEV environment,LCH-2571,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,8/4/2021,21/4/2021,30/Dec/21 4:15
+Console SSO configuration request for lfrgeneralatlantic,LCH-2572,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Rita Tuan,8/4/2021,14/4/2021,07/Feb/23 10:37
+Requesting additional information about supporting multiple private keys,LCH-2574,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Nolan Chan,9/4/2021,28/4/2021,30/Nov/21 5:45
+VPN down in dev and UAT,LCH-2575,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Vinicios Grein,9/4/2021,15/4/2021,16/Jul/21 10:15
+Disable weak Ciphers,LCH-2578,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Vinicios Grein,12/4/2021,22/4/2021,29/Jun/22 9:18
+Questions about options for acquiring logs in an automated fashion,LCH-2579,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Nolan Chan,13/4/2021,27/4/2021,15/Aug/22 10:50
+UNAV Customer Portal performance testing window for April 2021,LCH-2580,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,13/4/2021,19/4/2021,27/Sep/22 1:15
+GC on Elasticsearch pod,LCH-2581,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,13/4/2021,19/4/2021,23/Apr/21 6:47
+Request: Dynatrace access in the UNAV project,LCH-2582,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,13/4/2021,16/4/2021,29/Sep/22 10:14
+"Multiple internal -prd and -uat environments disconnected from the VPN during last night's maintenance, and are unable to reconnect",LCH-2584,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Vinicios Grein,13/4/2021,15/4/2021,04/Dec/21 3:11
+Trying to upgrade to SP4,LCH-2586,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,14/4/2021,19/4/2021,01/Dec/21 4:50
+Request to disable TLS 1.0 and TLS 1.1 in utrgv-prd,LCH-2587,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,14/4/2021,16/4/2021,31/Oct/22 9:28
+The backup service autoscaled to 1 instances,LCH-2588,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Renato Preuss Montanholi,14/4/2021,1/6/2021,18/Feb/22 11:12
+Liferay service showing sql errors,LCH-2589,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,14/4/2021,30/4/2021,28/Oct/22 7:32
+The web.server.display.node property’s configuration is not reflected in UAT type environments,LCH-2590,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,14/4/2021,15/4/2021,15/Apr/21 8:02
+Database backup restore extremely slow,LCH-2593,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,15/4/2021,15/4/2021,20/Jan/22 5:39
+Questions about creating an alternate/custom CI,LCH-2594,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,15/4/2021,19/4/2021,07/Dec/21 4:51
+"Production Liferay service restarted after database went down, with logged “Pod sandbox changed, it will be killed and re-created” status message",LCH-2595,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,15/4/2021,19/5/2021,12/Jan/22 1:52
+The lctargusraylife-dev/team page is currently inaccessible after adding new users,LCH-2598,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Nolan Chan,15/4/2021,27/4/2021,06/Jan/22 9:09
+CI is not getting ready,LCH-2599,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,15/4/2021,16/4/2021,15/Aug/22 10:07
+"Storing the Dynatrace Tenant/Token in secret variables causes the ""Advanced"" tab to be hidden",LCH-2600,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,16/4/2021,19/4/2021,23/Apr/21 6:47
+"The ""Create Secret"" validation hides the required checkboxes, preventing secrets from being created after the required field is filled",LCH-2601,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,16/4/2021,19/4/2021,23/Apr/21 6:47
+Change SSL Policy,LCH-2602,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,16/4/2021,23/4/2021,07/Feb/23 10:37
+"User cannot access environments, is instead redirected to the /projects page",LCH-2603,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,16/4/2021,23/4/2021,07/May/21 7:18
+Autoscaling,LCH-2608,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,19/4/2021,21/4/2021,13/Jun/22 5:38
+Let's Encrypt certificates are not being created for all of the custom domains in UAT,LCH-2609,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,19/4/2021,22/4/2021,02/Apr/22 3:55
+NET::ERR_CERT_DATE_INVALID on PRD site,LCH-2611,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,19/4/2021,19/4/2021,23/Apr/21 6:47
+"Additional user cannot access environments, is instead redirected to the /projects page",LCH-2613,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,20/4/2021,30/4/2021,07/May/21 7:18
+Dynatrace invitation,LCH-2614,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,20/4/2021,22/4/2021,08/Jun/22 6:32
+"Production service restarted: ""Pod sandbox changed, it will be killed and re-created""",LCH-2615,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,20/4/2021,19/5/2021,13/Dec/21 6:42
+MBNA database replication mode migration - UAT,LCH-2616,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,20/4/2021,28/4/2021,15/Dec/21 6:44
+IOException when deploying a build on a running environment,LCH-2618,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,matheus.andrade,21/4/2021,24/5/2021,13/Jan/22 8:18
+Investigate services restarts,LCH-2619,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,21/4/2021,19/5/2021,21/Sep/22 9:19
+SSL errors on custom domain: External SSL certificate and key on custom domain is not being served and falling back on the default liferay.cloud certificate,LCH-2621,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,22/4/2021,27/4/2021,10/May/21 2:43
+Load balancer - Block traffic outside United States,LCH-2623,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,23/4/2021,26/4/2021,31/May/22 8:08
+Website was down on 04/20 at 21:11 GMT,LCH-2624,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ninaa Venegas,23/4/2021,6/5/2021,12/Jan/22 5:28
+Let's encrypt certificate messages in webserver logs,LCH-2625,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Nolan Chan,23/4/2021,19/5/2021,15/Aug/22 10:48
+WAF rules,LCH-2626,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,matheus.andrade,26/4/2021,13/5/2021,07/Feb/23 10:37
+VPN is down in PRD,LCH-2627,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,26/4/2021,26/4/2021,10/May/22 12:12
+PRD's DB is on read-only mode,LCH-2628,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,matheus.andrade,26/4/2021,29/4/2021,07/May/21 7:18
+"Additional environments cannot be accessed by users, as they are instead redirected to the /projects page",LCH-2629,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,26/4/2021,3/5/2021,07/May/21 7:18
+SKYTV: PROD Database is in Read-Only mode,LCH-2630,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,28/4/2021,29/4/2021,31/Dec/21 1:28
+The MySQL server is running with the --read-only option,LCH-2631,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,28/4/2021,30/4/2021,31/Dec/21 1:28
+Updated actions are not allowed: The MySQL server is running with the --read-only option,LCH-2632,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,28/4/2021,30/4/2021,29/Sep/22 8:44
+VPN down in PRD,LCH-2633,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,29/4/2021,29/4/2021,12/Jan/22 8:18
+Unable to use custom domains,LCH-2634,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,29/4/2021,6/5/2021,15/Aug/22 4:18
+VPN service blocked,LCH-2635,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,matheus.andrade,29/4/2021,30/4/2021,16/Jul/21 10:16
+Deployment fail for Backup service - timeout,LCH-2639,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,30/4/2021,18/5/2021,22/Aug/22 4:00
+VPN down in PRD,LCH-2640,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Nolan Chan,30/4/2021,10/5/2021,29/Nov/23 3:14
+Unable to access projects in DXP Cloud,LCH-2642,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,1/5/2021,13/5/2021,28/May/21 6:35
+Requesting Dynatrace access for users of STOXXHOSTING,:CH-2643,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,3/5/2021,10/1/2025,03/May/21 4:54
+Cannot read property 'timestamp' of undefined on CLI,LCH-2644,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,3/5/2021,4/5/2021,08/Feb/23 5:16
+Unable to restore a 19GB backup on environment,LCH-2646,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Renato Preuss Montanholi,4/5/2021,14/5/2021,20/Jan/22 5:38
+override -XX:NewSize and -XX:MaxNewSize with a ratio is not possible,LCH-2647,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,4/5/2021,11/5/2021,28/May/21 6:35
+Unable to acquire 24hrs of logging using the CLI,LCH-2648,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,5/5/2021,19/5/2021,04/Jul/22 8:41
+"Liferay service restart occurred (causing downtime) - ""Pod sandbox changed""",LCH-2649,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,5/5/2021,24/5/2021,12/Jan/22 1:47
+Thread dump request for pidilite-uat,LCH-2650,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Nolan Chan,5/5/2021,12/5/2021,30/Mar/22 12:41
+Liferay not starting due to database errors in KBC's environments in Private Cluster,LCH-2651,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,5/5/2021,13/5/2021,13/May/21 10:36
+Connection timeouts to many different services after restart,LCH-2653,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,6/5/2021,4/6/2021,17/Mar/22 2:22
+Expired certificate,LCH-2654,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Daniel Franco,6/5/2021,6/5/2021,08/Sep/22 3:23
+Request to shut down three private clusters,LCH-2656,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,6/5/2021,13/5/2021,28/May/21 6:35
+Webserver performance tuning reference,LCH-2657,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,7/5/2021,13/5/2021,28/May/21 6:35
+Periodic UnknownHostException on DXPC,LCH-2658,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Carlos Carvalho,7/5/2021,9/6/2021,28/Oct/22 6:06
+supportapac-bsuh environment v4 orphaned services issue,LCH-2659,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,No Longer Reproducible,Jordi Rodó,7/5/2021,13/5/2021,03/Jun/24 7:28
+Custom domains should show up on the network tab when the certs property is being used,LCH-2660,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Nolan Chan,7/5/2021,14/5/2021,20/Oct/22 5:57
+"DR environment's Let's Encrypt certificate did not auto-renew, leading to downtime after switching the DNS to the DR environment",LCH-2661,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,7/5/2021,27/5/2021,23/Aug/22 7:21
+Unable to login via SSO,LCH-2663,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,8/5/2021,10/5/2021,28/May/21 6:35
+Can not login to Console DXP Cloud,LCH-2664,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Albertinin Mourato,8/5/2021,8/5/2021,27/Mar/22 3:51
+Alert trigger details,LCH-2665,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,10/5/2021,14/5/2021,07/Feb/23 10:37
+Alternative to saving the SSL custom certificate on the LCP.json,LCH-2666,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Nolan Chan,10/5/2021,14/5/2021,22/Jun/22 9:24
+VPN restart for Klabin,LCH-2667,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,10/5/2021,11/5/2021,20/Oct/22 7:41
+New domains are not secure,LCH-2669,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Nolan Chan,11/5/2021,19/5/2021,08/Dec/21 5:25
+Dynatrace user administration request,LCH-2671,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Liege Kluppel,11/5/2021,17/5/2021,16/Jul/21 9:44
+"User cannot access environment, is instead redirected to the /projects page",LCH-2672,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Renato Preuss Montanholi,11/5/2021,14/5/2021,04/Dec/21 4:05
+Production downtime has been reported,LCH-2673,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,11/5/2021,20/5/2021,22/Aug/22 11:19
+Elasticsearch persistent storage increase from 100Gib to 300Gib for liferaycloud-ac4,LCH-2676,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,matheus.andrade,11/5/2021,13/5/2021,28/May/21 6:35
+Fragment module refresh after restart,LCH-2677,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,12/5/2021,21/5/2021,06/Sep/22 8:07
+Increase Jenkins' disk space for STOXX,LCH-2678,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,matheus.andrade,12/5/2021,14/5/2021,30/Nov/21 5:45
+How to use lcp login with --no-browser option on Windows 10,LCH-2679,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,12/5/2021,13/5/2021,18/Jul/22 9:24
+HTTP/2 in DXP Cloud,LCH-2680,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,12/5/2021,12/5/2021,28/Jun/22 9:40
+Builds sometimes failing with network errors,LCH-2681,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,12/5/2021,21/5/2021,03/Oct/22 10:25
+Dynatrace permissions questions,LCH-2684,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,14/5/2021,24/5/2021,30/Nov/21 5:45
+DXP Cloud account creation confirmation email,LCH-2685,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,15/5/2021,21/5/2021,04/Nov/22 10:12
+Koroneiki UAT times out intermittently,LCH-2686,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Demetrius Lima,15/5/2021,17/6/2021,04/Dec/21 3:11
+CI failure after Stack upgrade,LCH-2687,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,17/5/2021,28/5/2021,28/May/21 6:35
+No Space Left on Device error,LCH-2688,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,17/5/2021,27/5/2021,24/May/22 11:26
+DXPC CI is not building,LCH-2692,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Paulo Stanize,18/5/2021,9/6/2021,15/Jun/22 12:09
+Heapdumps request for pidilite-prd,LCH-2694,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,matheus.andrade,18/5/2021,27/5/2021,02/Jun/21 12:21
+Customer wants to whitelist IP Liferay services,LCH-2695,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,18/5/2021,25/5/2021,30/Nov/21 5:45
+SSO SP Configuration Request for MBOCP,LCH-2696,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,18/5/2021,7/6/2021,15/Feb/23 6:51
+PRD unstable,LCH-2697,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,18/5/2021,20/5/2021,28/May/21 6:35
+Dynatrace Users,LCH-2699,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,18/5/2021,20/5/2021,15/Feb/23 6:51
+Liferay service restarted on it's own,LCH-2701,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,19/5/2021,4/6/2021,07/Jun/21 8:13
+Implement HSTS on DXP Cloud,LCH-2702,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,19/5/2021,1/6/2021,27/Oct/22 3:13
+"User cannot access environment, is instead redirected to the /projects page",LCH-2703,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Demetrius Lima,19/5/2021,31/5/2021,13/Dec/21 4:16
+Restricting access by Geographical Location in Webserver,LCH-2704,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,20/5/2021,25/5/2021,23/Sep/22 4:21
+Build stuck in DEV,LCH-2705,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,20/5/2021,10/6/2021,03/Nov/22 9:58
+Feature Request: Crontab on Webserver service,LCH-2706,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,20/5/2021,24/5/2021,15/Aug/22 8:44
+VPN on DEV is not responding,LCH-2707,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,20/5/2021,7/6/2021,08/Jun/21 1:27
+Error pushing an updated build (Only difference is an updated WAR) build 404 -> 406,LCH-2709,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,20/5/2021,1/6/2021,07/Jun/21 8:13
+Are we allowed to share APIs with customers?,LCH-2710,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,21/5/2021,26/5/2021,28/May/21 6:35
+Open VPN Issue,LCH-2711,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,21/5/2021,8/6/2021,16/Aug/22 3:06
+Increase disk space for Elasticsearch,LCH-2712,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,21/5/2021,4/6/2021,30/Nov/21 5:45
+Why was the Liferay service automatically shutdown on a DXPC Prod Instance?,LCH-2713,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,24/5/2021,31/5/2021,17/Aug/22 11:33
+Add Dynatrace User,LCH-2714,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,24/5/2021,27/5/2021,28/May/21 6:35
+Feature Request: Manage Users Account Permission for Dynatrace,LCH-2716,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,25/5/2021,25/5/2021,30/Nov/21 5:45
+Customer(integration team) is not able to connect to NA prod database,LCH-2717,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,matheus.andrade,25/5/2021,1/6/2021,28/Jan/22 6:15
+CI service failing,LCH-2718,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,25/5/2021,28/5/2021,28/May/21 11:45
+Performance tests in UAT,LCH-2719,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,26/5/2021,28/5/2021,07/Jun/21 8:13
+Webserver service lost connection with the Liferay service causing the downtime,LCH-2720,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,26/5/2021,31/5/2021,11/Nov/22 11:57
+Error updating the CI to the jenkins:2.277.4-4.2.2 versin. Failed to load plugin.,LCH-2721,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,26/5/2021,28/5/2021,04/Oct/22 11:06
+Backup creation fails with ECONNRESET,LCH-2724,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,27/5/2021,16/7/2021,06/Sep/22 11:18
+Add user to Dynatrace,LCH-2725,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,27/5/2021,31/5/2021,15/Dec/21 6:14
+Liferay deployment ERROR: error fetching storage source: generic::unknown: retry budget exhausted,LCH-2728,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,27/5/2021,9/6/2021,09/Jun/21 3:54
+Rotate CLI credentials for supportlatam CI service,LCH-2730,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,28/5/2021,3/6/2021,07/Jun/21 8:13
+Increase the number of collaborators for STOXX,LCH-2731,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Renato Preuss Montanholi,28/5/2021,7/6/2021,30/Nov/21 5:45
+Default secrets cannot be edited and UI fails to load when the Liferay service is not present,LCH-2732,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Nolan Chan,28/5/2021,11/6/2021,15/Jul/21 1:10
+Add user to Dynatrace,LCH-2733,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,31/5/2021,31/5/2021,07/Sep/22 12:15
+"Production service restarted: ""Pod sandbox changed, it will be killed and re-created""",LCH-2734,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,1/6/2021,1/6/2021,06/Dec/21 1:31
+"Production service restarted: ""Pod sandbox changed, it will be killed and re-created""",LCH-2735,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,1/6/2021,1/6/2021,07/Jun/21 8:13
+401 Access denied. User is missing or has incorrect credentials,LCH-2736,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,1/6/2021,2/6/2021,07/Jun/21 8:13
+"Backups are inaccessible in the UI with ""Cannot read property 'creator_email' of undefined"" error in logs",LCH-2737,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,andrew betts,1/6/2021,11/6/2021,15/Aug/22 10:44
+"User cannot access environment, is instead redirected to the /projects page",LCH-2740,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Nolan Chan,2/6/2021,10/6/2021,13/Dec/21 4:16
+Liferay is loosing connection with Database,LCH-2741,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,2/6/2021,4/6/2021,18/Jul/22 8:40
+Liferay keeps restarting,LCH-2742,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,2/6/2021,17/6/2021,18/Apr/22 7:30
+Add user to Dynatrace,LCH-2743,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,2/6/2021,7/6/2021,07/Jun/21 6:24
+"Despite showing “connected” status, VPN actions in multiple projects are failing and resulting in HttpHostConnectException ‘Operation timed out‘ messages",LCH-2744,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,2/6/2021,7/6/2021,04/Dec/21 3:25
+Liferay Instance's memory issue,LCH-2745,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,2/6/2021,7/7/2021,09/Aug/22 11:02
+Pod sandbox changed: will be killed and restarted.,LCH-2746,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,2/6/2021,2/6/2021,13/Jan/22 7:28
+Unable to Download Logs from Console,LCH-2748,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,2/6/2021,4/6/2021,07/Jun/21 8:13
+Restoration events taking much longer than expected in liferaywww,LCH-2749,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,3/6/2021,16/6/2021,09/Feb/22 11:47
+Request to fully remove and re-provision liferaygs project,LCH-2752,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,3/6/2021,16/6/2021,16/Jun/21 7:23
+Unable to download logs,LCH-2753,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,3/6/2021,4/6/2021,07/Jun/21 8:13
+Can not download logs,LCH-2754,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,3/6/2021,4/6/2021,15/Aug/22 10:42
+Can't download logs,LCH-2755,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,István Gergely-Tárnoki,3/6/2021,4/6/2021,16/Nov/23 8:52
+Downtime during deploy (HTTP 503),LCH-2757,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,3/6/2021,24/6/2021,04/Dec/21 2:58
+Disable TLS 1.0 and 1.1,LCH-2761,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Pedro Henrique Kuhn Mastelaro Silva,4/6/2021,9/6/2021,28/Oct/22 1:30
+Add read-only user to STOXXHOSTING's Dynatrace,LCH-2764,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,István Gergely-Tárnoki,7/6/2021,8/6/2021,16/Nov/23 8:52
+VPN tunnel is down,LCH-2765,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,7/6/2021,7/6/2021,07/Jun/21 8:13
+High Memory Usage alert,LCH-2766,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,7/6/2021,28/6/2021,28/Sep/22 8:46
+Requesting disk space quota increase for trimedxcustomerportal-infra’s Jenkins instance,LCH-2768,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Paulo Stanize,8/6/2021,9/6/2021,25/Mar/22 6:14
+CI is not building because no space left,LCH-2770,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,8/6/2021,10/6/2021,11/Jun/21 7:22
+Change SSL Policy to Modern,LCH-2771,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Pedro Henrique Kuhn Mastelaro Silva,8/6/2021,11/6/2021,27/Jul/22 1:53
+High memory usage,LCH-2772,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,8/6/2021,17/6/2021,07/Apr/22 1:28
+Insecure cypher protocols used,LCH-2774,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Nolan Chan,9/6/2021,14/6/2021,19/Jan/22 11:38
+HA Migration,LCH-2776,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,9/6/2021,17/6/2021,29/Sep/22 8:45
+HA Migration,LCH-2777,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,9/6/2021,19/6/2021,29/Sep/22 8:44
+HA Migration,LCH-2778,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,9/6/2021,15/6/2021,29/Sep/22 8:44
+Unable to access Team page in SUPPORTES-infra environment,LCH-2779,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Paulo Stanize,10/6/2021,18/6/2021,18/Jun/21 4:48
+Disk usage in Liferay Pod,LCH-2781,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Demetrius Lima,10/6/2021,22/6/2021,17/Aug/22 2:56
+Disable TLS 1.0 & TLS 1.1 for KBCBANKIRELAND,LCH-2782,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,István Gergely-Tárnoki,11/6/2021,16/6/2021,16/Nov/23 8:52
+The production is down with the error [JDBCExceptionReporter:234],LCH-2785,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,14/6/2021,6/7/2021,18/Oct/22 5:15
+Custom cypher profile for FCCDIGITALSERVICES,LCH-2786,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Pedro Henrique Kuhn Mastelaro Silva,14/6/2021,18/6/2021,31/Jan/22 1:34
+Please evaluate the customer's security report,LCH-2787,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,14/6/2021,1/7/2021,20/Oct/22 10:22
+Export certificate format .pfx,LCH-2788,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Pedro Henrique Kuhn Mastelaro Silva,14/6/2021,18/6/2021,01/Apr/22 2:52
+SSL Cert Renewal,LCH-2789,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,14/6/2021,29/6/2021,17/Aug/22 11:28
+layout.show.http.status=false does not work,LCH-2790,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,andrew betts,15/6/2021,17/6/2021,17/Jun/21 7:23
+Saving VPN configuration fails,LCH-2791,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,15/6/2021,21/6/2021,21/Jun/21 7:21
+Increase Disk size for Klabin's DEV Search service,LCH-2793,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,15/6/2021,17/6/2021,19/Jul/24 6:12
+UAT env is completely shut down after attempting to restore db,LCH-2794,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,15/6/2021,17/6/2021,28/Sep/22 9:08
+Request to increase quota amounts for lrpartner project,LCH-2795,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,15/6/2021,17/6/2021,11/May/22 9:44
+"500 error when accessing sapphireprojemu project's ""Team"" link in DXP Cloud Console",LCH-2796,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Demetrius Lima,16/6/2021,24/6/2021,06/Dec/21 7:45
+"User cannot access environment, is instead redirected to the /projects page",LCH-2797,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,16/6/2021,24/6/2021,22/Jun/22 6:08
+is it supported to modify LCP_BACKUP_FOLDER?,LCH-2798,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,16/6/2021,17/6/2021,21/Feb/22 9:46
+UAT site unresponsive,LCH-2799,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,16/6/2021,23/6/2021,23/Jun/21 12:25
+Client reaches the again the custom domain limit.,LCH-2800,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Demetrius Lima,17/6/2021,30/7/2021,11/May/22 10:38
+Avoid caching some urls into the CDN,LCH-2802,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Demetrius Lima,17/6/2021,7/7/2021,13/Jan/22 4:11
+"User cannot access environment, is instead redirected to the /projects page",LCH-2803,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,17/6/2021,24/6/2021,22/Jun/22 6:08
+UI got distorted in all environments with NoNodeAvailableException in Liferay service,LCH-2804,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,18/6/2021,21/6/2021,22/Jun/21 12:32
+NoNodeAvailableException error. Portal stopped working,LCH-2805,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,18/6/2021,21/6/2021,17/Oct/22 9:07
+TMA Back up database is missing,LCH-2806,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,18/6/2021,22/6/2021,24/Jun/22 12:50
+"User and Application Interface Templates display issues (DEV, UAT)",LCH-2807,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,18/6/2021,23/6/2021,23/Jun/21 4:56
+Error after Build CI/CD in DEV UAT,LCH-2808,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,18/6/2021,22/6/2021,04/Jul/22 2:11
+Disable TLS < 1.2 in leehealth1916 DXPC Environments,LCH-2809,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,18/6/2021,22/6/2021,15/Feb/23 6:51
+Unable to restore any backup to -dev environment due to 500 error,LCH-2810,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,19/6/2021,25/6/2021,15/Feb/22 1:09
+prod tab does not appear in DR environment,LCH-2811,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,21/6/2021,6/7/2021,30/Nov/21 5:45
+Heap Dumps. Liferay Instance's memory issue,LCH-2812,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,21/6/2021,22/6/2021,19/Jan/22 9:08
+How to monitor ehCache caches in Liferay DXP Cloud?,LCH-2813,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,21/6/2021,22/6/2021,24/Jun/21 6:22
+Builds are triggered from multiple branches when there's a push to only one branch,LCH-2815,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,21/6/2021,9/7/2021,27/Oct/22 11:19
+Unable to navigate within dxp cloud environment,LCH-2818,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Paulo Stanize,22/6/2021,23/6/2021,23/Jun/21 7:43
+Jenkins fails all new builds,LCH-2819,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,22/6/2021,22/6/2021,21/Jun/22 9:56
+Unable to login into DXPC console,LCH-2820,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,22/6/2021,22/6/2021,28/Sep/22 12:10
+Infra environment doesn't work properly,LCH-2821,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,22/6/2021,24/6/2021,13/May/22 10:22
+Add user to Github,LCH-2822,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,22/6/2021,23/6/2021,08/Jul/22 9:17
+VODAFONEUKCP conducting PEN tests 06.21-07.31.,LCH-2823,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,István Gergely-Tárnoki,22/6/2021,22/6/2021,16/Nov/23 8:52
+How to use Liferay's OpenOffice integration feature in a DXP Cloud environment,LCH-2825,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,23/6/2021,6/7/2021,16/Nov/22 4:00
+Add users to Dynatrace,LCH-2826,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,24/6/2021,24/6/2021,16/Jul/21 10:06
+Disable TLS 1.0 and 1.1 on DEV and UAT,LCH-2827,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Pedro Henrique Kuhn Mastelaro Silva,24/6/2021,25/6/2021,25/Jun/21 7:21
+Deshabilitar protocolo TLS 1.0 y TLS 1.1,LCH-2828,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Pedro Henrique Kuhn Mastelaro Silva,24/6/2021,25/6/2021,08/Feb/22 5:36
+Deactivate TLS: TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048),LCH-2831,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Pedro Henrique Kuhn Mastelaro Silva,24/6/2021,25/6/2021,03/Jun/22 5:38
+Images of the environment's localization are not loading in DXP cloud console,LCH-2832,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,25/6/2021,19/7/2021,20/Jul/21 10:15
+Backup not working: DatabaseUnavailableError: A backup is in progress,LCH-2833,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,25/6/2021,1/7/2021,24/Aug/22 9:25
+COUNCICOEINT insists to use hot deployments and session replication in DXP Cloud,LCH-2834,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,István Gergely-Tárnoki,25/6/2021,30/6/2021,16/Nov/23 8:52
+Jenkins is down,LCH-2835,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,25/6/2021,28/6/2021,02/Sep/22 6:19
+Please change jmliferay-dev2 to jmliferay-test,LCH-2837,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,28/6/2021,7/7/2021,18/May/22 2:41
+Admin users did not receive initial invitation emails for the dynasolpublicweb project,LCH-2838,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,28/6/2021,13/7/2021,12/Jan/22 12:10
+PUMAMADONNA provisioning questions,LCH-2839,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,29/6/2021,30/6/2021,22/Mar/22 3:04
+Analytics Cloud Clusters Restart,LCH-2841,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,30/6/2021,4/7/2021,04/Jul/21 11:00
+Koroneiki UAT times out intermittently,LCH-2842,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Demetrius Lima,30/6/2021,19/7/2021,04/Dec/21 3:11
+Liferay Service is getting restarted because of readiness and liveness probe failure,LCH-2843,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,1/7/2021,14/7/2021,12/Jan/22 4:43
+500 Internal Server Error when opening cove-st1 and cove-st4 Teams,LCH-2844,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,István Gergely-Tárnoki,1/7/2021,13/7/2021,16/Nov/23 8:52
+Unable to configure the Jenkins/CI to connect with gitlab,LCH-2849,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,2/7/2021,8/7/2021,04/Dec/21 2:29
+Dynatrace Setup for PUMAMADONNA,LCH-2851,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,5/7/2021,6/7/2021,16/Feb/22 4:24
+Analytics Cloud Clusters Restart - increase space,LCH-2852,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,7/7/2021,8/7/2021,09/Jul/21 7:22
+list of all users having access to Dynatrace,LCH-2853,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,7/7/2021,16/7/2021,06/Dec/21 8:57
+Remove the Evicted backup pods from europe-west2-c1,LCH-2854,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,István Gergely-Tárnoki,7/7/2021,8/7/2021,16/Nov/23 8:52
+Gitlab Branch Source plugin has started to fail: Expecting a valid secret token,LCH-2855,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,7/7/2021,8/7/2021,28/Jul/22 9:42
+Max services quota increase request for trimedxcustomerportal,LCH-2860,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,8/7/2021,13/7/2021,30/May/22 9:40
+Liferay keeps restarting,LCH-2861,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,9/7/2021,15/7/2021,30/Mar/22 9:26
+User change on Bitbucket is not reflected and not allowing to make further deployments,LCH-2862,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,9/7/2021,13/7/2021,18/Apr/22 7:30
+Dynatrace user administration request - ALEXION,LCH-2863,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,12/7/2021,14/7/2021,20/Jul/21 10:08
+Disable TLS 1.0 and 1.1 and disable weak cyphers,LCH-2864,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,12/7/2021,22/7/2021,26/Oct/22 6:40
+Analytics Cloud UAT (Staging) Cluster Setup,LCH-2865,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,12/7/2021,16/7/2021,16/Jul/21 7:22
+backups are failing due to max_allowed_packet exceed error,LCH-2871,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,13/7/2021,30/7/2021,30/Jul/21 2:57
+Add user to Dynatrace,LCH-2872,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,13/7/2021,14/7/2021,04/Dec/21 2:57
+Backup Restore Is Inaccessible,LCH-2873,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,14/7/2021,14/7/2021,20/Jul/21 10:07
+DXP cloud platform backup page is blank,LCH-2874,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,14/7/2021,16/7/2021,14/Dec/21 4:13
+AAIB pentests on 25th of July,LCH-2876,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,14/7/2021,14/7/2021,15/Jul/21 6:17
+Request for JVM Logs from July 9 and July 10,LCH-2877,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,14/7/2021,21/7/2021,12/Jan/22 3:37
+Team screen not accesible in PRD environment - 500 error,LCH-2878,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,15/7/2021,20/7/2021,22/Jun/22 6:08
+Invalid Cert for new custom domain,LCH-2879,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Demetrius Lima,15/7/2021,16/7/2021,20/Jul/21 10:04
+Ci service not getting to ready state after a manual restart,LCH-2880,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,15/7/2021,5/8/2021,31/Jan/23 8:24
+Thread dump request for pumamadonna-prd,LCH-2881,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ryan Nealeigh,16/7/2021,23/7/2021,15/Mar/22 9:20
+Unable to load Backups on MBNA & MB Europe Backup Pages,LCH-2882,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,16/7/2021,21/7/2021,14/Jan/22 8:56
+Need to know when an Elasticsearch image for 6.8.17 will be released for DXP Cloud,LCH-2883,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,16/7/2021,20/7/2021,13/Sep/21 10:07
+DBA Role,LCH-2884,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,16/7/2021,21/7/2021,20/Jan/22 2:03
+Backups fail with Socket hang up error on the 15th of July,LCH-2888,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,16/7/2021,26/7/2021,24/Aug/22 9:33
+Connect CI to a private internal bitbucket,LCH-2889,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,19/7/2021,20/7/2021,03/Dec/21 10:38
+Sitemap.xml for DXP Cloud,LCH-2890,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Adam Brandizzi,20/7/2021,30/7/2021,30/Jul/21 3:07
+Add Marcellus Tavares as owner on GCP project in LCH-2865 and add visibility in DXPC project list,LCH-2891,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,20/7/2021,23/7/2021,19/Aug/22 12:51
+Endpoint https://osbasahmonolith-asahf026cf5b78aa4192bcdab4aaa3cabfb0.lfr.cloud/ is unresponsive,LCH-2892,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,20/7/2021,22/7/2021,22/Jul/21 10:36
+Cert is not being created for new custom domains,LCH-2893,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Demetrius Lima,20/7/2021,30/7/2021,16/Dec/21 8:00
+Failed maintenance on the database service,LCH-2894,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,21/7/2021,24/7/2021,01/Sep/21 6:36
+Old backups within 30 days not available,LCH-2895,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,21/7/2021,13/8/2021,21/Jan/22 5:14
+Change SSL Policy to Modern,LCH-2896,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,22/7/2021,22/7/2021,06/Sep/21 2:34
+Apply modern profile on Interbank's UAT,LCH-2897,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,22/7/2021,23/7/2021,31/Jan/22 2:05
+Invalid prod certificate,LCH-2901,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,22/7/2021,5/8/2021,22/Sep/22 4:16
+Deployments are failing,LCH-2902,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,23/7/2021,23/7/2021,08/Oct/22 3:25
+"Deployments are failing: Back-off pulling image ""gcr.io/liferaycloud/4kvgqlvp0b3e16hz38edxgl67:327""",LCH-2903,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,23/7/2021,23/7/2021,06/Dec/21 4:21
+New custom domains are unsecure,LCH-2905,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,23/7/2021,20/8/2021,30/Aug/22 12:49
+"Deploying stack updates for 7.2 or 7.3, fails on the liferay deploy",LCH-2906,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Adam Brandizzi,24/7/2021,9/8/2021,14/Sep/21 3:53
+Dynatrace access for JOHNSONMCUSTOM,LCH-2907,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,26/7/2021,28/7/2021,10/Oct/22 4:36
+RECC Portal will carry out penetration test between July 26 and Aug 2,LCH-2908,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,26/7/2021,29/7/2021,07/Feb/23 10:37
+Secrets are not created for deployments,LCH-2909,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Demetrius Lima,26/7/2021,6/8/2021,15/Feb/23 6:51
+Increase Disk size for P&G's DEV Search service,LCH-2910,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,26/7/2021,27/7/2021,18/Apr/22 8:26
+Certificates not generated for custom domains,LCH-2912,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,27/7/2021,28/7/2021,12/Sep/22 11:35
+Liferay Cloud Platform Maintenance - Cluster Upgrade Maintenance,LCH-2913,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,28/7/2021,20/8/2021,20/Aug/21 1:50
+"Request to remove corrupted volumes following ""killed"" error encountered during backup volume restoration event",LCH-2915,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Adam Brandizzi,29/7/2021,26/8/2021,11/Aug/22 2:43
+Cannot proceed with the login process,LCH-2916,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,29/7/2021,18/8/2021,02/Dec/21 8:15
+Using nmap over ingress ip report several open ports,LCH-2917,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,29/7/2021,10/8/2021,09/Jun/22 4:21
+Please delete unused customer environments,LCH-2918,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,30/7/2021,11/8/2021,04/Dec/21 3:07
+Courtesy page during Cluster Upgrade Maintenance,LCH-2919,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,30/7/2021,4/8/2021,13/Jul/22 6:03
+Increase Elasticsearch storage space in Analytics Cloud UAT (Staging) Cluster Setup,LCH-2920,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,30/7/2021,5/8/2021,12/Jan/23 2:38
+Vodafone would like to know the password for cove@liferay.com,LCH-2921,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,2/8/2021,6/8/2021,06/Aug/21 7:22
+Enabling CDN affects max-age,LCH-2922,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Renato Preuss Montanholi,2/8/2021,19/8/2021,20/Sep/21 6:13
+Selecting a database TGZ from Backup does not populate the file picker with the file name,LCH-2924,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,4/8/2021,17/8/2021,14/Sep/21 3:11
+Include read-only users to JAGUARGRP's Dynatrace,LCH-2925,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,István Gergely-Tárnoki,4/8/2021,12/8/2021,16/Nov/23 8:52
+Self signed certificate for each virtual instances,LCH-2926,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,4/8/2021,20/8/2021,11/May/22 10:41
+Access to Analytics Cloud Repos on Docker Hub,LCH-2927,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Daniel Franco,4/8/2021,4/8/2021,19/Aug/22 4:43
+Backup creation failed 2 times for the customer,LCH-2928,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Fixed,Adam Brandizzi,4/8/2021,24/9/2021,28/Sep/21 2:30
+Please generate sp metadata for the customer for SSO,LCH-2931,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,5/8/2021,19/8/2021,28/Jun/22 7:30
+Cannot Create Secrets After Leaving a Field Blank,LCH-2932,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,5/8/2021,25/8/2021,10/Jun/22 1:38
+Source code access request for ANALYTICS projects,LCH-2935,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,6/8/2021,12/8/2021,16/Aug/21 6:45
+Unable to deploy on DXP Cloud due to ERROR: Error fetching remote repo 'origin',LCH-2936,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Adam Brandizzi,9/8/2021,10/9/2021,12/May/22 6:46
+Please disable TLS v1.0 for customer,LCH-2937,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,10/8/2021,11/8/2021,07/Feb/23 10:37
+PRD to DR Backup-Restore failed,LCH-2938,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Adam Brandizzi,10/8/2021,19/8/2021,19/Aug/21 4:08
+Add user to Dynatrace,LCH-2941,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,10/8/2021,11/8/2021,20/Aug/21 2:56
+VPN is intermittent on Klabin's PRD,LCH-2942,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Matheus Monteiro,11/8/2021,16/8/2021,16/Aug/21 9:20
+Malware could be uploaded in Document and media,LCH-2943,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,11/8/2021,20/8/2021,06/Dec/21 7:44
+Another PRO environment request for FCCDIGITALSERVICES,LCH-2944,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,11/8/2021,16/8/2021,07/Jan/22 10:57
+Disable weak cipher suites,LCH-2945,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,12/8/2021,19/8/2021,11/Oct/22 12:33
+Please provide a Jenkins server to ANALYTICS,LCH-2946,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,István Gergely-Tárnoki,12/8/2021,25/8/2021,16/Nov/23 8:52
+Liferay Jenkins CI Memory / CPU issues,LCH-2947,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,12/8/2021,25/8/2021,16/Sep/22 8:53
+500 Errors on Console,LCH-2948,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Albertinin Mourato,13/8/2021,13/8/2021,17/Aug/21 1:34
+Errors when trying to restore from backup,LCH-2950,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,13/8/2021,24/9/2021,28/Sep/22 9:07
+VPN is intermittent in PRD,LCH-2954,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,16/8/2021,19/8/2021,17/Dec/21 4:39
+Increase collaborator limit,LCH-2955,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,17/8/2021,20/8/2021,07/Feb/23 10:37
+Lack of java.locale.providers in Liferay Service,LCH-2956,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,17/8/2021,27/8/2021,19/Sep/21 6:10
+Add additional users to Dynatrace account,LCH-2957,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,18/8/2021,23/8/2021,07/Feb/23 8:09
+Create a Streamlined Process for Installing Fixpacks,LCH-2960,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,19/8/2021,20/8/2021,30/Nov/21 6:05
+Change project's Location,LCH-2961,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,20/8/2021,6/9/2021,04/Dec/21 4:15
+Client’s -dr environment was provisioned to the same data center as -prd,LCH-2962,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,20/8/2021,23/8/2021,23/Aug/21 6:26
+Dynatrace access for liferaywww,LCH-2964,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,20/8/2021,23/8/2021,23/Aug/21 6:48
+Ourloungecloud penetration testing planned for Aug. 20-21,LCH-2965,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,20/8/2021,22/8/2021,06/Sep/22 10:07
+ci jenkins service unable to start,LCH-2966,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Renato Preuss Montanholi,23/8/2021,25/8/2021,22/Aug/22 1:08
+UTR Prod environment can not be logged into and is encountering numerous time out issues,LCH-2967,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,23/8/2021,26/8/2021,07/Jan/22 10:06
+Kablin's VPN on PRD is presenting intermittency,LCH-2968,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ronald Carvalho,23/8/2021,22/10/2021,22/Oct/21 7:22
+How to implement NIST DFARS security scans in DXPC environments,LCH-2969,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,23/8/2021,30/8/2021,04/Dec/21 4:04
+Add user to lvhnextranet dynatrace account,LCH-2970,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,24/8/2021,26/8/2021,10/Sep/21 3:27
+Heap dumps for daikingip-dev/liferay,LCH-2971,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,24/8/2021,30/8/2021,01/Mar/22 5:30
+Module and Fragment not working after restart of service,LCH-2972,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,24/8/2021,8/9/2021,20/May/22 6:40
+Disabling TLS 1.0 & 1.1,LCH-2976,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Luana Carvalho,25/8/2021,1/9/2021,08/Apr/22 7:44
+Request to add users to ALEXION Dynatrace account,LCH-2977,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,25/8/2021,30/8/2021,10/Sep/21 3:27
+Increase limit on lrprovisioning project,LCH-2979,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,25/8/2021,27/8/2021,04/Dec/21 3:10
+Access to Dynatrace,LCH-2980,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,26/8/2021,30/8/2021,30/Aug/21 10:09
+Add user to JAGUARGRP's Dynatrace,LCH-2981,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,István Gergely-Tárnoki,26/8/2021,1/9/2021,16/Nov/23 8:52
+Status Alert trigger,LCH-2983,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,27/8/2021,15/9/2021,20/Apr/22 2:56
+Revoke access for user in JAGUARGRP's Dynatrace,LCH-2984,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,István Gergely-Tárnoki,27/8/2021,1/9/2021,16/Nov/23 8:52
+Please confirm that the IPs are not blocked,LCH-2985,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,27/8/2021,1/9/2021,01/Sep/21 1:30
+ATLANTIAPUBWEB penetration testing on September 13,LCH-2987,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,30/8/2021,31/8/2021,28/Sep/22 5:03
+Can not connect to OpenVPN server,LCH-2988,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ronald Carvalho,30/8/2021,14/9/2021,04/Dec/21 2:59
+Database Open Access issue flagged by client's penetration test security report,LCH-2992,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,30/8/2021,10/9/2021,13/Jan/22 8:27
+Jenkins build fails with ERROR: the command ... had an exit value of 1,LCH-2993,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Completed,Eddie Olson,31/8/2021,1/9/2021,09/Nov/22 1:39
+Builds fail due to no space left on device,LCH-2994,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,31/8/2021,1/9/2021,01/Sep/21 1:29
+Let's Encrypt PRD Certificate Expired,LCH-2996,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,31/8/2021,1/9/2021,14/Sep/21 2:31
+Remove users access to Dynatrace account,LCH-3000,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,6/9/2021,8/9/2021,16/Mar/23 4:46
+Remove users access to Dynatrace account,LCH-3001,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,6/9/2021,8/9/2021,27/Jan/23 4:06
+webserver in prd3 does not found the proxy in prd: host not found in upstream,LCH-3002,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,6/9/2021,15/9/2021,07/Jan/22 10:43
+Change SSL Policy to Modern,LCH-3003,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ronald Carvalho,6/9/2021,10/9/2021,10/Sep/21 7:24
+Re-invite the users to GitHub repository,LCH-3004,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,7/9/2021,8/9/2021,06/Dec/21 6:13
+Available disk space for custom service,LCH-3005,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,7/9/2021,17/9/2021,06/Dec/21 6:54
+Disable weak cipher suites,LCH-3006,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ronald Carvalho,8/9/2021,15/9/2021,11/Oct/22 12:33
+Restore never ends,LCH-3007,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Adam Brandizzi,8/9/2021,18/9/2021,03/Oct/22 4:57
+Please add user to JAGUARGRP's Dynatrace.,LCH-3008,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,8/9/2021,10/9/2021,14/Sep/21 10:37
+Requesting a temporary production single node instance for ARGUSCP,LCH-3010,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,9/9/2021,9/9/2021,15/Sep/21 10:30
+Change project's Location,LCH-3011,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,9/9/2021,13/9/2021,20/Jun/22 3:12
+Add user to both MARTINBROWER projects' Dynatrace,LCH-3013,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,10/9/2021,15/9/2021,17/Sep/21 8:09
+Deployed theme uses external library authentication,LCH-3014,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Sivakumar Perumal,10/9/2021,26/10/2021,04/Jul/22 8:20
+"After yesterday's Oregon maintenance, the CI service appears as ""not ready"" and user is not able to deploy due to quota exceeded",LCH-3015,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,10/9/2021,21/9/2021,01/Oct/21 2:46
+Ext module is not deployed with the cloud deployment process.,LCH-3016,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Adam Brandizzi,11/9/2021,22/9/2021,27/Oct/22 4:49
+SSO and MFA for Dynatrace,LCH-3017,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,13/9/2021,15/9/2021,23/Sep/22 4:49
+Liferay service is down after updating the services to Service Update 2021.35.1,LCH-3020,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,15/9/2021,20/9/2021,11/May/22 1:54
+Questions regarding the VPN tunnel for Matrinbrower,LCH-3021,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,15/9/2021,24/9/2021,04/Oct/21 2:52
+Is it possible to override LIFERAY_HTTP_PERIOD_HEADER_PERIOD_VERSION_PERIOD_VERBOSITY value?,LCH-3022,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ronald Carvalho,15/9/2021,21/9/2021,22/Sep/22 9:38
+LVHN Security Scan/Test,LCH-3023,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Wagner Santana,16/9/2021,17/9/2021,20/Sep/21 7:32
+Please rename the Elasticsearch data folder in the backend,LCH-3025,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,17/9/2021,17/9/2021,05/Jan/22 5:38
+Information on maintenance scheduled for the 30th of September,LCH-3026,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,17/9/2021,20/9/2021,06/Dec/21 7:44
+ES service is restarting as soon as establishing the connection with Liferay service,LCH-3027,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,17/9/2021,17/9/2021,18/Mar/22 11:51
+Delete indexed documents in Google for the default domain,LCH-3028,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Fixed,Ygor Costa,17/9/2021,29/9/2021,04/Oct/21 9:30
+Performance tests before go live,LCH-3029,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,17/9/2021,21/9/2021,08/Jul/22 4:37
+Multiple Outages - 503 Service Unavailable error reported,LCH-3030,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,20/9/2021,24/9/2021,27/May/22 6:34
+Please generate sp metadata for the customer for SSO,LCH-3031,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,20/9/2021,1/10/2021,28/Oct/22 2:55
+Liferay service restarts when uploading a pdf file (see example in attachment),LCH-3032,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,21/9/2021,21/9/2021,09/Dec/21 3:05
+Memory downscale is causing issues,LCH-3033,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,21/9/2021,27/9/2021,30/Sep/22 8:57
+About opened ports in a DXPC environment,LCH-3034,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,21/9/2021,24/9/2021,08/Feb/22 4:17
+Disk Space increase query from Pidilite,LCH-3035,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,21/9/2021,29/9/2021,15/Jul/22 3:21
+Disable TLS < 1.2 in lvhnextranet DXPC Environments,LCH-3036,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ronald Carvalho,21/9/2021,24/9/2021,26/Aug/22 9:13
+LFRAYTMA Non-Production Rapid7 Scan,LCH-3037,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,21/9/2021,22/9/2021,22/Sep/21 6:12
+"Enable support for TLS 1.2 and 1.3, and disable support for TLS 1.0",LCH-3038,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ronald Carvalho,22/9/2021,1/10/2021,10/Oct/22 11:15
+Error to override nginx.conf,LCH-3039,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,22/9/2021,23/9/2021,09/Aug/22 12:45
+Restore process brings webserver down,LCH-3040,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Adam Brandizzi,23/9/2021,8/10/2021,10/Dec/21 7:31
+Allow subnets on mbna and mbeurope VPN tunnels,LCH-3041,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ronald Carvalho,23/9/2021,28/9/2021,25/May/22 4:18
+Builds fail due unidentified cause.,LCH-3042,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,23/9/2021,5/10/2021,24/Aug/22 11:54
+Add customer's IdP to DXPC for SSO authentication,LCH-3047,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Mateus Miranda,27/9/2021,1/10/2021,21/Sep/22 4:27
+Possible issue renovating the domains certificates,LCH-3050,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,27/9/2021,29/9/2021,29/Sep/21 7:10
+DXPC monitoring notifications generate false alerts,LCH-3052,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,27/9/2021,1/10/2021,30/Nov/21 10:39
+Error accessing the database API service to list backups in PRD,LCH-3053,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ronald Carvalho,27/9/2021,8/10/2021,08/Jun/22 7:25
+Backup creation fails weekly for the customer.,LCH-3055,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Adam Brandizzi,28/9/2021,5/11/2021,30/Jun/22 6:51
+RCA Request: Deployment failing on Pre-prod,LCH-3056,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,28/9/2021,29/9/2021,27/Jan/22 9:33
+Backup service does not show on PRD environment,LCH-3057,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Adam Brandizzi,29/9/2021,30/9/2021,01/Oct/21 7:22
+Backup page is unavailable,LCH-3058,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Fixed,Adam Brandizzi,29/9/2021,29/9/2021,08/Oct/22 3:24
+Unable to connect to the database through the VPN tunnel,LCH-3059,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,29/9/2021,29/9/2021,25/Jan/22 3:21
+Restrict port access via Webserver,LCH-3060,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,29/9/2021,6/10/2021,09/Aug/22 12:45
+"Production deployments cannot be completed due to Cloud SQL ""Storage type (""dataDiskType"") cannot be changed"" error",LCH-3061,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,30/9/2021,25/10/2021,14/Sep/22 2:42
+Revoke access for user in JAGUARGRP's Dynatrace,LCH-3062,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,30/9/2021,3/10/2021,03/Oct/21 9:47
+Cert is not being created for new custom domains,LCH-3063,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,30/9/2021,1/10/2021,06/Dec/21 7:11
+Backup restore error on upgrade,LCH-3064,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Adam Brandizzi,30/9/2021,25/10/2021,13/Sep/22 9:57
+"Builds are failing intermittently, potentially due to a buildTimeout while fetching the Alpine APK",LCH-3066,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,1/10/2021,5/10/2021,05/Oct/21 10:55
+"Builds are failing intermittently, potentially due to a buildTimeout while fetching the Alpine APK",LCH-3067,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,1/10/2021,5/10/2021,28/Oct/22 9:52
+Unable to download database backups,LCH-3068,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Adam Brandizzi,1/10/2021,19/10/2021,22/Aug/22 3:05
+TriMedx Account Access for Rajil.Thompson@trimedx.com,LCH-3069,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,1/10/2021,5/10/2021,28/Sep/22 12:12
+New access to Dynatrace,LCH-3070,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,1/10/2021,6/10/2021,13/Oct/21 7:18
+Projects page empty,LCH-3071,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,4/10/2021,8/10/2021,08/Oct/21 7:21
+Warnings on the database,LCH-3072,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Sivakumar Perumal,4/10/2021,26/10/2021,30/Nov/21 11:18
+lrkoroneiki and lrprovisioning project backups page not loading,LCH-3074,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Tim Oneill,5/10/2021,13/10/2021,08/Jun/22 7:14
+UI showing a stuck Deployment,LCH-3077,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,6/10/2021,13/10/2021,12/Jan/22 9:45
+Can not download backups,LCH-3078,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,7/10/2021,14/10/2021,08/Jun/22 7:14
+The log files are downloaded with a different time zone.,LCH-3079,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,7/10/2021,27/10/2021,03/Dec/21 6:01
+Database backups are downloaded with wrong extension,LCH-3080,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,7/10/2021,12/10/2021,08/Jun/22 7:13
+Backup page is empty,LCH-3081,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Tim Oneill,7/10/2021,3/11/2021,25/May/22 4:18
+Elasticsearch service is at 96% of disk space.,LCH-3082,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,7/10/2021,20/10/2021,30/Nov/21 5:01
+Get thread dump files,LCH-3083,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,8/10/2021,8/10/2021,01/Sep/22 5:17
+"Starting Oct. 1, users cannot access DXPC sites using Let’s Encrypt certificates without bypassing warnings that the site is insecure",LCH-3084,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,8/10/2021,15/10/2021,04/Oct/22 4:52
+Backup creation fails,LCH-3085,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,12/10/2021,19/10/2021,11/Oct/22 3:05
+Failed deployments,LCH-3086,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Rodrigo Guedes de Souza,12/10/2021,15/10/2021,10/Sep/22 12:15
+Investigating whether it’s possible to use LCP_CI_DEPLOY_BRANCH/LCP_CI_DEPLOY_TARGET to set up auto deploy for multiple environments,LCH-3087,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Rodrigo Guedes de Souza,13/10/2021,21/10/2021,26/May/22 6:58
+Can not download backups,LCH-3088,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,13/10/2021,14/10/2021,08/Jun/22 7:09
+MBEurope VPN is not accessible,LCH-3089,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,14/10/2021,14/10/2021,02/Dec/21 5:01
+Allow IP Access for Pentesting,LCH-3090,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,14/10/2021,14/10/2021,03/Dec/21 10:36
+Change externalTrafficPolicy in L4 Ingress,LCH-3091,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ronald Carvalho,14/10/2021,15/10/2021,23/Nov/21 11:27
+Invalid Let's encrypt certificate,LCH-3092,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,14/10/2021,20/10/2021,04/Dec/21 4:20
+Challenge fail in a certificate regeneration launched in a custom domain addition,LCH-3094,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,15/10/2021,19/10/2021,10/Jan/22 2:18
+"After viewing a secret, the ""Related Activities"" timestamp is initially incorrect",LCH-3096,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,15/10/2021,20/10/2021,20/Oct/21 7:36
+Elasticsearch blocked by read only,LCH-3097,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Rodrigo Guedes de Souza,18/10/2021,21/10/2021,11/May/22 6:54
+Projects page broken in Safari,LCH-3103,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,20/10/2021,20/10/2021,21/Oct/21 7:22
+Please delete RabbitMQ in the background,LCH-3104,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Rodrigo Guedes de Souza,20/10/2021,4/11/2021,08/Dec/21 6:01
+Apply hotfix using Env var - CI service,LCH-3107,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,20/10/2021,27/10/2021,29/Jun/22 3:26
+Change customer's IdP for their SSO authentication,LCH-3109,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,21/10/2021,19/11/2021,04/Nov/22 8:31
+"Updated patching tool cannot be installed in new containers, preventing hotfix installation",LCH-3110,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,21/10/2021,8/11/2021,08/Nov/21 7:17
+Auto backup fails in prod with PromiseAllFailure,LCH-3111,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,22/10/2021,2/11/2021,22/Aug/22 3:06
+Atlantia - VAPT testing on the 25th of October,LCH-3112,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,22/10/2021,25/10/2021,14/Jan/22 2:16
+Cert is not being created for new custom domain,LCH-3113,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,22/10/2021,22/10/2021,17/Jan/22 4:32
+Request to provision Dynatrace tenant for portalivivisol by Oct. 27,LCH-3114,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,26/10/2021,27/10/2021,06/Dec/21 9:18
+expired certificate is not being renewed,LCH-3115,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,26/10/2021,29/10/2021,08/Sep/22 3:48
+Certificate for webserver-skytvnz-dev.lfr.cloud was not updated and is showing an expired certificate error,LCH-3117,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,27/10/2021,22/11/2021,22/Sep/22 4:07
+Builds are failing with d2 DXP images,LCH-3119,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,27/10/2021,5/11/2021,05/Nov/21 2:58
+Could not load backups,LCH-3120,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,27/10/2021,17/11/2021,08/Jun/22 6:44
+Root cert for https://webserver-eeze-prd.lfr.cloud/ has expired,LCH-3121,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,28/10/2021,24/11/2021,22/Jun/22 5:56
+Restore never finishes,LCH-3123,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,28/10/2021,19/11/2021,01/Jun/22 12:00
+Possibility to increase memory and review overall sizing of DXPC environment in order to mitigate 80% notifications,LCH-3124,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,29/10/2021,5/1/2022,22/Oct/22 2:01
+UAT login window is not taking the Jenkins credentials as expected,LCH-3125,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,29/10/2021,5/11/2021,03/Dec/21 6:01
+Liferay service unstable,LCH-3126,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Inactive,Timothy Bell,30/10/2021,18/11/2021,13/Aug/22 12:08
+Convert sumitomocp-uat to Production,LCH-3127,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,1/11/2021,10/11/2021,09/Dec/21 7:01
+Devsecopssandbox-dev broken,LCH-3128,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,3/11/2021,17/11/2021,17/Nov/21 3:58
+Log file location for search service,LCH-3129,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,3/11/2021,24/11/2021,24/Aug/22 7:40
+CI error when trying to submit a build which includes liferaycloud/liferay-dxp:7.4-4.2.1-ep.2 on the docker image liferay/dxp:7.4.13-ga1-nightly-d2.0.4-20211102141840,LCH-3130,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Victor Tavares,5/11/2021,8/11/2021,15/Jul/22 10:28
+Switch to a modern policy,LCH-3131,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Incorrect Product,Julliano Goncalves,5/11/2021,12/11/2021,18/Oct/22 7:58
+Cert is not being created for new custom domains,LCH-3132,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,5/11/2021,5/11/2021,03/Dec/21 7:01
+Backup Service is Unavailable,LCH-3134,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,7/11/2021,9/11/2021,14/Dec/21 12:01
+LATAM portal is down,LCH-3135,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Wagner Santana,7/11/2021,10/11/2021,11/Aug/22 3:59
+Martinbrower VPN tunnel updates,LCH-3136,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Wagner Santana,8/11/2021,25/11/2021,29/Dec/21 2:01
+CI builds for an NPM workspace including React take significantly longer than local builds or builds using a yarn workspace,LCH-3139,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,8/11/2021,1/12/2021,15/Feb/23 6:51
+ES service with error: No space left on device,LCH-3140,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Matheus Monteiro,9/11/2021,10/11/2021,09/Dec/21 4:03
+Persistent failures causes 503 Service Unavailable,LCH-3141,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,10/11/2021,16/12/2021,29/Dec/21 12:25
+Please find the root cause of this downtime affecting multiple customers in a cluster,LCH-3142,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,11/11/2021,24/11/2021,24/Nov/21 7:24
+Unable to use Dynatrace with d2.x.x images,LCH-3143,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,11/11/2021,18/11/2021,12/Jan/22 4:01
+SSL/TLS & Cipher Suites - Apply to UAT the RESTRICTED policy,LCH-3145,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,12/11/2021,19/11/2021,04/Nov/22 5:16
+Deploy to Cloud is failing,LCH-3146,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,12/11/2021,17/12/2021,17/Jan/22 6:01
+Deployed theme uses external library authentication - follow up,LCH-3147,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,12/11/2021,8/12/2021,04/Jul/22 8:20
+Stuck backup restore process in the download phase at 47.30%,LCH-3148,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,15/11/2021,17/11/2021,25/Oct/22 7:28
+Restore process was hanging while downloading the volume,LCH-3149,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,15/11/2021,19/11/2021,21/Dec/21 10:01
+Customer requesting external IP addresses,LCH-3150,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,16/11/2021,26/11/2021,20/Nov/24 5:58
+VPN dependencies,LCH-3153,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,18/11/2021,4/1/2022,20/Oct/22 7:41
+Backup creation fails weekly for the customer.,LCH-3159,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,22/11/2021,14/1/2022,04/Nov/22 12:01
+Stack 4 Docker image with NGinx + Kerberos,LCH-3160,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Brian Greenwald,22/11/2021,26/11/2021,30/Nov/21 11:18
+Agent installation in DXP Cloud,LCH-3161,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,22/11/2021,30/11/2021,23/Dec/21 2:01
+Upload files to Cloud environment,LCH-3162,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Tim Oneill,22/11/2021,3/12/2021,17/Jun/22 1:28
+Upgrade database to the new HA model in the mbeurope-prd environment,LCH-3163,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,23/11/2021,15/12/2021,27/May/22 5:04
+Apply to PRD the RESTRICTED SSL policy,LCH-3164,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,23/11/2021,26/11/2021,27/Dec/21 11:01
+Unable to use Dynatrace with d2.0.4 images,LCH-3165,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,23/11/2021,30/11/2021,16/Jun/22 7:02
+Missing memory metric on the monitoring tab,LCH-3166,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Tim Oneill,23/11/2021,22/12/2021,26/May/22 2:11
+PizzaHut client unable to reset password,LCH-3169,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,LR Information Services,23/11/2021,24/11/2021,02/Dec/21 10:31
+Liferay hangs while updating Patching Tool,LCH-3173,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,24/11/2021,3/1/2022,29/Sep/22 1:25
+Martinbrower VPN tunnel updates,LCH-3174,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Wagner Santana,25/11/2021,26/11/2021,29/Dec/21 2:01
+Backups UI only showing 20 last backups,LCH-3175,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Ygor Costa,25/11/2021,26/11/2021,08/Jun/22 6:30
+Doubts about the jenkinsfile,LCH-3176,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,25/11/2021,26/11/2021,31/Jan/22 8:01
+Customer requesting Egress IP of Liferay service,LCH-3177,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,29/11/2021,1/12/2021,09/Aug/22 9:43
+KBC - Penetration Test notice,LCH-3178,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,29/11/2021,29/11/2021,14/Jan/22 7:01
+"Error: ""You've reached your Custom Domain limit.""",LCH-3181,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,29/11/2021,6/12/2021,31/Dec/21 10:01
+YBS - Performance and Penetration test notice,LCH-3182,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,30/11/2021,30/11/2021,14/Sep/22 3:08
+Disable TLS 1.0/1.1 in Petros project,LCH-3183,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,30/11/2021,2/12/2021,14/Oct/22 2:42
+Command line tool behind a proxy,LCH-3185,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,1/12/2021,11/1/2022,05/Oct/22 8:23
+Disable weak ciphers,LCH-3186,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,1/12/2021,2/12/2021,18/Oct/22 7:58
+Increase Jenkins disk space,LCH-3187,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,2/12/2021,8/12/2021,05/Jan/22 1:01
+Builds failing in DEV environment due to lock file,LCH-3188,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,2/12/2021,4/12/2021,19/Feb/24 8:37
+Temporal Dynatrace license to SupportES,LCH-3189,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,2/12/2021,6/12/2021,06/Dec/21 7:44
+CI Service - no space left on device,LCH-3192,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Dávid Balatoni,3/12/2021,3/12/2021,04/Jan/22 6:01
+Database service creation fails with Max Instance Per Project error,LCH-3193,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,3/12/2021,6/12/2021,17/Jun/22 1:28
+Information about compileWorkspace,LCH-3195,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,3/12/2021,8/12/2021,30/May/22 11:58
+Jenkins Build Discarder doesn't take environment variable(s) into account,LCH-3196,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,3/12/2021,3/12/2021,06/Dec/21 4:40
+CI Jenkins fails when deploying to DEV,LCH-3197,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,3/12/2021,10/12/2021,07/Jan/22 3:01
+Unable to start Database Service in DXPC,LCH-3198,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,4/12/2021,6/12/2021,05/Jan/22 3:01
+MYSQL client: unable to export SQL query result into a file,LCH-3199,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Matthew Tambara,6/12/2021,15/12/2021,19/Aug/22 12:13
+ci service auto deploy isn't working when using forking code for multiple target environments,LCH-3200,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,6/12/2021,20/12/2021,24/Aug/22 7:39
+Change SSL Policy to Modern for portalpublicodxp-dev,LCH-3204,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,7/12/2021,7/12/2021,14/Jan/22 2:01
+Change SSL Policy to Modern for portalpublicodxp-uat,LCH-3205,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,7/12/2021,7/12/2021,14/Jan/22 2:01
+Increase Jenkins disk space,LCH-3206,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,7/12/2021,8/12/2021,05/Jan/22 1:01
+Synonyms index is not recreated on restart if missing,LCH-3207,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,7/12/2021,21/12/2021,28/Sep/22 6:09
+Separate VPN tunnel for UK and NA PreProd environment,LCH-3208,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Tim Oneill,7/12/2021,17/1/2022,09/Feb/22 7:02
+Change SSL Policy to Modern for portalescge,LCH-3209,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,7/12/2021,7/12/2021,10/Jan/22 10:01
+Change SSL Policy to Modern for portalescge-prd,LCH-3213,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,9/12/2021,9/12/2021,10/Jan/22 10:01
+Need private key of SSL Certificate,LCH-3215,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,10/12/2021,16/12/2021,23/Jun/22 5:38
+Temporarily increase memory for the recportal project,LCH-3216,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,10/12/2021,13/12/2021,16/May/22 9:06
+Slow DXP portal and Liveness/readiness probe failing,LCH-3217,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Rodrigo Goncalves,10/12/2021,15/12/2021,10/Oct/22 4:22
+Unable to create directory message when importing lar,LCH-3218,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Matthew Tambara,11/12/2021,15/12/2021,20/Jul/22 11:45
+Downtime and risk prognosis for the 16th of Dec. DXP Cloud release,LCH-3219,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,István Gergely-Tárnoki,11/12/2021,13/12/2021,16/Nov/23 8:51
+2022 DXP Cloud Platform Maintenance and Release Schedule,LCH-3220,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,István Gergely-Tárnoki,11/12/2021,13/12/2021,16/Nov/23 8:51
+CI Jenkins fails when deploying to DEV - same as LCH-3197,LCH-3224,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,14/12/2021,16/12/2021,08/Jun/22 6:12
+Client’s search service currently unusable due to “no space left on device” errors,LCH-3226,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Matthew Tambara,14/12/2021,21/12/2021,18/Jan/22 10:01
+Missing credentials for Jenkins,LCH-3228,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,15/12/2021,21/1/2022,03/Aug/22 8:32
+Dynatrace invitations,LCH-3229,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Matheus Monteiro,15/12/2021,15/12/2021,12/Jan/22 10:01
+Request to remove lfracteam-prd and lfracteam-infra,LCH-3230,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,17/12/2021,21/12/2021,21/Jan/22 2:01
+Martinbrower VPN issues,LCH-3231,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,17/12/2021,25/1/2022,11/Mar/22 6:06
+LIFERAY_CLUSTER_PERIOR_LINK_PERIOD_AUTODETECT_PERIOD_ADDRESS= is misspelled,LCH-3232,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,17/12/2021,5/1/2022,07/Mar/22 3:02
+No backups exist prior to Dec 15 for lvhnextranet-uat,LCH-3233,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Icaro Menezes,17/12/2021,17/1/2022,08/Jun/22 6:00
+Disable TLS 1.0/1.1 for AXAPARNEODXPC,LCH-3234,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,21/12/2021,4/1/2022,28/Oct/22 1:34
+Cannot install hotfix,LCH-3235,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,21/12/2021,10/1/2022,29/Sep/22 1:26
+Images for ElasticSearch 7.16.2+,LCH-3236,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Timothy Bell,21/12/2021,25/1/2022,17/Mar/22 2:03
+Lvhnextranet-prd backup service has been stuck in “creation in progress…” for a month,LCH-3237,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,21/12/2021,8/2/2022,22/Dec/22 7:50
+Database Service Failing to Restart,LCH-3239,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,22/12/2021,3/1/2022,30/Mar/22 9:04
+Disk space increase request for the us-west1-ac4-c1 cluster,LCH-3241,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Jonni Lundy,24/12/2021,24/12/2021,21/Jan/22 2:01
+Liferay and database service deployments are timing out,LCH-3244,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,25/12/2021,30/12/2021,10/Aug/22 11:12
+Deployment timeout,LCH-3246,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Rodrigo Guedes de Souza,28/12/2021,5/1/2022,15/Feb/22 5:04
+Disable TLS 1.1 and 1.0 on production environment,LCH-3248,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Julliano Goncalves,28/12/2021,4/1/2022,18/Oct/22 8:00
+Request for DXPC Search service images using Elasticsearch v7.16.2+,LCH-3249,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,28/12/2021,3/1/2022,30/Mar/22 9:04
+Dynatrace Invitations,LCH-3250,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Rafael Regner,28/12/2021,29/12/2021,26/Jan/22 10:02
+Intermittent database service after HA activation,LCH-3251,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,29/12/2021,30/12/2021,14/Jul/22 11:26
+Automated authentication process for the CLI to download logs or backups,LCH-3252,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Spencer Woo,29/12/2021,25/1/2022,15/Aug/22 10:38
+Need list of users who are having access to dynatrace app,LCH-3254,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Eddie Olson,30/12/2021,30/12/2021,02/Feb/22 12:01
+Cloud Builder times out after 10 minutes,LCH-3255,Bug,Done,LCH,INTERNAL - Liferay Cloud Help,Low,Done,Fabio Glaser,30/12/2021,19/1/2022,25/Aug/22 12:26
