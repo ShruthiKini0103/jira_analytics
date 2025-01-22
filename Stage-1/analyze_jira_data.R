@@ -86,3 +86,24 @@ ggplot(tickets, aes(x = ticket_id, y = resolution_time)) +
     y = "Resolution Time (Days)"
   ) +
   theme_minimal()
+  
+#We will want to understand the tickets that were excluded from resolution calculation
+# Extract ticket_id for excluded rows
+excluded_ticket_ids <- ticket_data %>%
+  mutate(
+    resolution_time = as.numeric(month_closed - month_opened)
+  ) %>%
+  filter(
+    is.na(resolution_time) | resolution_time < 0  # Identify invalid rows
+  ) %>%
+  select(ticket_id)  # Select only the ticket_id column
+
+# Check if there are excluded tickets
+if (nrow(excluded_ticket_ids) > 0) {
+  # Print the message and the excluded ticket IDs
+  print("Following tickets have been excluded due to invalid values for calculating resolution time:")
+  print(excluded_ticket_ids)
+} else {
+  # Message if no tickets are excluded
+  print("No tickets were excluded; all tickets have valid resolution time data.")
+}

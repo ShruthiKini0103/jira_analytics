@@ -1,3 +1,25 @@
+shruthi@shruthi-Standard-PC-Q35-ICH9-2009:~/Documents$ Rscript analyze_jira_data.R
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+[1] 0
+
+
 Table: Tickets Opened Per Month
 
 |  Month   | Number of Tickets Opened |
@@ -508,3 +530,181 @@ Table: Summary of Resolution Times
 | Total Tickets | Average Resolution Time (Days) | Median Resolution Time (Days) | Minimum Resolution Time (Days) | Maximum Resolution Time (Days) |
 |:-------------:|:------------------------------:|:-----------------------------:|:------------------------------:|:------------------------------:|
 |      524      |            1938.143            |             1461              |               0                |              8766              |
+[1] "Following tickets have been excluded due to invalid values for calculating resolution time:"
+    ticket_id
+1    LCH-2246
+2    LCH-2247
+3    LCH-2273
+4    LCH-2276
+5    LCH-2277
+6    LCH-2278
+7    LCH-2285
+8    LCH-2290
+9    LCH-2293
+10   LCH-2299
+11   LCH-2300
+12   LCH-2302
+13   LCH-2303
+14   LCH-2304
+15   LCH-2306
+16   LCH-2308
+17   LCH-2314
+18   LCH-2315
+19   LCH-2343
+20   LCH-2352
+21   LCH-2353
+22   LCH-2361
+23   LCH-2373
+24   LCH-2374
+25   LCH-2379
+26   LCH-2382
+27   LCH-2383
+28   LCH-2384
+29   LCH-2392
+30   LCH-2396
+31   LCH-2397
+32   LCH-2399
+33   LCH-2400
+34   LCH-2401
+35   LCH-2402
+36   LCH-2405
+37   LCH-2406
+38   LCH-2412
+39   LCH-2413
+40   LCH-2417
+41   LCH-2418
+42   LCH-2419
+43   LCH-2452
+44   LCH-2468
+45   LCH-2475
+46   LCH-2486
+47   LCH-2492
+48   LCH-2496
+49   LCH-2498
+50   LCH-2500
+51   LCH-2502
+52   LCH-2503
+53   LCH-2506
+54   LCH-2508
+55   LCH-2509
+56   LCH-2510
+57   LCH-2519
+58   LCH-2526
+59   LCH-2531
+60   LCH-2533
+61   LCH-2534
+62   LCH-2535
+63   LCH-2536
+64   LCH-2588
+65   LCH-2615
+66   LCH-2619
+67   LCH-2624
+68   LCH-2625
+69   LCH-2626
+70   LCH-2629
+71   LCH-2634
+72   LCH-2639
+73   LCH-2640
+74   LCH-2653
+75   LCH-2692
+76   LCH-2696
+77   LCH-2701
+78   LCH-2702
+79   LCH-2705
+80   LCH-2707
+81   LCH-2709
+82   LCH-2711
+83   LCH-2712
+84   LCH-2717
+85   LCH-2724
+86   LCH-2728
+87   LCH-2730
+88   LCH-2731
+89   LCH-2732
+90   LCH-2785
+91   LCH-2787
+92   LCH-2802
+93   LCH-2811
+94   LCH-2815
+95   LCH-2825
+96   LCH-2832
+97   LCH-2833
+98   LCH-2837
+99   LCH-2838
+100  LCH-2841
+101  LCH-2842
+102  LCH-2880
+103  LCH-2895
+104  LCH-2901
+105  LCH-2905
+106  LCH-2906
+107  LCH-2909
+108  LCH-2913
+109  LCH-2915
+110  LCH-2916
+111  LCH-2917
+112  LCH-2918
+113  LCH-2919
+114  LCH-2920
+115  LCH-2961
+116  LCH-2968
+117  LCH-2972
+118  LCH-2976
+119  LCH-2981
+120  LCH-2983
+121  LCH-2984
+122  LCH-2985
+123  LCH-2988
+124  LCH-2992
+125  LCH-2993
+126  LCH-2994
+127  LCH-2996
+128  LCH-3031
+129  LCH-3038
+130  LCH-3040
+131  LCH-3042
+132  LCH-3047
+133  LCH-3052
+134  LCH-3053
+135  LCH-3055
+136  LCH-3060
+137  LCH-3061
+138  LCH-3062
+139  LCH-3063
+140  LCH-3064
+141  LCH-3081
+142  LCH-3104
+143  LCH-3109
+144  LCH-3110
+145  LCH-3111
+146  LCH-3117
+147  LCH-3119
+148  LCH-3120
+149  LCH-3121
+150  LCH-3123
+151  LCH-3124
+152  LCH-3125
+153  LCH-3126
+154  LCH-3139
+155  LCH-3147
+156  LCH-3153
+157  LCH-3159
+158  LCH-3162
+159  LCH-3163
+160  LCH-3166
+161  LCH-3173
+162  LCH-3177
+163  LCH-3181
+164  LCH-3183
+165  LCH-3232
+166  LCH-3233
+167  LCH-3234
+168  LCH-3235
+169  LCH-3237
+170  LCH-3239
+171  LCH-3246
+172  LCH-3248
+173  LCH-3249
+174  LCH-3252
+175  LCH-3255
+
