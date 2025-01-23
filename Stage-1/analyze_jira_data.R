@@ -1,19 +1,24 @@
 library(dplyr)
 library(lubridate)
 library(knitr)
+library(readr)
 library(ggplot2)
+library(shiny)
 
 # Step-1: Load the data from the CSV file
 ticket_data <- read.csv("jira_analytics_data.csv")
 
-# Step-2: Check for missing values (optional)
+# Step-2: Check for missing values in the columns tickets_opened and ticket_closed
 print(sum(is.na(ticket_data$month_opened)))  # Check for missing values in month_opened
+print(sum(is.na(ticket_data$month_closed)))  # Check for missing values in month_closed
+
+str(ticket_data)
 
 # Step-3: Convert date/time columns to Date objects
 ticket_data <- ticket_data %>%
   mutate(
-    month_opened = as.Date(month_opened, format = "%Y/%m/%d"),
-    month_closed = as.Date(month_closed, format = "%Y/%m/%d")
+    month_opened = as.Date(month_opened, format = "%d/%m/%Y"),
+    month_closed = as.Date(month_closed, format = "%d/%m/%Y")
   )
 
 # Step-4: Tickets opened per month
@@ -28,13 +33,13 @@ tickets_closed_per_month <- ticket_data %>%
   group_by(close_month) %>%
   summarize(closed_tickets = n(), .groups = "drop")
 
-# Print tickets opened
+#Tickets opened
 kable(tickets_opened_per_month, 
       col.names = c("Month", "Number of Tickets Opened"), 
       align = "c", 
       caption = "Tickets Opened Per Month")
 
-# Print tickets closed
+#Tickets closed
 kable(tickets_closed_per_month, 
       col.names = c("Month", "Number of Tickets Closed"), 
       align = "c", 
@@ -42,11 +47,26 @@ kable(tickets_closed_per_month,
 
 # Step-6: Calculate Resolution Time in Days
 ticket_data <- ticket_data %>%
-  mutate(resolution_time = as.numeric(month_closed - month_opened))
-
+mutate(
+    month_opened = as.Date(month_opened, format = "%d/%m/%Y"), 
+    month_closed = as.Date(month_closed, format = "%d/%m/%Y"),
+    resolution_time = as.numeric(difftime(month_closed, month_opened, units = "days")) 
+  ) 
+ 
+ #printing resolution time for each ticket
+ print("Resolution time in days:")
+ print(ticket_data$resolution_time)
+ 
 # Step-7: Filter invalid cases where close_date is earlier than open_date
 tickets <- ticket_data %>%
   filter(resolution_time >= 0)
+  
+# Create a new data frame with relevant columns
+ticket_resolution_data <- ticket_data %>%
+  select(month_opened, month_closed, resolution_time)
+
+# Write the data to a new CSV file
+write.csv(ticket_resolution_data, "ticket_resolution_statistics.csv", row.names = FALSE)
 
 # Step-8: Summary of Resolution Times
 resolution_summary <- tickets %>%
