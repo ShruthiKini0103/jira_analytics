@@ -1,700 +1,700 @@
-"month_opened","month_closed","resolution_time"
-2021-01-04,2021-01-22,18
-2021-01-04,2021-01-26,22
-2021-01-04,2021-01-19,15
-2021-01-05,2021-01-13,8
-2021-01-05,2021-01-16,11
-2021-01-05,2021-01-20,15
-2021-01-05,2021-01-06,1
-2021-01-06,2021-01-12,6
-2021-01-07,2021-02-01,25
-2021-01-07,2021-04-03,86
-2021-01-08,2021-01-18,10
-2021-01-08,2021-01-18,10
-2021-01-11,2021-01-22,11
-2021-01-11,2021-01-14,3
-2021-01-11,2021-01-12,1
-2021-01-12,2021-01-21,9
-2021-01-12,2021-01-15,3
-2021-01-12,2021-01-12,0
-2021-01-14,2021-01-25,11
-2021-01-14,2021-01-15,1
-2021-01-14,2021-01-28,14
-2021-01-14,2021-01-15,1
-2021-01-14,2021-01-20,6
-2021-01-15,2021-01-29,14
-2021-01-15,2021-01-15,0
-2021-01-15,2021-01-22,7
-2021-01-18,2021-01-29,11
-2021-01-19,2021-01-22,3
-2021-01-19,2021-01-29,10
-2021-01-19,2021-02-01,13
-2021-01-20,2021-01-22,2
-2021-01-20,2021-02-02,13
-2021-01-21,2021-02-02,12
-2021-01-21,2021-02-02,12
-2021-01-21,2021-01-27,6
-2021-01-21,2021-01-26,5
-2021-01-22,2021-01-26,4
-2021-01-22,2021-01-22,0
-2021-01-22,2021-01-30,8
-2021-01-22,2021-02-12,21
-2021-01-25,2021-01-26,1
-2021-01-25,2021-01-26,1
-2021-01-25,2021-02-05,11
-2021-01-25,2021-01-29,4
-2021-01-26,2021-02-17,22
-2021-01-27,2021-01-28,1
-2021-01-27,2021-02-01,5
-2021-01-27,2021-02-01,5
-2021-01-28,2021-01-29,1
-2021-01-28,2021-02-08,11
-2021-01-28,2021-02-01,4
-2021-01-28,2021-02-02,5
-2021-01-29,2021-02-02,4
-2021-01-29,2021-02-08,10
-2021-01-30,2021-02-11,12
-2021-01-30,2021-02-01,2
-2021-02-01,2021-02-02,1
-2021-02-02,2021-02-03,1
-2021-02-02,2021-02-18,16
-2021-02-02,2021-02-03,1
-2021-02-02,2021-02-02,0
-2021-02-02,2021-02-08,6
-2021-02-02,2021-02-10,8
-2021-02-03,2021-02-09,6
-2021-02-03,2021-02-04,1
-2021-02-04,2021-02-16,12
-2021-02-04,2021-02-12,8
-2021-02-05,2021-02-12,7
-2021-02-05,2021-02-08,3
-2021-02-08,2021-02-16,8
-2021-02-08,2021-02-08,0
-2021-02-08,2021-02-12,4
-2021-02-08,2021-03-12,32
-2021-02-09,2021-02-17,8
-2021-02-09,2021-02-10,1
-2021-02-10,2021-03-03,21
-2021-02-11,2021-02-18,7
-2021-02-12,2021-02-16,4
-2021-02-13,2021-02-22,9
-2021-02-13,2021-02-16,3
-2021-02-14,2021-03-05,19
-2021-02-15,2021-03-01,14
-2021-02-15,2021-02-16,1
-2021-02-15,2021-02-22,7
-2021-02-15,2021-02-17,2
-2021-02-15,2021-02-24,9
-2021-02-15,2021-02-19,4
-2021-02-15,2021-02-23,8
-2021-02-16,2021-02-23,7
-2021-02-16,2021-03-01,13
-2021-02-16,2021-02-16,0
-2021-02-17,2021-02-23,6
-2021-02-17,2021-02-22,5
-2021-02-17,2021-02-18,1
-2021-02-18,2021-04-08,49
-2021-02-18,2021-03-04,14
-2021-02-18,2021-02-19,1
-2021-02-18,2021-03-18,28
-2021-02-18,2021-03-05,15
-2021-02-19,2021-02-24,5
-2021-02-19,2021-02-23,4
-2021-02-20,2021-03-11,19
-2021-02-20,2021-03-09,17
-2021-02-22,2021-03-03,9
-2021-02-23,2021-02-25,2
-2021-02-23,2021-03-01,6
-2021-02-23,2021-02-25,2
-2021-02-24,2021-02-26,2
-2021-02-24,2021-03-02,6
-2021-02-24,2021-03-02,6
-2021-02-24,2021-03-04,8
-2021-02-24,2021-03-19,23
-2021-02-24,2021-03-15,19
-2021-02-24,2021-03-03,7
-2021-02-25,2021-03-01,4
-2021-02-25,2021-03-04,7
-2021-02-25,2021-03-04,7
-2021-02-26,2021-03-05,7
-2021-02-26,2021-03-03,5
-2021-02-26,2021-03-05,7
-2021-02-26,2021-03-08,10
-2021-03-02,2021-03-04,2
-2021-03-02,2021-03-12,10
-2021-03-02,2021-03-15,13
-2021-03-02,2021-03-15,13
-2021-03-02,2021-03-10,8
-2021-03-02,2021-03-18,16
-2021-03-03,2021-03-09,6
-2021-03-04,2021-03-12,8
-2021-03-04,2021-04-23,50
-2021-03-04,2021-03-12,8
-2021-03-04,2021-03-12,8
-2021-03-04,2021-03-13,9
-2021-03-04,2021-03-24,20
-2021-03-04,2021-03-18,14
-2021-03-05,2021-03-11,6
-2021-03-05,2021-03-12,7
-2021-03-08,2021-03-08,0
-2021-03-08,2021-03-12,4
-2021-03-08,2021-03-12,4
-2021-03-09,2021-03-19,10
-2021-03-09,2021-03-17,8
-2021-03-10,2021-03-12,2
-2021-03-10,2021-03-16,6
-2021-03-10,2021-03-29,19
-2021-03-11,2021-03-12,1
-2021-03-11,2021-03-18,7
-2021-03-11,2021-03-15,4
-2021-03-11,2021-04-09,29
-2021-03-11,2021-03-12,1
-2021-03-12,2021-03-12,0
-2021-03-15,2021-03-17,2
-2021-03-16,2021-03-23,7
-2021-03-16,2021-03-22,6
-2021-03-16,2021-04-05,20
-2021-03-16,2021-03-25,9
-2021-03-17,2021-03-26,9
-2021-03-17,2021-04-20,34
-2021-03-17,2021-03-31,14
-2021-03-17,2021-04-15,29
-2021-03-18,2021-03-29,11
-2021-03-19,2021-03-26,7
-2021-03-19,2021-04-23,35
-2021-03-20,2021-05-14,55
-2021-03-22,2021-03-22,0
-2021-03-22,2021-03-29,7
-2021-03-23,2021-03-25,2
-2021-03-23,2021-04-13,21
-2021-03-23,2021-03-25,2
-2021-03-23,2021-04-08,16
-2021-03-24,2021-05-19,56
-2021-03-24,2021-03-24,0
-2021-03-25,2021-04-02,8
-2021-03-25,2021-03-29,4
-2021-03-25,2021-04-06,12
-2021-03-25,2021-04-08,14
-2021-03-26,2021-04-08,13
-2021-03-26,2021-03-26,0
-2021-03-26,2021-04-07,12
-2021-03-26,2021-04-07,12
-2021-03-26,2021-05-10,45
-2021-03-30,2021-03-30,0
-2021-03-30,2021-04-08,9
-2021-03-30,2021-03-30,0
-2021-03-30,2021-04-08,9
-2021-03-30,2021-03-31,1
-2021-03-30,2021-03-31,1
-2021-03-31,2021-03-31,0
-2021-03-31,2021-04-01,1
-2021-03-31,2021-03-31,0
-2021-03-31,2021-04-26,26
-2021-03-31,2021-05-03,33
-2021-03-31,2021-04-07,7
-2021-03-31,2021-05-04,34
-2021-03-31,2021-03-31,0
-2021-04-01,2021-04-02,1
-2021-04-01,2021-04-06,5
-2021-04-01,2021-04-02,1
-2021-04-01,2021-04-12,11
-2021-04-01,2021-04-13,12
-2021-04-01,2021-04-13,12
-2021-04-05,2021-04-19,14
-2021-04-06,2021-04-15,9
-2021-04-06,2021-04-07,1
-2021-04-06,2021-04-30,24
-2021-04-07,2021-04-08,1
-2021-04-07,2021-04-07,0
-2021-04-07,2021-04-13,6
-2021-04-08,2021-04-22,14
-2021-04-08,2021-04-21,13
-2021-04-08,2021-04-14,6
-2021-04-09,2021-04-28,19
-2021-04-09,2021-04-15,6
-2021-04-12,2021-04-22,10
-2021-04-13,2021-04-27,14
-2021-04-13,2021-04-19,6
-2021-04-13,2021-04-19,6
-2021-04-13,2021-04-16,3
-2021-04-13,2021-04-15,2
-2021-04-14,2021-04-19,5
-2021-04-14,2021-04-16,2
-2021-04-14,2021-06-01,48
-2021-04-14,2021-04-30,16
-2021-04-14,2021-04-15,1
-2021-04-15,2021-04-15,0
-2021-04-15,2021-04-19,4
-2021-04-15,2021-05-19,34
-2021-04-15,2021-04-27,12
-2021-04-15,2021-04-16,1
-2021-04-16,2021-04-19,3
-2021-04-16,2021-04-19,3
-2021-04-16,2021-04-23,7
-2021-04-16,2021-04-23,7
-2021-04-19,2021-04-21,2
-2021-04-19,2021-04-22,3
-2021-04-19,2021-04-19,0
-2021-04-20,2021-04-30,10
-2021-04-20,2021-04-22,2
-2021-04-20,2021-05-19,29
-2021-04-20,2021-04-28,8
-2021-04-21,2021-05-24,33
-2021-04-21,2021-05-19,28
-2021-04-22,2021-04-27,5
-2021-04-23,2021-04-26,3
-2021-04-23,2021-05-06,13
-2021-04-23,2021-05-19,26
-2021-04-26,2021-05-13,17
-2021-04-26,2021-04-26,0
-2021-04-26,2021-04-29,3
-2021-04-26,2021-05-03,7
-2021-04-28,2021-04-29,1
-2021-04-28,2021-04-30,2
-2021-04-28,2021-04-30,2
-2021-04-29,2021-04-29,0
-2021-04-29,2021-05-06,7
-2021-04-29,2021-04-30,1
-2021-04-30,2021-05-18,18
-2021-04-30,2021-05-10,10
-2021-05-01,2021-05-13,12
-2021-05-03,2025-01-10,1348
-2021-05-03,2021-05-04,1
-2021-05-04,2021-05-14,10
-2021-05-04,2021-05-11,7
-2021-05-05,2021-05-19,14
-2021-05-05,2021-05-24,19
-2021-05-05,2021-05-12,7
-2021-05-05,2021-05-13,8
-2021-05-06,2021-06-04,29
-2021-05-06,2021-05-06,0
-2021-05-06,2021-05-13,7
-2021-05-07,2021-05-13,6
-2021-05-07,2021-06-09,33
-2021-05-07,2021-05-13,6
-2021-05-07,2021-05-14,7
-2021-05-07,2021-05-27,20
-2021-05-08,2021-05-10,2
-2021-05-08,2021-05-08,0
-2021-05-10,2021-05-14,4
-2021-05-10,2021-05-14,4
-2021-05-10,2021-05-11,1
-2021-05-11,2021-05-19,8
-2021-05-11,2021-05-17,6
-2021-05-11,2021-05-14,3
-2021-05-11,2021-05-20,9
-2021-05-11,2021-05-13,2
-2021-05-12,2021-05-21,9
-2021-05-12,2021-05-14,2
-2021-05-12,2021-05-13,1
-2021-05-12,2021-05-12,0
-2021-05-12,2021-05-21,9
-2021-05-14,2021-05-24,10
-2021-05-15,2021-05-21,6
-2021-05-15,2021-06-17,33
-2021-05-17,2021-05-28,11
-2021-05-17,2021-05-27,10
-2021-05-18,2021-06-09,22
-2021-05-18,2021-05-27,9
-2021-05-18,2021-05-25,7
-2021-05-18,2021-06-07,20
-2021-05-18,2021-05-20,2
-2021-05-18,2021-05-20,2
-2021-05-19,2021-06-04,16
-2021-05-19,2021-06-01,13
-2021-05-19,2021-05-31,12
-2021-05-20,2021-05-25,5
-2021-05-20,2021-06-10,21
-2021-05-20,2021-05-24,4
-2021-05-20,2021-06-07,18
-2021-05-20,2021-06-01,12
-2021-05-21,2021-05-26,5
-2021-05-21,2021-06-08,18
-2021-05-21,2021-06-04,14
-2021-05-24,2021-05-31,7
-2021-05-24,2021-05-27,3
-2021-05-25,2021-05-25,0
-2021-05-25,2021-06-01,7
-2021-05-25,2021-05-28,3
-2021-05-26,2021-05-28,2
-2021-05-26,2021-05-31,5
-2021-05-26,2021-05-28,2
-2021-05-27,2021-07-16,50
-2021-05-27,2021-05-31,4
-2021-05-27,2021-06-09,13
-2021-05-28,2021-06-03,6
-2021-05-28,2021-06-07,10
-2021-05-28,2021-06-11,14
-2021-05-31,2021-05-31,0
-2021-06-01,2021-06-01,0
-2021-06-01,2021-06-01,0
-2021-06-01,2021-06-02,1
-2021-06-01,2021-06-11,10
-2021-06-02,2021-06-10,8
-2021-06-02,2021-06-04,2
-2021-06-02,2021-06-17,15
-2021-06-02,2021-06-07,5
-2021-06-02,2021-06-07,5
-2021-06-02,2021-07-07,35
-2021-06-02,2021-06-02,0
-2021-06-02,2021-06-04,2
-2021-06-03,2021-06-16,13
-2021-06-03,2021-06-16,13
-2021-06-03,2021-06-04,1
-2021-06-03,2021-06-04,1
-2021-06-03,2021-06-04,1
-2021-06-03,2021-06-24,21
-2021-06-04,2021-06-09,5
-2021-06-07,2021-06-08,1
-2021-06-07,2021-06-07,0
-2021-06-07,2021-06-28,21
-2021-06-08,2021-06-09,1
-2021-06-08,2021-06-10,2
-2021-06-08,2021-06-11,3
-2021-06-08,2021-06-17,9
-2021-06-09,2021-06-14,5
-2021-06-09,2021-06-17,8
-2021-06-09,2021-06-19,10
-2021-06-09,2021-06-15,6
-2021-06-10,2021-06-18,8
-2021-06-10,2021-06-22,12
-2021-06-11,2021-06-16,5
-2021-06-14,2021-07-06,22
-2021-06-14,2021-06-18,4
-2021-06-14,2021-07-01,17
-2021-06-14,2021-06-18,4
-2021-06-14,2021-06-29,15
-2021-06-15,2021-06-17,2
-2021-06-15,2021-06-21,6
-2021-06-15,2021-06-17,2
-2021-06-15,2021-06-17,2
-2021-06-15,2021-06-17,2
-2021-06-16,2021-06-24,8
-2021-06-16,2021-06-24,8
-2021-06-16,2021-06-17,1
-2021-06-16,2021-06-23,7
-2021-06-17,2021-07-30,43
-2021-06-17,2021-07-07,20
-2021-06-17,2021-06-24,7
-2021-06-18,2021-06-21,3
-2021-06-18,2021-06-21,3
-2021-06-18,2021-06-22,4
-2021-06-18,2021-06-23,5
-2021-06-18,2021-06-22,4
-2021-06-18,2021-06-22,4
-2021-06-19,2021-06-25,6
-2021-06-21,2021-07-06,15
-2021-06-21,2021-06-22,1
-2021-06-21,2021-06-22,1
-2021-06-21,2021-07-09,18
-2021-06-22,2021-06-23,1
-2021-06-22,2021-06-22,0
-2021-06-22,2021-06-22,0
-2021-06-22,2021-06-24,2
-2021-06-22,2021-06-23,1
-2021-06-22,2021-06-22,0
-2021-06-23,2021-07-06,13
-2021-06-24,2021-06-24,0
-2021-06-24,2021-06-25,1
-2021-06-24,2021-06-25,1
-2021-06-24,2021-06-25,1
-2021-06-25,2021-07-19,24
-2021-06-25,2021-07-01,6
-2021-06-25,2021-06-30,5
-2021-06-25,2021-06-28,3
-2021-06-28,2021-07-07,9
-2021-06-28,2021-07-13,15
-2021-06-29,2021-06-30,1
-2021-06-30,2021-07-04,4
-2021-06-30,2021-07-19,19
-2021-07-01,2021-07-14,13
-2021-07-01,2021-07-13,12
-2021-07-02,2021-07-08,6
-2021-07-05,2021-07-06,1
-2021-07-07,2021-07-08,1
-2021-07-07,2021-07-16,9
-2021-07-07,2021-07-08,1
-2021-07-07,2021-07-08,1
-2021-07-08,2021-07-13,5
-2021-07-09,2021-07-15,6
-2021-07-09,2021-07-13,4
-2021-07-12,2021-07-14,2
-2021-07-12,2021-07-22,10
-2021-07-12,2021-07-16,4
-2021-07-13,2021-07-30,17
-2021-07-13,2021-07-14,1
-2021-07-14,2021-07-14,0
-2021-07-14,2021-07-16,2
-2021-07-14,2021-07-14,0
-2021-07-14,2021-07-21,7
-2021-07-15,2021-07-20,5
-2021-07-15,2021-07-16,1
-2021-07-15,2021-08-05,21
-2021-07-16,2021-07-23,7
-2021-07-16,2021-07-21,5
-2021-07-16,2021-07-20,4
-2021-07-16,2021-07-21,5
-2021-07-16,2021-07-26,10
-2021-07-19,2021-07-20,1
-2021-07-20,2021-07-30,10
-2021-07-20,2021-07-23,3
-2021-07-20,2021-07-22,2
-2021-07-20,2021-07-30,10
-2021-07-21,2021-07-24,3
-2021-07-21,2021-08-13,23
-2021-07-22,2021-07-22,0
-2021-07-22,2021-07-23,1
-2021-07-22,2021-08-05,14
-2021-07-23,2021-07-23,0
-2021-07-23,2021-07-23,0
-2021-07-23,2021-08-20,28
-2021-07-24,2021-08-09,16
-2021-07-26,2021-07-28,2
-2021-07-26,2021-07-29,3
-2021-07-26,2021-08-06,11
-2021-07-26,2021-07-27,1
-2021-07-27,2021-07-28,1
-2021-07-28,2021-08-20,23
-2021-07-29,2021-08-26,28
-2021-07-29,2021-08-18,20
-2021-07-29,2021-08-10,12
-2021-07-30,2021-08-11,12
-2021-07-30,2021-08-04,5
-2021-07-30,2021-08-05,6
-2021-08-02,2021-08-06,4
-2021-08-02,2021-08-19,17
-2021-08-04,2021-08-17,13
-2021-08-04,2021-08-12,8
-2021-08-04,2021-08-20,16
-2021-08-04,2021-08-04,0
-2021-08-04,2021-09-24,51
-2021-08-05,2021-08-19,14
-2021-08-05,2021-08-25,20
-2021-08-06,2021-08-12,6
-2021-08-09,2021-09-10,32
-2021-08-10,2021-08-11,1
-2021-08-10,2021-08-19,9
-2021-08-10,2021-08-11,1
-2021-08-11,2021-08-16,5
-2021-08-11,2021-08-20,9
-2021-08-11,2021-08-16,5
-2021-08-12,2021-08-19,7
-2021-08-12,2021-08-25,13
-2021-08-12,2021-08-25,13
-2021-08-13,2021-08-13,0
-2021-08-13,2021-09-24,42
-2021-08-16,2021-08-19,3
-2021-08-17,2021-08-20,3
-2021-08-17,2021-08-27,10
-2021-08-18,2021-08-23,5
-2021-08-19,2021-08-20,1
-2021-08-20,2021-09-06,17
-2021-08-20,2021-08-23,3
-2021-08-20,2021-08-23,3
-2021-08-20,2021-08-22,2
-2021-08-23,2021-08-25,2
-2021-08-23,2021-08-26,3
-2021-08-23,2021-10-22,60
-2021-08-23,2021-08-30,7
-2021-08-24,2021-08-26,2
-2021-08-24,2021-08-30,6
-2021-08-24,2021-09-08,15
-2021-08-25,2021-09-01,7
-2021-08-25,2021-08-30,5
-2021-08-25,2021-08-27,2
-2021-08-26,2021-08-30,4
-2021-08-26,2021-09-01,6
-2021-08-27,2021-09-15,19
-2021-08-27,2021-09-01,5
-2021-08-27,2021-09-01,5
-2021-08-30,2021-08-31,1
-2021-08-30,2021-09-14,15
-2021-08-30,2021-09-10,11
-2021-08-31,2021-09-01,1
-2021-08-31,2021-09-01,1
-2021-08-31,2021-09-01,1
-2021-09-06,2021-09-08,2
-2021-09-06,2021-09-08,2
-2021-09-06,2021-09-15,9
-2021-09-06,2021-09-10,4
-2021-09-07,2021-09-08,1
-2021-09-07,2021-09-17,10
-2021-09-08,2021-09-15,7
-2021-09-08,2021-09-18,10
-2021-09-08,2021-09-10,2
-2021-09-09,2021-09-09,0
-2021-09-09,2021-09-13,4
-2021-09-10,2021-09-15,5
-2021-09-10,2021-10-26,46
-2021-09-10,2021-09-21,11
-2021-09-11,2021-09-22,11
-2021-09-13,2021-09-15,2
-2021-09-15,2021-09-20,5
-2021-09-15,2021-09-24,9
-2021-09-15,2021-09-21,6
-2021-09-16,2021-09-17,1
-2021-09-17,2021-09-17,0
-2021-09-17,2021-09-20,3
-2021-09-17,2021-09-17,0
-2021-09-17,2021-09-29,12
-2021-09-17,2021-09-21,4
-2021-09-20,2021-09-24,4
-2021-09-20,2021-10-01,11
-2021-09-21,2021-09-21,0
-2021-09-21,2021-09-27,6
-2021-09-21,2021-09-24,3
-2021-09-21,2021-09-29,8
-2021-09-21,2021-09-24,3
-2021-09-21,2021-09-22,1
-2021-09-22,2021-10-01,9
-2021-09-22,2021-09-23,1
-2021-09-23,2021-10-08,15
-2021-09-23,2021-09-28,5
-2021-09-23,2021-10-05,12
-2021-09-27,2021-10-01,4
-2021-09-27,2021-09-29,2
-2021-09-27,2021-10-01,4
-2021-09-27,2021-10-08,11
-2021-09-28,2021-11-05,38
-2021-09-28,2021-09-29,1
-2021-09-29,2021-09-30,1
-2021-09-29,2021-09-29,0
-2021-09-29,2021-09-29,0
-2021-09-29,2021-10-06,7
-2021-09-30,2021-10-25,25
-2021-09-30,2021-10-03,3
-2021-09-30,2021-10-01,1
-2021-09-30,2021-10-25,25
-2021-10-01,2021-10-05,4
-2021-10-01,2021-10-05,4
-2021-10-01,2021-10-19,18
-2021-10-01,2021-10-05,4
-2021-10-01,2021-10-06,5
-2021-10-04,2021-10-08,4
-2021-10-04,2021-10-26,22
-2021-10-05,2021-10-13,8
-2021-10-06,2021-10-13,7
-2021-10-07,2021-10-14,7
-2021-10-07,2021-10-27,20
-2021-10-07,2021-10-12,5
-2021-10-07,2021-11-03,27
-2021-10-07,2021-10-20,13
-2021-10-08,2021-10-08,0
-2021-10-08,2021-10-15,7
-2021-10-12,2021-10-19,7
-2021-10-12,2021-10-15,3
-2021-10-13,2021-10-21,8
-2021-10-13,2021-10-14,1
-2021-10-14,2021-10-14,0
-2021-10-14,2021-10-14,0
-2021-10-14,2021-10-15,1
-2021-10-14,2021-10-20,6
-2021-10-15,2021-10-19,4
-2021-10-15,2021-10-20,5
-2021-10-18,2021-10-21,3
-2021-10-20,2021-10-20,0
-2021-10-20,2021-11-04,15
-2021-10-20,2021-10-27,7
-2021-10-21,2021-11-19,29
-2021-10-21,2021-11-08,18
-2021-10-22,2021-11-02,11
-2021-10-22,2021-10-25,3
-2021-10-22,2021-10-22,0
-2021-10-26,2021-10-27,1
-2021-10-26,2021-10-29,3
-2021-10-27,2021-11-22,26
-2021-10-27,2021-11-05,9
-2021-10-27,2021-11-17,21
-2021-10-28,2021-11-24,27
-2021-10-28,2021-11-19,22
-2021-10-29,2022-01-05,68
-2021-10-29,2021-11-05,7
-2021-10-30,2021-11-18,19
-2021-11-01,2021-11-10,9
-2021-11-03,2021-11-17,14
-2021-11-03,2021-11-24,21
-2021-11-05,2021-11-08,3
-2021-11-05,2021-11-12,7
-2021-11-05,2021-11-05,0
-2021-11-07,2021-11-09,2
-2021-11-07,2021-11-10,3
-2021-11-08,2021-11-25,17
-2021-11-08,2021-12-01,23
-2021-11-09,2021-11-10,1
-2021-11-10,2021-12-16,36
-2021-11-11,2021-11-24,13
-2021-11-11,2021-11-18,7
-2021-11-12,2021-11-19,7
-2021-11-12,2021-12-17,35
-2021-11-12,2021-12-08,26
-2021-11-15,2021-11-17,2
-2021-11-15,2021-11-19,4
-2021-11-16,2021-11-26,10
-2021-11-18,2022-01-04,47
-2021-11-22,2022-01-14,53
-2021-11-22,2021-11-26,4
-2021-11-22,2021-11-30,8
-2021-11-22,2021-12-03,11
-2021-11-23,2021-12-15,22
-2021-11-23,2021-11-26,3
-2021-11-23,2021-11-30,7
-2021-11-23,2021-12-22,29
-2021-11-23,2021-11-24,1
-2021-11-24,2022-01-03,40
-2021-11-25,2021-11-26,1
-2021-11-25,2021-11-26,1
-2021-11-25,2021-11-26,1
-2021-11-29,2021-12-01,2
-2021-11-29,2021-11-29,0
-2021-11-29,2021-12-06,7
-2021-11-30,2021-11-30,0
-2021-11-30,2021-12-02,2
-2021-12-01,2022-01-11,41
-2021-12-01,2021-12-02,1
-2021-12-02,2021-12-08,6
-2021-12-02,2021-12-04,2
-2021-12-02,2021-12-06,4
-2021-12-03,2021-12-03,0
-2021-12-03,2021-12-06,3
-2021-12-03,2021-12-08,5
-2021-12-03,2021-12-03,0
-2021-12-03,2021-12-10,7
-2021-12-04,2021-12-06,2
-2021-12-06,2021-12-15,9
-2021-12-06,2021-12-20,14
-2021-12-07,2021-12-07,0
-2021-12-07,2021-12-07,0
-2021-12-07,2021-12-08,1
-2021-12-07,2021-12-21,14
-2021-12-07,2022-01-17,41
-2021-12-07,2021-12-07,0
-2021-12-09,2021-12-09,0
-2021-12-10,2021-12-16,6
-2021-12-10,2021-12-13,3
-2021-12-10,2021-12-15,5
-2021-12-11,2021-12-15,4
-2021-12-11,2021-12-13,2
-2021-12-11,2021-12-13,2
-2021-12-14,2021-12-16,2
-2021-12-14,2021-12-21,7
-2021-12-15,2022-01-21,37
-2021-12-15,2021-12-15,0
-2021-12-17,2021-12-21,4
-2021-12-17,2022-01-25,39
-2021-12-17,2022-01-05,19
-2021-12-17,2022-01-17,31
-2021-12-21,2022-01-04,14
-2021-12-21,2022-01-10,20
-2021-12-21,2022-01-25,35
-2021-12-21,2022-02-08,49
-2021-12-22,2022-01-03,12
-2021-12-24,2021-12-24,0
-2021-12-25,2021-12-30,5
-2021-12-28,2022-01-05,8
-2021-12-28,2022-01-04,7
-2021-12-28,2022-01-03,6
-2021-12-28,2021-12-29,1
-2021-12-29,2021-12-30,1
-2021-12-29,2022-01-25,27
-2021-12-30,2021-12-30,0
-2021-12-30,2022-01-19,20
+"summary","ticket_id","month_opened","month_closed","resolution_time"
+"Could not resolve placeholder 'NUMBER_OF_MASTERS'","LCH-2233",2021-01-04,2021-01-22,18
+"Autoscaling Does Not Scale Down","LCH-2234",2021-01-04,2021-01-26,22
+"Production database outage on 1-4-2021 of approximately 8 minutes","LCH-2235",2021-01-04,2021-01-19,15
+"Please provide DB utilization report for mbeurope project (prd)","LCH-2237",2021-01-05,2021-01-13,8
+"backup process takes more than 24h","LCH-2238",2021-01-05,2021-01-16,11
+"ElasticSearch licence expired on DXP Cloud environment","LCH-2239",2021-01-05,2021-01-20,15
+"Builds are failing due to no space on GCP/GKE to store them","LCH-2240",2021-01-05,2021-01-06,1
+"Github repository access for MISK","LCH-2244",2021-01-06,2021-01-12,6
+"Custom service cannot be deleted, and appears to persist after deleting and recreating the service","LCH-2246",2021-01-07,2021-02-01,25
+"GitHub PAT for non-admin users leads to ""no credentials with admin access to manage hooks"" error when integrating with Jenkins and creating the webhook","LCH-2247",2021-01-07,2021-04-03,86
+"Request for the Analytics Cloud team to have DXP Cloud services deployed to the LiferayCloud-Customer-AC GCP project","LCH-2249",2021-01-08,2021-01-18,10
+"Custom theme missing after deployment","LCH-2250",2021-01-08,2021-01-18,10
+"Elasticsearch server in UAT restarting periodically","LCH-2251",2021-01-11,2021-01-22,11
+"Get to know specific values of parameters configured at database level","LCH-2252",2021-01-11,2021-01-14,3
+"Set read-only access to Dynatrace for specific users","LCH-2253",2021-01-11,2021-01-12,1
+"Mysql Signal 11 analysis - follow up of LCH-2208","LCH-2254",2021-01-12,2021-01-21,9
+"Providing access to Dynatrace for a new user","LCH-2256",2021-01-12,2021-01-15,3
+"HAProxy timeout values might cause side effects","LCH-2257",2021-01-12,2021-01-12,0
+"Change SSL Policy for halcondxpc","LCH-2258",2021-01-14,2021-01-25,11
+"Certificate error for new custom domains","LCH-2259",2021-01-14,2021-01-15,1
+"Open ports on DXP Cloud","LCH-2260",2021-01-14,2021-01-28,14
+"after the first SSO login to DXPCloud the old authentication method is disabled","LCH-2261",2021-01-14,2021-01-15,1
+"Deployments consistently ""failing"" for various services","LCH-2264",2021-01-14,2021-01-20,6
+"The builds are broken, they failed trying to deploy/upload services to liferay.cloud","LCH-2265",2021-01-15,2021-01-29,14
+"Please confirm if CDN cache has been completely cleared for JLR","LCH-2266",2021-01-15,2021-01-15,0
+"Jenkins failing with timeout","LCH-2267",2021-01-15,2021-01-22,7
+"VPN is intermittent on Klabin's environments","LCH-2268",2021-01-18,2021-01-29,11
+"Dynatrace provisioning for Sumitomocp","LCH-2271",2021-01-19,2021-01-22,3
+"searchCollaborators autocomplete is still present in Console","LCH-2272",2021-01-19,2021-01-29,10
+"Metrics for Martinbrower","LCH-2273",2021-01-19,2021-02-01,13
+"Expired license causes CI to have deployment errors of the Commerce package","LCH-2275",2021-01-20,2021-01-22,2
+"Requesting help for understanding VPN configuration settings","LCH-2276",2021-01-20,2021-02-02,13
+"VPN stuck in Connecting...","LCH-2277",2021-01-21,2021-02-02,12
+"Dynatrace-related requests by customer STOXXHOSTING","LCH-2278",2021-01-21,2021-02-02,12
+"Can not see VPN logs","LCH-2279",2021-01-21,2021-01-27,6
+"Urgent: Connection is lost with the database when trying to delete expired saml sessions","LCH-2280",2021-01-21,2021-01-26,5
+"Addition to notification on service failure","LCH-2282",2021-01-22,2021-01-26,4
+"Dynatrace license expiring","LCH-2283",2021-01-22,2021-01-22,0
+"MySQL slow query logs from the DB server of mbna-prd environment","LCH-2284",2021-01-22,2021-01-30,8
+"Find out timing of customer's databases' manual backup","LCH-2285",2021-01-22,2021-02-12,21
+"Access denied. User is missing or has incorrect credentials","LCH-2287",2021-01-25,2021-01-26,1
+"Grant access permission to the dynatrace dashboard","LCH-2288",2021-01-25,2021-01-26,1
+"Multiple VPN containers at the same time are complicating debugging the VPN Connection.","LCH-2290",2021-01-25,2021-02-05,11
+"Secret activities don't filter to current secret","LCH-2291",2021-01-25,2021-01-29,4
+"Unable to connect VPN because no trusted RSA public key found","LCH-2293",2021-01-26,2021-02-17,22
+"Team members have no access to environments","LCH-2298",2021-01-27,2021-01-28,1
+"Performance issues in the mbna-prd environment","LCH-2299",2021-01-27,2021-02-01,5
+"Custom Domains Limit","LCH-2300",2021-01-27,2021-02-01,5
+"Can not connect to external OpenID","LCH-2301",2021-01-28,2021-01-29,1
+"RCA investigation of alert 1786","LCH-2302",2021-01-28,2021-02-08,11
+"Certificate error for new custom domains","LCH-2303",2021-01-28,2021-02-01,4
+"Backup restore process is stuck","LCH-2304",2021-01-28,2021-02-02,5
+"Deploy build to environment DR is failed","LCH-2306",2021-01-29,2021-02-02,4
+"Load tests on MBNA-Test and Dev environments","LCH-2308",2021-01-29,2021-02-08,10
+"Build error in COVE prd site","LCH-2314",2021-01-30,2021-02-11,12
+"Builds are failing","LCH-2315",2021-01-30,2021-02-01,2
+"Deploy error: Updates to StatefulSet service are not allowed for the following fields: 'volumes'. Service creation failed for the search service","LCH-2316",2021-02-01,2021-02-02,1
+"Requesting Dynatrace access for a new user of MARTINBROWERUS","LCH-2317",2021-02-02,2021-02-03,1
+"Automatic backup creation fails intermittently","LCH-2318",2021-02-02,2021-02-18,16
+"LogsView loses buildGroupUid parameter on logDate or instance selection","LCH-2319",2021-02-02,2021-02-03,1
+"Requesting Dynatrace access for new users of STOXXHOSTING","LCH-2320",2021-02-02,2021-02-02,0
+"CPU / Memory alerts - feedback","LCH-2321",2021-02-02,2021-02-08,6
+"Questions about penetration testing and backend security","LCH-2322",2021-02-02,2021-02-10,8
+"Jenkins build failures","LCH-2323",2021-02-03,2021-02-09,6
+"Invite users to Dynatrace tenant of JAGUARGRP","LCH-2324",2021-02-03,2021-02-04,1
+"Disable weak cipher suites","LCH-2325",2021-02-04,2021-02-16,12
+"Requesting VPN Tunnel utilization report for Martin Brower","LCH-2326",2021-02-04,2021-02-12,8
+"Virtual instance is not working properly","LCH-2327",2021-02-05,2021-02-12,7
+"Jenkins service is inaccessible (DNS entry not resolved)","LCH-2328",2021-02-05,2021-02-08,3
+"Backup creation fails","LCH-2330",2021-02-08,2021-02-16,8
+"Disk full on CI Service","LCH-2331",2021-02-08,2021-02-08,0
+"Request to increase dynatrace host limit to 6 for MARTINBROWERUS","LCH-2332",2021-02-08,2021-02-12,4
+"Storage utilization for the database in the mbna-prd environment","LCH-2334",2021-02-08,2021-03-12,32
+"Production server got restarted","LCH-2335",2021-02-09,2021-02-17,8
+"Additional Dynatrace access for Jaguar","LCH-2336",2021-02-09,2021-02-10,1
+"Provision new database instance for Martinbrower","LCH-2343",2021-02-10,2021-03-03,21
+"Request for Dynatrace account details","LCH-2346",2021-02-11,2021-02-18,7
+"Service liferay keeps restarting, even in old builds","LCH-2348",2021-02-12,2021-02-16,4
+"Argus Customer Portal performance testing window for Feb. 2021","LCH-2350",2021-02-13,2021-02-22,9
+"Dynatrace user administration request","LCH-2351",2021-02-13,2021-02-16,3
+"Severe Liferay Service Errors Cause Production to be Unavailable","LCH-2352",2021-02-14,2021-03-05,19
+"Elasticsearch service volume renaming","LCH-2353",2021-02-15,2021-03-01,14
+"Additional Dynatrace access for Jaguar","LCH-2354",2021-02-15,2021-02-16,1
+"elasticsearch cluster in RED: no_valid_shard_copy","LCH-2355",2021-02-15,2021-02-22,7
+"Database connection issue?","LCH-2356",2021-02-15,2021-02-17,2
+"elasticsearch cluster in RED: no_valid_shard_copy","LCH-2357",2021-02-15,2021-02-24,9
+"Request for file from volume","LCH-2358",2021-02-15,2021-02-19,4
+"Liferay Unable to Start Due to Red Search Cluster Health","LCH-2359",2021-02-15,2021-02-23,8
+"liferay service can't connect to search service","LCH-2360",2021-02-16,2021-02-23,7
+"RCA for Public IP change in the custom SFTP Service at host webserver-mbeurope-test--ports.lfr.cloud","LCH-2361",2021-02-16,2021-03-01,13
+"Requesting Dynatrace access for a new user of KLABINDIGWP","LCH-2362",2021-02-16,2021-02-16,0
+"ElasticSearch licence expired on DXP Cloud environment","LCH-2370",2021-02-17,2021-02-23,6
+"CI endpoint is unaccessible","LCH-2371",2021-02-17,2021-02-22,5
+"Add subPath only for Deployments not StatefulSets","LCH-2372",2021-02-17,2021-02-18,1
+"Jenkins check fails for PR","LCH-2373",2021-02-18,2021-04-08,49
+"Values of secrets do not fetch, causing CI service not starting up","LCH-2374",2021-02-18,2021-03-04,14
+"Requesting Dynatrace access for a new user of PROCTEPG","LCH-2375",2021-02-18,2021-02-19,1
+"Liferay Service shutdown/restart analysis","LCH-2376",2021-02-18,2021-03-18,28
+"Java 11 on ci service request","LCH-2379",2021-02-18,2021-03-05,15
+"Activate SSO for Argus","LCH-2380",2021-02-19,2021-02-24,5
+"Production Liferay service previously unavailable due to severe search errors","LCH-2381",2021-02-19,2021-02-23,4
+"Search service always takes an extra 5 minutes to deploy due to error killing pod","LCH-2382",2021-02-20,2021-03-11,19
+"Preview URLs are not functioning in production environment","LCH-2383",2021-02-20,2021-03-09,17
+"Retrieve logs","LCH-2384",2021-02-22,2021-03-03,9
+"Ghost Liferay instance in UAT","LCH-2389",2021-02-23,2021-02-25,2
+"Elasticsearch cluster problem in UAT","LCH-2392",2021-02-23,2021-03-01,6
+"lfrjarvis environment v4 orphaned services issue","LCH-2393",2021-02-23,2021-02-25,2
+"All services goes down while deployment","LCH-2395",2021-02-24,2021-02-26,2
+"Additional Dynatrace access for Jaguar","LCH-2396",2021-02-24,2021-03-02,6
+"Recommendation for Gradle Workspace version to use with DXP 7.2 FP10","LCH-2397",2021-02-24,2021-03-02,6
+"VPN Connection doesn't work","LCH-2399",2021-02-24,2021-03-04,8
+"Investigating CI disk space issues and requesting quota increase for trimedxcustomerportal-infra","LCH-2400",2021-02-24,2021-03-19,23
+"Dynatrace information loss","LCH-2401",2021-02-24,2021-03-15,19
+"Request to clear the CDN’s cache for argusgroup-prod","LCH-2402",2021-02-24,2021-03-03,7
+"PRD is down","LCH-2405",2021-02-25,2021-03-01,4
+"Configure github repository through SSH with public and private keys","LCH-2406",2021-02-25,2021-03-04,7
+"Expose new database instance through the VPN tunnel for MB","LCH-2412",2021-02-25,2021-03-04,7
+"Prod deployment attempting to update JVM parameters is unsuccessful, with OOM and “Unable to get cluster node with address” errors","LCH-2413",2021-02-26,2021-03-05,7
+"Questions about lcp-secret-ci-cli-user and lcp-secret-ci-cli-password (follow up of LCH-2374)","LCH-2417",2021-02-26,2021-03-03,5
+"O2CAREWEBSITE has exceeded their CPU plan","LCH-2418",2021-02-26,2021-03-05,7
+"Service liferay failed to connect to database and was restarted","LCH-2419",2021-02-26,2021-03-08,10
+"Add user to Dynatrace","LCH-2420",2021-03-02,2021-03-04,2
+"Error re-occurs on CI service: 'No disk space left on device'","LCH-2421",2021-03-02,2021-03-12,10
+"Showing that DB and all devices are encrypted","LCH-2422",2021-03-02,2021-03-15,13
+"Volumes permissions set to 777","LCH-2423",2021-03-02,2021-03-15,13
+"DB error while updating the image on UAT","LCH-2424",2021-03-02,2021-03-10,8
+"Database outage in the mbna-test environment","LCH-2425",2021-03-02,2021-03-18,16
+"Correct Dynatrace","LCH-2426",2021-03-03,2021-03-09,6
+"Update nginx and HAProxy to the latest stable version","LCH-2427",2021-03-04,2021-03-12,8
+"Readiness probe failing","LCH-2428",2021-03-04,2021-04-23,50
+"A new certificate for a new custom domain is not valid","LCH-2429",2021-03-04,2021-03-12,8
+"Not able to build CI service due to 401 error","LCH-2430",2021-03-04,2021-03-12,8
+"Improve IPSec VPN logging","LCH-2431",2021-03-04,2021-03-13,9
+"VPN Disconnects","LCH-2432",2021-03-04,2021-03-24,20
+"Security scan analysis","LCH-2433",2021-03-04,2021-03-18,14
+"User is not receiving Argus DXPC environment email invitations","LCH-2436",2021-03-05,2021-03-11,6
+"Feature Request: Mail alert about build deployment","LCH-2437",2021-03-05,2021-03-12,7
+"java.net.UnknownHostException: database--route: Name does not resolve","LCH-2438",2021-03-08,2021-03-08,0
+"User Access adjustments for Argus Dynatrace instance","LCH-2440",2021-03-08,2021-03-12,4
+"Streaming the liferay logs to Dynatrace logs","LCH-2441",2021-03-08,2021-03-12,4
+"Requesting large amount of webserver logs","LCH-2442",2021-03-09,2021-03-19,10
+"DEV environment inaccesible. shows the message: This server has not been activated with Liferay Connected Services.","LCH-2443",2021-03-09,2021-03-17,8
+"Multiple jobs/pipelines present in the lrtma Jenkins instance","LCH-2444",2021-03-10,2021-03-12,2
+"Dynatrace Invitation and Variables","LCH-2446",2021-03-10,2021-03-16,6
+"Builds failing in trimedxcustomerportal-infra due to an existing pipeline lock","LCH-2448",2021-03-10,2021-03-29,19
+"The client lost the demo git repository","LCH-2449",2021-03-11,2021-03-12,1
+"Webserver configurations cannot be updated to disable TLS1.0 and TLS1.1","LCH-2450",2021-03-11,2021-03-18,7
+"Change SSL configuration from compatible to modern profile","LCH-2451",2021-03-11,2021-03-15,4
+"Using the CLI’s lcp deploy command erases the git origin configuration","LCH-2452",2021-03-11,2021-04-09,29
+"Client Request: Using Azure DevOps for their git repository","LCH-2454",2021-03-11,2021-03-12,1
+"Unable to access shell in the mbna-prd environment","LCH-2458",2021-03-12,2021-03-12,0
+"Can not deploy hotfix","LCH-2463",2021-03-15,2021-03-17,2
+"End point is not ready to receive requests","LCH-2464",2021-03-16,2021-03-23,7
+"Temporary increase for MB","LCH-2467",2021-03-16,2021-03-22,6
+"Service doesn't start","LCH-2468",2021-03-16,2021-04-05,20
+"Registering custom domains for exposed ports","LCH-2469",2021-03-16,2021-03-25,9
+"Questions about using the API to invalidate a client's CDN cache","LCH-2471",2021-03-17,2021-03-26,9
+"Customer cannot restore dev environment","LCH-2473",2021-03-17,2021-04-20,34
+"Requesting disk space quota increase for trimedxcustomerportal-infra’s Jenkins instance","LCH-2474",2021-03-17,2021-03-31,14
+"NPE after update to the last release","LCH-2475",2021-03-17,2021-04-15,29
+"Build 377 never deploys to UAT","LCH-2476",2021-03-18,2021-03-29,11
+"Error with scheduled backup","LCH-2478",2021-03-19,2021-03-26,7
+"Custom services not able to be clustered together","LCH-2482",2021-03-19,2021-04-23,35
+"Koroneiki UAT times out intermittently","LCH-2486",2021-03-20,2021-05-14,55
+"When auto-scaling is disabled the single node goes down(?)","LCH-2487",2021-03-22,2021-03-22,0
+"Unable to register license after restoring a prd backup in uat","LCH-2488",2021-03-22,2021-03-29,7
+"Obtain heap dump from container","LCH-2491",2021-03-23,2021-03-25,2
+"CI builds failing","LCH-2492",2021-03-23,2021-04-13,21
+"VPN not working in non-prd environments","LCH-2493",2021-03-23,2021-03-25,2
+"the service in PRD has been lost during 20 minutes","LCH-2496",2021-03-23,2021-04-08,16
+"Memory leak in DXP Cloud browser tab","LCH-2498",2021-03-24,2021-05-19,56
+"Revealing a secret on Edit screen is not logged as Activity","LCH-2499",2021-03-24,2021-03-24,0
+"Metrics period limitation","LCH-2500",2021-03-25,2021-04-02,8
+"Back-off restarting failed container","LCH-2501",2021-03-25,2021-03-29,4
+"Request: create read-only user for Jenkins","LCH-2502",2021-03-25,2021-04-06,12
+"Webserver not resolving after custom domain change","LCH-2503",2021-03-25,2021-04-08,14
+"questions about the service after adding a new custom domain","LCH-2506",2021-03-26,2021-04-08,13
+"Delete unused pipelines from STOXX's Jenkins","LCH-2507",2021-03-26,2021-03-26,0
+"Please provide binary logs for MARTINBROWER","LCH-2508",2021-03-26,2021-04-07,12
+"Heap dump request for kdolwebsite-prd","LCH-2509",2021-03-26,2021-04-07,12
+"Network endpoints not reaching a ready status for many hours","LCH-2510",2021-03-26,2021-05-10,45
+"Old build of ""adminer"" and ""liferayupgrade"" running","LCH-2517",2021-03-30,2021-03-30,0
+"Threat Stack service","LCH-2519",2021-03-30,2021-04-08,9
+"I need to test a cluster in the supportes environment","LCH-2525",2021-03-30,2021-03-30,0
+"Issues with failover replica","LCH-2526",2021-03-30,2021-04-08,9
+"Prod down - readiness probe failing","LCH-2527",2021-03-30,2021-03-31,1
+"Increase Custom Domains limit","LCH-2528",2021-03-30,2021-03-31,1
+"Coronasahayata.in Production Site is Down","LCH-2530",2021-03-31,2021-03-31,0
+"Autoscaling activities","LCH-2531",2021-03-31,2021-04-01,1
+"Escalation Critical Incident LCH-2530","LCH-2532",2021-03-31,2021-03-31,0
+"Can not access webserver endpoint","LCH-2533",2021-03-31,2021-04-26,26
+"Backup creation fails with socket hang up error","LCH-2534",2021-03-31,2021-05-03,33
+"Default domains aren't working","LCH-2535",2021-03-31,2021-04-07,7
+"Restore failed / license not available","LCH-2536",2021-03-31,2021-05-04,34
+"LCP deploy is not working","LCH-2537",2021-03-31,2021-03-31,0
+"Feature Request: Add Nginx Plus in webserver service","LCH-2538",2021-04-01,2021-04-02,1
+"Backups are not being created","LCH-2539",2021-04-01,2021-04-06,5
+"Improvement request - CLI message for missing lcp.json","LCH-2540",2021-04-01,2021-04-02,1
+"SSL Certificate did not auto-renew","LCH-2541",2021-04-01,2021-04-12,11
+"Instance restarted - Pod sandbox changed, it will be killed and re-created","LCH-2542",2021-04-01,2021-04-13,12
+"SSL certificate Expired","LCH-2543",2021-04-01,2021-04-13,12
+"Jenkins disk usage","LCH-2552",2021-04-05,2021-04-19,14
+"Liferay service in restart loop","LCH-2563",2021-04-06,2021-04-15,9
+"Improvement Request - Create alert for cert renewal failure","LCH-2564",2021-04-06,2021-04-07,1
+"AC project owner cannot access environments, is instead redirected to the /projects page","LCH-2565",2021-04-06,2021-04-30,24
+"CI has an unlimited access user to liferay.com internal services","LCH-2566",2021-04-07,2021-04-08,1
+"Improvement Request - Multiple Jenkins Credentials","LCH-2567",2021-04-07,2021-04-07,0
+"Search service with expired license","LCH-2568",2021-04-07,2021-04-13,6
+"Antivirus support","LCH-2570",2021-04-08,2021-04-22,14
+"High disk Watermark on Search - DEV environment","LCH-2571",2021-04-08,2021-04-21,13
+"Console SSO configuration request for lfrgeneralatlantic","LCH-2572",2021-04-08,2021-04-14,6
+"Requesting additional information about supporting multiple private keys","LCH-2574",2021-04-09,2021-04-28,19
+"VPN down in dev and UAT","LCH-2575",2021-04-09,2021-04-15,6
+"Disable weak Ciphers","LCH-2578",2021-04-12,2021-04-22,10
+"Questions about options for acquiring logs in an automated fashion","LCH-2579",2021-04-13,2021-04-27,14
+"UNAV Customer Portal performance testing window for April 2021","LCH-2580",2021-04-13,2021-04-19,6
+"GC on Elasticsearch pod","LCH-2581",2021-04-13,2021-04-19,6
+"Request: Dynatrace access in the UNAV project","LCH-2582",2021-04-13,2021-04-16,3
+"Multiple internal -prd and -uat environments disconnected from the VPN during last night's maintenance, and are unable to reconnect","LCH-2584",2021-04-13,2021-04-15,2
+"Trying to upgrade to SP4","LCH-2586",2021-04-14,2021-04-19,5
+"Request to disable TLS 1.0 and TLS 1.1 in utrgv-prd","LCH-2587",2021-04-14,2021-04-16,2
+"The backup service autoscaled to 1 instances","LCH-2588",2021-04-14,2021-06-01,48
+"Liferay service showing sql errors","LCH-2589",2021-04-14,2021-04-30,16
+"The web.server.display.node property’s configuration is not reflected in UAT type environments","LCH-2590",2021-04-14,2021-04-15,1
+"Database backup restore extremely slow","LCH-2593",2021-04-15,2021-04-15,0
+"Questions about creating an alternate/custom CI","LCH-2594",2021-04-15,2021-04-19,4
+"Production Liferay service restarted after database went down, with logged “Pod sandbox changed, it will be killed and re-created” status message","LCH-2595",2021-04-15,2021-05-19,34
+"The lctargusraylife-dev/team page is currently inaccessible after adding new users","LCH-2598",2021-04-15,2021-04-27,12
+"CI is not getting ready","LCH-2599",2021-04-15,2021-04-16,1
+"Storing the Dynatrace Tenant/Token in secret variables causes the ""Advanced"" tab to be hidden","LCH-2600",2021-04-16,2021-04-19,3
+"The ""Create Secret"" validation hides the required checkboxes, preventing secrets from being created after the required field is filled","LCH-2601",2021-04-16,2021-04-19,3
+"Change SSL Policy","LCH-2602",2021-04-16,2021-04-23,7
+"User cannot access environments, is instead redirected to the /projects page","LCH-2603",2021-04-16,2021-04-23,7
+"Autoscaling","LCH-2608",2021-04-19,2021-04-21,2
+"Let's Encrypt certificates are not being created for all of the custom domains in UAT","LCH-2609",2021-04-19,2021-04-22,3
+"NET::ERR_CERT_DATE_INVALID on PRD site","LCH-2611",2021-04-19,2021-04-19,0
+"Additional user cannot access environments, is instead redirected to the /projects page","LCH-2613",2021-04-20,2021-04-30,10
+"Dynatrace invitation","LCH-2614",2021-04-20,2021-04-22,2
+"Production service restarted: ""Pod sandbox changed, it will be killed and re-created""","LCH-2615",2021-04-20,2021-05-19,29
+"MBNA database replication mode migration - UAT","LCH-2616",2021-04-20,2021-04-28,8
+"IOException when deploying a build on a running environment","LCH-2618",2021-04-21,2021-05-24,33
+"Investigate services restarts","LCH-2619",2021-04-21,2021-05-19,28
+"SSL errors on custom domain: External SSL certificate and key on custom domain is not being served and falling back on the default liferay.cloud certificate","LCH-2621",2021-04-22,2021-04-27,5
+"Load balancer - Block traffic outside United States","LCH-2623",2021-04-23,2021-04-26,3
+"Website was down on 04/20 at 21:11 GMT","LCH-2624",2021-04-23,2021-05-06,13
+"Let's encrypt certificate messages in webserver logs","LCH-2625",2021-04-23,2021-05-19,26
+"WAF rules","LCH-2626",2021-04-26,2021-05-13,17
+"VPN is down in PRD","LCH-2627",2021-04-26,2021-04-26,0
+"PRD's DB is on read-only mode","LCH-2628",2021-04-26,2021-04-29,3
+"Additional environments cannot be accessed by users, as they are instead redirected to the /projects page","LCH-2629",2021-04-26,2021-05-03,7
+"SKYTV: PROD Database is in Read-Only mode","LCH-2630",2021-04-28,2021-04-29,1
+"The MySQL server is running with the --read-only option","LCH-2631",2021-04-28,2021-04-30,2
+"Updated actions are not allowed: The MySQL server is running with the --read-only option","LCH-2632",2021-04-28,2021-04-30,2
+"VPN down in PRD","LCH-2633",2021-04-29,2021-04-29,0
+"Unable to use custom domains","LCH-2634",2021-04-29,2021-05-06,7
+"VPN service blocked","LCH-2635",2021-04-29,2021-04-30,1
+"Deployment fail for Backup service - timeout","LCH-2639",2021-04-30,2021-05-18,18
+"VPN down in PRD","LCH-2640",2021-04-30,2021-05-10,10
+"Unable to access projects in DXP Cloud","LCH-2642",2021-05-01,2021-05-13,12
+"Requesting Dynatrace access for users of STOXXHOSTING",":CH-2643",2021-05-03,2025-01-10,1348
+"Cannot read property 'timestamp' of undefined on CLI","LCH-2644",2021-05-03,2021-05-04,1
+"Unable to restore a 19GB backup on environment","LCH-2646",2021-05-04,2021-05-14,10
+"override -XX:NewSize and -XX:MaxNewSize with a ratio is not possible","LCH-2647",2021-05-04,2021-05-11,7
+"Unable to acquire 24hrs of logging using the CLI","LCH-2648",2021-05-05,2021-05-19,14
+"Liferay service restart occurred (causing downtime) - ""Pod sandbox changed""","LCH-2649",2021-05-05,2021-05-24,19
+"Thread dump request for pidilite-uat","LCH-2650",2021-05-05,2021-05-12,7
+"Liferay not starting due to database errors in KBC's environments in Private Cluster","LCH-2651",2021-05-05,2021-05-13,8
+"Connection timeouts to many different services after restart","LCH-2653",2021-05-06,2021-06-04,29
+"Expired certificate","LCH-2654",2021-05-06,2021-05-06,0
+"Request to shut down three private clusters","LCH-2656",2021-05-06,2021-05-13,7
+"Webserver performance tuning reference","LCH-2657",2021-05-07,2021-05-13,6
+"Periodic UnknownHostException on DXPC","LCH-2658",2021-05-07,2021-06-09,33
+"supportapac-bsuh environment v4 orphaned services issue","LCH-2659",2021-05-07,2021-05-13,6
+"Custom domains should show up on the network tab when the certs property is being used","LCH-2660",2021-05-07,2021-05-14,7
+"DR environment's Let's Encrypt certificate did not auto-renew, leading to downtime after switching the DNS to the DR environment","LCH-2661",2021-05-07,2021-05-27,20
+"Unable to login via SSO","LCH-2663",2021-05-08,2021-05-10,2
+"Can not login to Console DXP Cloud","LCH-2664",2021-05-08,2021-05-08,0
+"Alert trigger details","LCH-2665",2021-05-10,2021-05-14,4
+"Alternative to saving the SSL custom certificate on the LCP.json","LCH-2666",2021-05-10,2021-05-14,4
+"VPN restart for Klabin","LCH-2667",2021-05-10,2021-05-11,1
+"New domains are not secure","LCH-2669",2021-05-11,2021-05-19,8
+"Dynatrace user administration request","LCH-2671",2021-05-11,2021-05-17,6
+"User cannot access environment, is instead redirected to the /projects page","LCH-2672",2021-05-11,2021-05-14,3
+"Production downtime has been reported","LCH-2673",2021-05-11,2021-05-20,9
+"Elasticsearch persistent storage increase from 100Gib to 300Gib for liferaycloud-ac4","LCH-2676",2021-05-11,2021-05-13,2
+"Fragment module refresh after restart","LCH-2677",2021-05-12,2021-05-21,9
+"Increase Jenkins' disk space for STOXX","LCH-2678",2021-05-12,2021-05-14,2
+"How to use lcp login with --no-browser option on Windows 10","LCH-2679",2021-05-12,2021-05-13,1
+"HTTP/2 in DXP Cloud","LCH-2680",2021-05-12,2021-05-12,0
+"Builds sometimes failing with network errors","LCH-2681",2021-05-12,2021-05-21,9
+"Dynatrace permissions questions","LCH-2684",2021-05-14,2021-05-24,10
+"DXP Cloud account creation confirmation email","LCH-2685",2021-05-15,2021-05-21,6
+"Koroneiki UAT times out intermittently","LCH-2686",2021-05-15,2021-06-17,33
+"CI failure after Stack upgrade","LCH-2687",2021-05-17,2021-05-28,11
+"No Space Left on Device error","LCH-2688",2021-05-17,2021-05-27,10
+"DXPC CI is not building","LCH-2692",2021-05-18,2021-06-09,22
+"Heapdumps request for pidilite-prd","LCH-2694",2021-05-18,2021-05-27,9
+"Customer wants to whitelist IP Liferay services","LCH-2695",2021-05-18,2021-05-25,7
+"SSO SP Configuration Request for MBOCP","LCH-2696",2021-05-18,2021-06-07,20
+"PRD unstable","LCH-2697",2021-05-18,2021-05-20,2
+"Dynatrace Users","LCH-2699",2021-05-18,2021-05-20,2
+"Liferay service restarted on it's own","LCH-2701",2021-05-19,2021-06-04,16
+"Implement HSTS on DXP Cloud","LCH-2702",2021-05-19,2021-06-01,13
+"User cannot access environment, is instead redirected to the /projects page","LCH-2703",2021-05-19,2021-05-31,12
+"Restricting access by Geographical Location in Webserver","LCH-2704",2021-05-20,2021-05-25,5
+"Build stuck in DEV","LCH-2705",2021-05-20,2021-06-10,21
+"Feature Request: Crontab on Webserver service","LCH-2706",2021-05-20,2021-05-24,4
+"VPN on DEV is not responding","LCH-2707",2021-05-20,2021-06-07,18
+"Error pushing an updated build (Only difference is an updated WAR) build 404 -> 406","LCH-2709",2021-05-20,2021-06-01,12
+"Are we allowed to share APIs with customers?","LCH-2710",2021-05-21,2021-05-26,5
+"Open VPN Issue","LCH-2711",2021-05-21,2021-06-08,18
+"Increase disk space for Elasticsearch","LCH-2712",2021-05-21,2021-06-04,14
+"Why was the Liferay service automatically shutdown on a DXPC Prod Instance?","LCH-2713",2021-05-24,2021-05-31,7
+"Add Dynatrace User","LCH-2714",2021-05-24,2021-05-27,3
+"Feature Request: Manage Users Account Permission for Dynatrace","LCH-2716",2021-05-25,2021-05-25,0
+"Customer(integration team) is not able to connect to NA prod database","LCH-2717",2021-05-25,2021-06-01,7
+"CI service failing","LCH-2718",2021-05-25,2021-05-28,3
+"Performance tests in UAT","LCH-2719",2021-05-26,2021-05-28,2
+"Webserver service lost connection with the Liferay service causing the downtime","LCH-2720",2021-05-26,2021-05-31,5
+"Error updating the CI to the jenkins:2.277.4-4.2.2 versin. Failed to load plugin.","LCH-2721",2021-05-26,2021-05-28,2
+"Backup creation fails with ECONNRESET","LCH-2724",2021-05-27,2021-07-16,50
+"Add user to Dynatrace","LCH-2725",2021-05-27,2021-05-31,4
+"Liferay deployment ERROR: error fetching storage source: generic::unknown: retry budget exhausted","LCH-2728",2021-05-27,2021-06-09,13
+"Rotate CLI credentials for supportlatam CI service","LCH-2730",2021-05-28,2021-06-03,6
+"Increase the number of collaborators for STOXX","LCH-2731",2021-05-28,2021-06-07,10
+"Default secrets cannot be edited and UI fails to load when the Liferay service is not present","LCH-2732",2021-05-28,2021-06-11,14
+"Add user to Dynatrace","LCH-2733",2021-05-31,2021-05-31,0
+"Production service restarted: ""Pod sandbox changed, it will be killed and re-created""","LCH-2734",2021-06-01,2021-06-01,0
+"Production service restarted: ""Pod sandbox changed, it will be killed and re-created""","LCH-2735",2021-06-01,2021-06-01,0
+"401 Access denied. User is missing or has incorrect credentials","LCH-2736",2021-06-01,2021-06-02,1
+"Backups are inaccessible in the UI with ""Cannot read property 'creator_email' of undefined"" error in logs","LCH-2737",2021-06-01,2021-06-11,10
+"User cannot access environment, is instead redirected to the /projects page","LCH-2740",2021-06-02,2021-06-10,8
+"Liferay is loosing connection with Database","LCH-2741",2021-06-02,2021-06-04,2
+"Liferay keeps restarting","LCH-2742",2021-06-02,2021-06-17,15
+"Add user to Dynatrace","LCH-2743",2021-06-02,2021-06-07,5
+"Despite showing “connected” status, VPN actions in multiple projects are failing and resulting in HttpHostConnectException ‘Operation timed out‘ messages","LCH-2744",2021-06-02,2021-06-07,5
+"Liferay Instance's memory issue","LCH-2745",2021-06-02,2021-07-07,35
+"Pod sandbox changed: will be killed and restarted.","LCH-2746",2021-06-02,2021-06-02,0
+"Unable to Download Logs from Console","LCH-2748",2021-06-02,2021-06-04,2
+"Restoration events taking much longer than expected in liferaywww","LCH-2749",2021-06-03,2021-06-16,13
+"Request to fully remove and re-provision liferaygs project","LCH-2752",2021-06-03,2021-06-16,13
+"Unable to download logs","LCH-2753",2021-06-03,2021-06-04,1
+"Can not download logs","LCH-2754",2021-06-03,2021-06-04,1
+"Can't download logs","LCH-2755",2021-06-03,2021-06-04,1
+"Downtime during deploy (HTTP 503)","LCH-2757",2021-06-03,2021-06-24,21
+"Disable TLS 1.0 and 1.1","LCH-2761",2021-06-04,2021-06-09,5
+"Add read-only user to STOXXHOSTING's Dynatrace","LCH-2764",2021-06-07,2021-06-08,1
+"VPN tunnel is down","LCH-2765",2021-06-07,2021-06-07,0
+"High Memory Usage alert","LCH-2766",2021-06-07,2021-06-28,21
+"Requesting disk space quota increase for trimedxcustomerportal-infra’s Jenkins instance","LCH-2768",2021-06-08,2021-06-09,1
+"CI is not building because no space left","LCH-2770",2021-06-08,2021-06-10,2
+"Change SSL Policy to Modern","LCH-2771",2021-06-08,2021-06-11,3
+"High memory usage","LCH-2772",2021-06-08,2021-06-17,9
+"Insecure cypher protocols used","LCH-2774",2021-06-09,2021-06-14,5
+"HA Migration","LCH-2776",2021-06-09,2021-06-17,8
+"HA Migration","LCH-2777",2021-06-09,2021-06-19,10
+"HA Migration","LCH-2778",2021-06-09,2021-06-15,6
+"Unable to access Team page in SUPPORTES-infra environment","LCH-2779",2021-06-10,2021-06-18,8
+"Disk usage in Liferay Pod","LCH-2781",2021-06-10,2021-06-22,12
+"Disable TLS 1.0 & TLS 1.1 for KBCBANKIRELAND","LCH-2782",2021-06-11,2021-06-16,5
+"The production is down with the error [JDBCExceptionReporter:234]","LCH-2785",2021-06-14,2021-07-06,22
+"Custom cypher profile for FCCDIGITALSERVICES","LCH-2786",2021-06-14,2021-06-18,4
+"Please evaluate the customer's security report","LCH-2787",2021-06-14,2021-07-01,17
+"Export certificate format .pfx","LCH-2788",2021-06-14,2021-06-18,4
+"SSL Cert Renewal","LCH-2789",2021-06-14,2021-06-29,15
+"layout.show.http.status=false does not work","LCH-2790",2021-06-15,2021-06-17,2
+"Saving VPN configuration fails","LCH-2791",2021-06-15,2021-06-21,6
+"Increase Disk size for Klabin's DEV Search service","LCH-2793",2021-06-15,2021-06-17,2
+"UAT env is completely shut down after attempting to restore db","LCH-2794",2021-06-15,2021-06-17,2
+"Request to increase quota amounts for lrpartner project","LCH-2795",2021-06-15,2021-06-17,2
+"500 error when accessing sapphireprojemu project's ""Team"" link in DXP Cloud Console","LCH-2796",2021-06-16,2021-06-24,8
+"User cannot access environment, is instead redirected to the /projects page","LCH-2797",2021-06-16,2021-06-24,8
+"is it supported to modify LCP_BACKUP_FOLDER?","LCH-2798",2021-06-16,2021-06-17,1
+"UAT site unresponsive","LCH-2799",2021-06-16,2021-06-23,7
+"Client reaches the again the custom domain limit.","LCH-2800",2021-06-17,2021-07-30,43
+"Avoid caching some urls into the CDN","LCH-2802",2021-06-17,2021-07-07,20
+"User cannot access environment, is instead redirected to the /projects page","LCH-2803",2021-06-17,2021-06-24,7
+"UI got distorted in all environments with NoNodeAvailableException in Liferay service","LCH-2804",2021-06-18,2021-06-21,3
+"NoNodeAvailableException error. Portal stopped working","LCH-2805",2021-06-18,2021-06-21,3
+"TMA Back up database is missing","LCH-2806",2021-06-18,2021-06-22,4
+"User and Application Interface Templates display issues (DEV, UAT)","LCH-2807",2021-06-18,2021-06-23,5
+"Error after Build CI/CD in DEV UAT","LCH-2808",2021-06-18,2021-06-22,4
+"Disable TLS < 1.2 in leehealth1916 DXPC Environments","LCH-2809",2021-06-18,2021-06-22,4
+"Unable to restore any backup to -dev environment due to 500 error","LCH-2810",2021-06-19,2021-06-25,6
+"prod tab does not appear in DR environment","LCH-2811",2021-06-21,2021-07-06,15
+"Heap Dumps. Liferay Instance's memory issue","LCH-2812",2021-06-21,2021-06-22,1
+"How to monitor ehCache caches in Liferay DXP Cloud?","LCH-2813",2021-06-21,2021-06-22,1
+"Builds are triggered from multiple branches when there's a push to only one branch","LCH-2815",2021-06-21,2021-07-09,18
+"Unable to navigate within dxp cloud environment","LCH-2818",2021-06-22,2021-06-23,1
+"Jenkins fails all new builds","LCH-2819",2021-06-22,2021-06-22,0
+"Unable to login into DXPC console","LCH-2820",2021-06-22,2021-06-22,0
+"Infra environment doesn't work properly","LCH-2821",2021-06-22,2021-06-24,2
+"Add user to Github","LCH-2822",2021-06-22,2021-06-23,1
+"VODAFONEUKCP conducting PEN tests 06.21-07.31.","LCH-2823",2021-06-22,2021-06-22,0
+"How to use Liferay's OpenOffice integration feature in a DXP Cloud environment","LCH-2825",2021-06-23,2021-07-06,13
+"Add users to Dynatrace","LCH-2826",2021-06-24,2021-06-24,0
+"Disable TLS 1.0 and 1.1 on DEV and UAT","LCH-2827",2021-06-24,2021-06-25,1
+"Deshabilitar protocolo TLS 1.0 y TLS 1.1","LCH-2828",2021-06-24,2021-06-25,1
+"Deactivate TLS: TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048)","LCH-2831",2021-06-24,2021-06-25,1
+"Images of the environment's localization are not loading in DXP cloud console","LCH-2832",2021-06-25,2021-07-19,24
+"Backup not working: DatabaseUnavailableError: A backup is in progress","LCH-2833",2021-06-25,2021-07-01,6
+"COUNCICOEINT insists to use hot deployments and session replication in DXP Cloud","LCH-2834",2021-06-25,2021-06-30,5
+"Jenkins is down","LCH-2835",2021-06-25,2021-06-28,3
+"Please change jmliferay-dev2 to jmliferay-test","LCH-2837",2021-06-28,2021-07-07,9
+"Admin users did not receive initial invitation emails for the dynasolpublicweb project","LCH-2838",2021-06-28,2021-07-13,15
+"PUMAMADONNA provisioning questions","LCH-2839",2021-06-29,2021-06-30,1
+"Analytics Cloud Clusters Restart","LCH-2841",2021-06-30,2021-07-04,4
+"Koroneiki UAT times out intermittently","LCH-2842",2021-06-30,2021-07-19,19
+"Liferay Service is getting restarted because of readiness and liveness probe failure","LCH-2843",2021-07-01,2021-07-14,13
+"500 Internal Server Error when opening cove-st1 and cove-st4 Teams","LCH-2844",2021-07-01,2021-07-13,12
+"Unable to configure the Jenkins/CI to connect with gitlab","LCH-2849",2021-07-02,2021-07-08,6
+"Dynatrace Setup for PUMAMADONNA","LCH-2851",2021-07-05,2021-07-06,1
+"Analytics Cloud Clusters Restart - increase space","LCH-2852",2021-07-07,2021-07-08,1
+"list of all users having access to Dynatrace","LCH-2853",2021-07-07,2021-07-16,9
+"Remove the Evicted backup pods from europe-west2-c1","LCH-2854",2021-07-07,2021-07-08,1
+"Gitlab Branch Source plugin has started to fail: Expecting a valid secret token","LCH-2855",2021-07-07,2021-07-08,1
+"Max services quota increase request for trimedxcustomerportal","LCH-2860",2021-07-08,2021-07-13,5
+"Liferay keeps restarting","LCH-2861",2021-07-09,2021-07-15,6
+"User change on Bitbucket is not reflected and not allowing to make further deployments","LCH-2862",2021-07-09,2021-07-13,4
+"Dynatrace user administration request - ALEXION","LCH-2863",2021-07-12,2021-07-14,2
+"Disable TLS 1.0 and 1.1 and disable weak cyphers","LCH-2864",2021-07-12,2021-07-22,10
+"Analytics Cloud UAT (Staging) Cluster Setup","LCH-2865",2021-07-12,2021-07-16,4
+"backups are failing due to max_allowed_packet exceed error","LCH-2871",2021-07-13,2021-07-30,17
+"Add user to Dynatrace","LCH-2872",2021-07-13,2021-07-14,1
+"Backup Restore Is Inaccessible","LCH-2873",2021-07-14,2021-07-14,0
+"DXP cloud platform backup page is blank","LCH-2874",2021-07-14,2021-07-16,2
+"AAIB pentests on 25th of July","LCH-2876",2021-07-14,2021-07-14,0
+"Request for JVM Logs from July 9 and July 10","LCH-2877",2021-07-14,2021-07-21,7
+"Team screen not accesible in PRD environment - 500 error","LCH-2878",2021-07-15,2021-07-20,5
+"Invalid Cert for new custom domain","LCH-2879",2021-07-15,2021-07-16,1
+"Ci service not getting to ready state after a manual restart","LCH-2880",2021-07-15,2021-08-05,21
+"Thread dump request for pumamadonna-prd","LCH-2881",2021-07-16,2021-07-23,7
+"Unable to load Backups on MBNA & MB Europe Backup Pages","LCH-2882",2021-07-16,2021-07-21,5
+"Need to know when an Elasticsearch image for 6.8.17 will be released for DXP Cloud","LCH-2883",2021-07-16,2021-07-20,4
+"DBA Role","LCH-2884",2021-07-16,2021-07-21,5
+"Backups fail with Socket hang up error on the 15th of July","LCH-2888",2021-07-16,2021-07-26,10
+"Connect CI to a private internal bitbucket","LCH-2889",2021-07-19,2021-07-20,1
+"Sitemap.xml for DXP Cloud","LCH-2890",2021-07-20,2021-07-30,10
+"Add Marcellus Tavares as owner on GCP project in LCH-2865 and add visibility in DXPC project list","LCH-2891",2021-07-20,2021-07-23,3
+"Endpoint https://osbasahmonolith-asahf026cf5b78aa4192bcdab4aaa3cabfb0.lfr.cloud/ is unresponsive","LCH-2892",2021-07-20,2021-07-22,2
+"Cert is not being created for new custom domains","LCH-2893",2021-07-20,2021-07-30,10
+"Failed maintenance on the database service","LCH-2894",2021-07-21,2021-07-24,3
+"Old backups within 30 days not available","LCH-2895",2021-07-21,2021-08-13,23
+"Change SSL Policy to Modern","LCH-2896",2021-07-22,2021-07-22,0
+"Apply modern profile on Interbank's UAT","LCH-2897",2021-07-22,2021-07-23,1
+"Invalid prod certificate","LCH-2901",2021-07-22,2021-08-05,14
+"Deployments are failing","LCH-2902",2021-07-23,2021-07-23,0
+"Deployments are failing: Back-off pulling image ""gcr.io/liferaycloud/4kvgqlvp0b3e16hz38edxgl67:327""","LCH-2903",2021-07-23,2021-07-23,0
+"New custom domains are unsecure","LCH-2905",2021-07-23,2021-08-20,28
+"Deploying stack updates for 7.2 or 7.3, fails on the liferay deploy","LCH-2906",2021-07-24,2021-08-09,16
+"Dynatrace access for JOHNSONMCUSTOM","LCH-2907",2021-07-26,2021-07-28,2
+"RECC Portal will carry out penetration test between July 26 and Aug 2","LCH-2908",2021-07-26,2021-07-29,3
+"Secrets are not created for deployments","LCH-2909",2021-07-26,2021-08-06,11
+"Increase Disk size for P&G's DEV Search service","LCH-2910",2021-07-26,2021-07-27,1
+"Certificates not generated for custom domains","LCH-2912",2021-07-27,2021-07-28,1
+"Liferay Cloud Platform Maintenance - Cluster Upgrade Maintenance","LCH-2913",2021-07-28,2021-08-20,23
+"Request to remove corrupted volumes following ""killed"" error encountered during backup volume restoration event","LCH-2915",2021-07-29,2021-08-26,28
+"Cannot proceed with the login process","LCH-2916",2021-07-29,2021-08-18,20
+"Using nmap over ingress ip report several open ports","LCH-2917",2021-07-29,2021-08-10,12
+"Please delete unused customer environments","LCH-2918",2021-07-30,2021-08-11,12
+"Courtesy page during Cluster Upgrade Maintenance","LCH-2919",2021-07-30,2021-08-04,5
+"Increase Elasticsearch storage space in Analytics Cloud UAT (Staging) Cluster Setup","LCH-2920",2021-07-30,2021-08-05,6
+"Vodafone would like to know the password for cove@liferay.com","LCH-2921",2021-08-02,2021-08-06,4
+"Enabling CDN affects max-age","LCH-2922",2021-08-02,2021-08-19,17
+"Selecting a database TGZ from Backup does not populate the file picker with the file name","LCH-2924",2021-08-04,2021-08-17,13
+"Include read-only users to JAGUARGRP's Dynatrace","LCH-2925",2021-08-04,2021-08-12,8
+"Self signed certificate for each virtual instances","LCH-2926",2021-08-04,2021-08-20,16
+"Access to Analytics Cloud Repos on Docker Hub","LCH-2927",2021-08-04,2021-08-04,0
+"Backup creation failed 2 times for the customer","LCH-2928",2021-08-04,2021-09-24,51
+"Please generate sp metadata for the customer for SSO","LCH-2931",2021-08-05,2021-08-19,14
+"Cannot Create Secrets After Leaving a Field Blank","LCH-2932",2021-08-05,2021-08-25,20
+"Source code access request for ANALYTICS projects","LCH-2935",2021-08-06,2021-08-12,6
+"Unable to deploy on DXP Cloud due to ERROR: Error fetching remote repo 'origin'","LCH-2936",2021-08-09,2021-09-10,32
+"Please disable TLS v1.0 for customer","LCH-2937",2021-08-10,2021-08-11,1
+"PRD to DR Backup-Restore failed","LCH-2938",2021-08-10,2021-08-19,9
+"Add user to Dynatrace","LCH-2941",2021-08-10,2021-08-11,1
+"VPN is intermittent on Klabin's PRD","LCH-2942",2021-08-11,2021-08-16,5
+"Malware could be uploaded in Document and media","LCH-2943",2021-08-11,2021-08-20,9
+"Another PRO environment request for FCCDIGITALSERVICES","LCH-2944",2021-08-11,2021-08-16,5
+"Disable weak cipher suites","LCH-2945",2021-08-12,2021-08-19,7
+"Please provide a Jenkins server to ANALYTICS","LCH-2946",2021-08-12,2021-08-25,13
+"Liferay Jenkins CI Memory / CPU issues","LCH-2947",2021-08-12,2021-08-25,13
+"500 Errors on Console","LCH-2948",2021-08-13,2021-08-13,0
+"Errors when trying to restore from backup","LCH-2950",2021-08-13,2021-09-24,42
+"VPN is intermittent in PRD","LCH-2954",2021-08-16,2021-08-19,3
+"Increase collaborator limit","LCH-2955",2021-08-17,2021-08-20,3
+"Lack of java.locale.providers in Liferay Service","LCH-2956",2021-08-17,2021-08-27,10
+"Add additional users to Dynatrace account","LCH-2957",2021-08-18,2021-08-23,5
+"Create a Streamlined Process for Installing Fixpacks","LCH-2960",2021-08-19,2021-08-20,1
+"Change project's Location","LCH-2961",2021-08-20,2021-09-06,17
+"Client’s -dr environment was provisioned to the same data center as -prd","LCH-2962",2021-08-20,2021-08-23,3
+"Dynatrace access for liferaywww","LCH-2964",2021-08-20,2021-08-23,3
+"Ourloungecloud penetration testing planned for Aug. 20-21","LCH-2965",2021-08-20,2021-08-22,2
+"ci jenkins service unable to start","LCH-2966",2021-08-23,2021-08-25,2
+"UTR Prod environment can not be logged into and is encountering numerous time out issues","LCH-2967",2021-08-23,2021-08-26,3
+"Kablin's VPN on PRD is presenting intermittency","LCH-2968",2021-08-23,2021-10-22,60
+"How to implement NIST DFARS security scans in DXPC environments","LCH-2969",2021-08-23,2021-08-30,7
+"Add user to lvhnextranet dynatrace account","LCH-2970",2021-08-24,2021-08-26,2
+"Heap dumps for daikingip-dev/liferay","LCH-2971",2021-08-24,2021-08-30,6
+"Module and Fragment not working after restart of service","LCH-2972",2021-08-24,2021-09-08,15
+"Disabling TLS 1.0 & 1.1","LCH-2976",2021-08-25,2021-09-01,7
+"Request to add users to ALEXION Dynatrace account","LCH-2977",2021-08-25,2021-08-30,5
+"Increase limit on lrprovisioning project","LCH-2979",2021-08-25,2021-08-27,2
+"Access to Dynatrace","LCH-2980",2021-08-26,2021-08-30,4
+"Add user to JAGUARGRP's Dynatrace","LCH-2981",2021-08-26,2021-09-01,6
+"Status Alert trigger","LCH-2983",2021-08-27,2021-09-15,19
+"Revoke access for user in JAGUARGRP's Dynatrace","LCH-2984",2021-08-27,2021-09-01,5
+"Please confirm that the IPs are not blocked","LCH-2985",2021-08-27,2021-09-01,5
+"ATLANTIAPUBWEB penetration testing on September 13","LCH-2987",2021-08-30,2021-08-31,1
+"Can not connect to OpenVPN server","LCH-2988",2021-08-30,2021-09-14,15
+"Database Open Access issue flagged by client's penetration test security report","LCH-2992",2021-08-30,2021-09-10,11
+"Jenkins build fails with ERROR: the command ... had an exit value of 1","LCH-2993",2021-08-31,2021-09-01,1
+"Builds fail due to no space left on device","LCH-2994",2021-08-31,2021-09-01,1
+"Let's Encrypt PRD Certificate Expired","LCH-2996",2021-08-31,2021-09-01,1
+"Remove users access to Dynatrace account","LCH-3000",2021-09-06,2021-09-08,2
+"Remove users access to Dynatrace account","LCH-3001",2021-09-06,2021-09-08,2
+"webserver in prd3 does not found the proxy in prd: host not found in upstream","LCH-3002",2021-09-06,2021-09-15,9
+"Change SSL Policy to Modern","LCH-3003",2021-09-06,2021-09-10,4
+"Re-invite the users to GitHub repository","LCH-3004",2021-09-07,2021-09-08,1
+"Available disk space for custom service","LCH-3005",2021-09-07,2021-09-17,10
+"Disable weak cipher suites","LCH-3006",2021-09-08,2021-09-15,7
+"Restore never ends","LCH-3007",2021-09-08,2021-09-18,10
+"Please add user to JAGUARGRP's Dynatrace.","LCH-3008",2021-09-08,2021-09-10,2
+"Requesting a temporary production single node instance for ARGUSCP","LCH-3010",2021-09-09,2021-09-09,0
+"Change project's Location","LCH-3011",2021-09-09,2021-09-13,4
+"Add user to both MARTINBROWER projects' Dynatrace","LCH-3013",2021-09-10,2021-09-15,5
+"Deployed theme uses external library authentication","LCH-3014",2021-09-10,2021-10-26,46
+"After yesterday's Oregon maintenance, the CI service appears as ""not ready"" and user is not able to deploy due to quota exceeded","LCH-3015",2021-09-10,2021-09-21,11
+"Ext module is not deployed with the cloud deployment process.","LCH-3016",2021-09-11,2021-09-22,11
+"SSO and MFA for Dynatrace","LCH-3017",2021-09-13,2021-09-15,2
+"Liferay service is down after updating the services to Service Update 2021.35.1","LCH-3020",2021-09-15,2021-09-20,5
+"Questions regarding the VPN tunnel for Matrinbrower","LCH-3021",2021-09-15,2021-09-24,9
+"Is it possible to override LIFERAY_HTTP_PERIOD_HEADER_PERIOD_VERSION_PERIOD_VERBOSITY value?","LCH-3022",2021-09-15,2021-09-21,6
+"LVHN Security Scan/Test","LCH-3023",2021-09-16,2021-09-17,1
+"Please rename the Elasticsearch data folder in the backend","LCH-3025",2021-09-17,2021-09-17,0
+"Information on maintenance scheduled for the 30th of September","LCH-3026",2021-09-17,2021-09-20,3
+"ES service is restarting as soon as establishing the connection with Liferay service","LCH-3027",2021-09-17,2021-09-17,0
+"Delete indexed documents in Google for the default domain","LCH-3028",2021-09-17,2021-09-29,12
+"Performance tests before go live","LCH-3029",2021-09-17,2021-09-21,4
+"Multiple Outages - 503 Service Unavailable error reported","LCH-3030",2021-09-20,2021-09-24,4
+"Please generate sp metadata for the customer for SSO","LCH-3031",2021-09-20,2021-10-01,11
+"Liferay service restarts when uploading a pdf file (see example in attachment)","LCH-3032",2021-09-21,2021-09-21,0
+"Memory downscale is causing issues","LCH-3033",2021-09-21,2021-09-27,6
+"About opened ports in a DXPC environment","LCH-3034",2021-09-21,2021-09-24,3
+"Disk Space increase query from Pidilite","LCH-3035",2021-09-21,2021-09-29,8
+"Disable TLS < 1.2 in lvhnextranet DXPC Environments","LCH-3036",2021-09-21,2021-09-24,3
+"LFRAYTMA Non-Production Rapid7 Scan","LCH-3037",2021-09-21,2021-09-22,1
+"Enable support for TLS 1.2 and 1.3, and disable support for TLS 1.0","LCH-3038",2021-09-22,2021-10-01,9
+"Error to override nginx.conf","LCH-3039",2021-09-22,2021-09-23,1
+"Restore process brings webserver down","LCH-3040",2021-09-23,2021-10-08,15
+"Allow subnets on mbna and mbeurope VPN tunnels","LCH-3041",2021-09-23,2021-09-28,5
+"Builds fail due unidentified cause.","LCH-3042",2021-09-23,2021-10-05,12
+"Add customer's IdP to DXPC for SSO authentication","LCH-3047",2021-09-27,2021-10-01,4
+"Possible issue renovating the domains certificates","LCH-3050",2021-09-27,2021-09-29,2
+"DXPC monitoring notifications generate false alerts","LCH-3052",2021-09-27,2021-10-01,4
+"Error accessing the database API service to list backups in PRD","LCH-3053",2021-09-27,2021-10-08,11
+"Backup creation fails weekly for the customer.","LCH-3055",2021-09-28,2021-11-05,38
+"RCA Request: Deployment failing on Pre-prod","LCH-3056",2021-09-28,2021-09-29,1
+"Backup service does not show on PRD environment","LCH-3057",2021-09-29,2021-09-30,1
+"Backup page is unavailable","LCH-3058",2021-09-29,2021-09-29,0
+"Unable to connect to the database through the VPN tunnel","LCH-3059",2021-09-29,2021-09-29,0
+"Restrict port access via Webserver","LCH-3060",2021-09-29,2021-10-06,7
+"Production deployments cannot be completed due to Cloud SQL ""Storage type (""dataDiskType"") cannot be changed"" error","LCH-3061",2021-09-30,2021-10-25,25
+"Revoke access for user in JAGUARGRP's Dynatrace","LCH-3062",2021-09-30,2021-10-03,3
+"Cert is not being created for new custom domains","LCH-3063",2021-09-30,2021-10-01,1
+"Backup restore error on upgrade","LCH-3064",2021-09-30,2021-10-25,25
+"Builds are failing intermittently, potentially due to a buildTimeout while fetching the Alpine APK","LCH-3066",2021-10-01,2021-10-05,4
+"Builds are failing intermittently, potentially due to a buildTimeout while fetching the Alpine APK","LCH-3067",2021-10-01,2021-10-05,4
+"Unable to download database backups","LCH-3068",2021-10-01,2021-10-19,18
+"TriMedx Account Access for Rajil.Thompson@trimedx.com","LCH-3069",2021-10-01,2021-10-05,4
+"New access to Dynatrace","LCH-3070",2021-10-01,2021-10-06,5
+"Projects page empty","LCH-3071",2021-10-04,2021-10-08,4
+"Warnings on the database","LCH-3072",2021-10-04,2021-10-26,22
+"lrkoroneiki and lrprovisioning project backups page not loading","LCH-3074",2021-10-05,2021-10-13,8
+"UI showing a stuck Deployment","LCH-3077",2021-10-06,2021-10-13,7
+"Can not download backups","LCH-3078",2021-10-07,2021-10-14,7
+"The log files are downloaded with a different time zone.","LCH-3079",2021-10-07,2021-10-27,20
+"Database backups are downloaded with wrong extension","LCH-3080",2021-10-07,2021-10-12,5
+"Backup page is empty","LCH-3081",2021-10-07,2021-11-03,27
+"Elasticsearch service is at 96% of disk space.","LCH-3082",2021-10-07,2021-10-20,13
+"Get thread dump files","LCH-3083",2021-10-08,2021-10-08,0
+"Starting Oct. 1, users cannot access DXPC sites using Let’s Encrypt certificates without bypassing warnings that the site is insecure","LCH-3084",2021-10-08,2021-10-15,7
+"Backup creation fails","LCH-3085",2021-10-12,2021-10-19,7
+"Failed deployments","LCH-3086",2021-10-12,2021-10-15,3
+"Investigating whether it’s possible to use LCP_CI_DEPLOY_BRANCH/LCP_CI_DEPLOY_TARGET to set up auto deploy for multiple environments","LCH-3087",2021-10-13,2021-10-21,8
+"Can not download backups","LCH-3088",2021-10-13,2021-10-14,1
+"MBEurope VPN is not accessible","LCH-3089",2021-10-14,2021-10-14,0
+"Allow IP Access for Pentesting","LCH-3090",2021-10-14,2021-10-14,0
+"Change externalTrafficPolicy in L4 Ingress","LCH-3091",2021-10-14,2021-10-15,1
+"Invalid Let's encrypt certificate","LCH-3092",2021-10-14,2021-10-20,6
+"Challenge fail in a certificate regeneration launched in a custom domain addition","LCH-3094",2021-10-15,2021-10-19,4
+"After viewing a secret, the ""Related Activities"" timestamp is initially incorrect","LCH-3096",2021-10-15,2021-10-20,5
+"Elasticsearch blocked by read only","LCH-3097",2021-10-18,2021-10-21,3
+"Projects page broken in Safari","LCH-3103",2021-10-20,2021-10-20,0
+"Please delete RabbitMQ in the background","LCH-3104",2021-10-20,2021-11-04,15
+"Apply hotfix using Env var - CI service","LCH-3107",2021-10-20,2021-10-27,7
+"Change customer's IdP for their SSO authentication","LCH-3109",2021-10-21,2021-11-19,29
+"Updated patching tool cannot be installed in new containers, preventing hotfix installation","LCH-3110",2021-10-21,2021-11-08,18
+"Auto backup fails in prod with PromiseAllFailure","LCH-3111",2021-10-22,2021-11-02,11
+"Atlantia - VAPT testing on the 25th of October","LCH-3112",2021-10-22,2021-10-25,3
+"Cert is not being created for new custom domain","LCH-3113",2021-10-22,2021-10-22,0
+"Request to provision Dynatrace tenant for portalivivisol by Oct. 27","LCH-3114",2021-10-26,2021-10-27,1
+"expired certificate is not being renewed","LCH-3115",2021-10-26,2021-10-29,3
+"Certificate for webserver-skytvnz-dev.lfr.cloud was not updated and is showing an expired certificate error","LCH-3117",2021-10-27,2021-11-22,26
+"Builds are failing with d2 DXP images","LCH-3119",2021-10-27,2021-11-05,9
+"Could not load backups","LCH-3120",2021-10-27,2021-11-17,21
+"Root cert for https://webserver-eeze-prd.lfr.cloud/ has expired","LCH-3121",2021-10-28,2021-11-24,27
+"Restore never finishes","LCH-3123",2021-10-28,2021-11-19,22
+"Possibility to increase memory and review overall sizing of DXPC environment in order to mitigate 80% notifications","LCH-3124",2021-10-29,2022-01-05,68
+"UAT login window is not taking the Jenkins credentials as expected","LCH-3125",2021-10-29,2021-11-05,7
+"Liferay service unstable","LCH-3126",2021-10-30,2021-11-18,19
+"Convert sumitomocp-uat to Production","LCH-3127",2021-11-01,2021-11-10,9
+"Devsecopssandbox-dev broken","LCH-3128",2021-11-03,2021-11-17,14
+"Log file location for search service","LCH-3129",2021-11-03,2021-11-24,21
+"CI error when trying to submit a build which includes liferaycloud/liferay-dxp:7.4-4.2.1-ep.2 on the docker image liferay/dxp:7.4.13-ga1-nightly-d2.0.4-20211102141840","LCH-3130",2021-11-05,2021-11-08,3
+"Switch to a modern policy","LCH-3131",2021-11-05,2021-11-12,7
+"Cert is not being created for new custom domains","LCH-3132",2021-11-05,2021-11-05,0
+"Backup Service is Unavailable","LCH-3134",2021-11-07,2021-11-09,2
+"LATAM portal is down","LCH-3135",2021-11-07,2021-11-10,3
+"Martinbrower VPN tunnel updates","LCH-3136",2021-11-08,2021-11-25,17
+"CI builds for an NPM workspace including React take significantly longer than local builds or builds using a yarn workspace","LCH-3139",2021-11-08,2021-12-01,23
+"ES service with error: No space left on device","LCH-3140",2021-11-09,2021-11-10,1
+"Persistent failures causes 503 Service Unavailable","LCH-3141",2021-11-10,2021-12-16,36
+"Please find the root cause of this downtime affecting multiple customers in a cluster","LCH-3142",2021-11-11,2021-11-24,13
+"Unable to use Dynatrace with d2.x.x images","LCH-3143",2021-11-11,2021-11-18,7
+"SSL/TLS & Cipher Suites - Apply to UAT the RESTRICTED policy","LCH-3145",2021-11-12,2021-11-19,7
+"Deploy to Cloud is failing","LCH-3146",2021-11-12,2021-12-17,35
+"Deployed theme uses external library authentication - follow up","LCH-3147",2021-11-12,2021-12-08,26
+"Stuck backup restore process in the download phase at 47.30%","LCH-3148",2021-11-15,2021-11-17,2
+"Restore process was hanging while downloading the volume","LCH-3149",2021-11-15,2021-11-19,4
+"Customer requesting external IP addresses","LCH-3150",2021-11-16,2021-11-26,10
+"VPN dependencies","LCH-3153",2021-11-18,2022-01-04,47
+"Backup creation fails weekly for the customer.","LCH-3159",2021-11-22,2022-01-14,53
+"Stack 4 Docker image with NGinx + Kerberos","LCH-3160",2021-11-22,2021-11-26,4
+"Agent installation in DXP Cloud","LCH-3161",2021-11-22,2021-11-30,8
+"Upload files to Cloud environment","LCH-3162",2021-11-22,2021-12-03,11
+"Upgrade database to the new HA model in the mbeurope-prd environment","LCH-3163",2021-11-23,2021-12-15,22
+"Apply to PRD the RESTRICTED SSL policy","LCH-3164",2021-11-23,2021-11-26,3
+"Unable to use Dynatrace with d2.0.4 images","LCH-3165",2021-11-23,2021-11-30,7
+"Missing memory metric on the monitoring tab","LCH-3166",2021-11-23,2021-12-22,29
+"PizzaHut client unable to reset password","LCH-3169",2021-11-23,2021-11-24,1
+"Liferay hangs while updating Patching Tool","LCH-3173",2021-11-24,2022-01-03,40
+"Martinbrower VPN tunnel updates","LCH-3174",2021-11-25,2021-11-26,1
+"Backups UI only showing 20 last backups","LCH-3175",2021-11-25,2021-11-26,1
+"Doubts about the jenkinsfile","LCH-3176",2021-11-25,2021-11-26,1
+"Customer requesting Egress IP of Liferay service","LCH-3177",2021-11-29,2021-12-01,2
+"KBC - Penetration Test notice","LCH-3178",2021-11-29,2021-11-29,0
+"Error: ""You've reached your Custom Domain limit.""","LCH-3181",2021-11-29,2021-12-06,7
+"YBS - Performance and Penetration test notice","LCH-3182",2021-11-30,2021-11-30,0
+"Disable TLS 1.0/1.1 in Petros project","LCH-3183",2021-11-30,2021-12-02,2
+"Command line tool behind a proxy","LCH-3185",2021-12-01,2022-01-11,41
+"Disable weak ciphers","LCH-3186",2021-12-01,2021-12-02,1
+"Increase Jenkins disk space","LCH-3187",2021-12-02,2021-12-08,6
+"Builds failing in DEV environment due to lock file","LCH-3188",2021-12-02,2021-12-04,2
+"Temporal Dynatrace license to SupportES","LCH-3189",2021-12-02,2021-12-06,4
+"CI Service - no space left on device","LCH-3192",2021-12-03,2021-12-03,0
+"Database service creation fails with Max Instance Per Project error","LCH-3193",2021-12-03,2021-12-06,3
+"Information about compileWorkspace","LCH-3195",2021-12-03,2021-12-08,5
+"Jenkins Build Discarder doesn't take environment variable(s) into account","LCH-3196",2021-12-03,2021-12-03,0
+"CI Jenkins fails when deploying to DEV","LCH-3197",2021-12-03,2021-12-10,7
+"Unable to start Database Service in DXPC","LCH-3198",2021-12-04,2021-12-06,2
+"MYSQL client: unable to export SQL query result into a file","LCH-3199",2021-12-06,2021-12-15,9
+"ci service auto deploy isn't working when using forking code for multiple target environments","LCH-3200",2021-12-06,2021-12-20,14
+"Change SSL Policy to Modern for portalpublicodxp-dev","LCH-3204",2021-12-07,2021-12-07,0
+"Change SSL Policy to Modern for portalpublicodxp-uat","LCH-3205",2021-12-07,2021-12-07,0
+"Increase Jenkins disk space","LCH-3206",2021-12-07,2021-12-08,1
+"Synonyms index is not recreated on restart if missing","LCH-3207",2021-12-07,2021-12-21,14
+"Separate VPN tunnel for UK and NA PreProd environment","LCH-3208",2021-12-07,2022-01-17,41
+"Change SSL Policy to Modern for portalescge","LCH-3209",2021-12-07,2021-12-07,0
+"Change SSL Policy to Modern for portalescge-prd","LCH-3213",2021-12-09,2021-12-09,0
+"Need private key of SSL Certificate","LCH-3215",2021-12-10,2021-12-16,6
+"Temporarily increase memory for the recportal project","LCH-3216",2021-12-10,2021-12-13,3
+"Slow DXP portal and Liveness/readiness probe failing","LCH-3217",2021-12-10,2021-12-15,5
+"Unable to create directory message when importing lar","LCH-3218",2021-12-11,2021-12-15,4
+"Downtime and risk prognosis for the 16th of Dec. DXP Cloud release","LCH-3219",2021-12-11,2021-12-13,2
+"2022 DXP Cloud Platform Maintenance and Release Schedule","LCH-3220",2021-12-11,2021-12-13,2
+"CI Jenkins fails when deploying to DEV - same as LCH-3197","LCH-3224",2021-12-14,2021-12-16,2
+"Client’s search service currently unusable due to “no space left on device” errors","LCH-3226",2021-12-14,2021-12-21,7
+"Missing credentials for Jenkins","LCH-3228",2021-12-15,2022-01-21,37
+"Dynatrace invitations","LCH-3229",2021-12-15,2021-12-15,0
+"Request to remove lfracteam-prd and lfracteam-infra","LCH-3230",2021-12-17,2021-12-21,4
+"Martinbrower VPN issues","LCH-3231",2021-12-17,2022-01-25,39
+"LIFERAY_CLUSTER_PERIOR_LINK_PERIOD_AUTODETECT_PERIOD_ADDRESS= is misspelled","LCH-3232",2021-12-17,2022-01-05,19
+"No backups exist prior to Dec 15 for lvhnextranet-uat","LCH-3233",2021-12-17,2022-01-17,31
+"Disable TLS 1.0/1.1 for AXAPARNEODXPC","LCH-3234",2021-12-21,2022-01-04,14
+"Cannot install hotfix","LCH-3235",2021-12-21,2022-01-10,20
+"Images for ElasticSearch 7.16.2+","LCH-3236",2021-12-21,2022-01-25,35
+"Lvhnextranet-prd backup service has been stuck in “creation in progress…” for a month","LCH-3237",2021-12-21,2022-02-08,49
+"Database Service Failing to Restart","LCH-3239",2021-12-22,2022-01-03,12
+"Disk space increase request for the us-west1-ac4-c1 cluster","LCH-3241",2021-12-24,2021-12-24,0
+"Liferay and database service deployments are timing out","LCH-3244",2021-12-25,2021-12-30,5
+"Deployment timeout","LCH-3246",2021-12-28,2022-01-05,8
+"Disable TLS 1.1 and 1.0 on production environment","LCH-3248",2021-12-28,2022-01-04,7
+"Request for DXPC Search service images using Elasticsearch v7.16.2+","LCH-3249",2021-12-28,2022-01-03,6
+"Dynatrace Invitations","LCH-3250",2021-12-28,2021-12-29,1
+"Intermittent database service after HA activation","LCH-3251",2021-12-29,2021-12-30,1
+"Automated authentication process for the CLI to download logs or backups","LCH-3252",2021-12-29,2022-01-25,27
+"Need list of users who are having access to dynatrace app","LCH-3254",2021-12-30,2021-12-30,0
+"Cloud Builder times out after 10 minutes","LCH-3255",2021-12-30,2022-01-19,20

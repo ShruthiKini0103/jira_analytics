@@ -63,7 +63,7 @@ tickets <- ticket_data %>%
   
 # Create a new data frame with relevant columns
 ticket_resolution_data <- ticket_data %>%
-  select(month_opened, month_closed, resolution_time)
+  select(summary, ticket_id, month_opened, month_closed, resolution_time)
 
 # Write the data to a new CSV file
 write.csv(ticket_resolution_data, "ticket_resolution_statistics.csv", row.names = FALSE)
