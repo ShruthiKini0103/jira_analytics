@@ -2,23 +2,48 @@ library(dplyr)
 library(lubridate)
 library(knitr)
 library(readr)
-library(ggplot2)
-library(shiny)
 
 # Step-1: Load the data from the CSV file
 ticket_data <- read.csv("jira_analytics_data.csv")
 
-# Step-2: Check for missing values in the columns tickets_opened and ticket_closed
-print(sum(is.na(ticket_data$month_opened)))  # Check for missing values in month_opened
-print(sum(is.na(ticket_data$month_closed)))  # Check for missing values in month_closed
+#Renaming the respective columns
+colnames(ticket_data)[2]="Issue_key"
+colnames(ticket_data)[10]="month_opened"
+colnames(ticket_data)[11]="month_closed"
 
-str(ticket_data)
-
-# Step-3: Convert date/time columns to Date objects
+# Create a new column with the month_opened
 ticket_data <- ticket_data %>%
   mutate(
-    month_opened = as.Date(month_opened, format = "%d/%m/%Y"),
-    month_closed = as.Date(month_closed, format = "%d/%m/%Y")
+    created_at_new = 
+      paste(
+        day(as.Date(month_opened, format = "%d/%b/%y")), 
+        month(as.Date(month_opened, format = "%d/%b/%y")), 
+        year(as.Date(month_opened, format = "%d/%b/%y")), 
+        sep = "/"
+      )
+  )
+
+# Create a new column with the desired format
+ticket_data <- ticket_data %>%
+  mutate(
+    closed_at = 
+      paste(
+        day(as.Date(month_closed, format = "%d/%b/%y")), 
+        month(as.Date(month_closed, format = "%d/%b/%y")), 
+        year(as.Date(month_closed, format = "%d/%b/%y")), 
+        sep = "/"
+      )
+  )
+
+# Step-2: Check for missing values in the columns tickets_opened and ticket_closed
+ print(sum(is.na(ticket_data$created_at_new)))  # Check for missing values in month_opened
+ print(sum(is.na(ticket_data$closed_at)))  # Check for missing values in month_closed
+
+# Step-4: Convert date/time columns to Date objects
+ticket_data <- ticket_data %>%
+  mutate(
+    month_opened = as.Date(ticket_data$created_at_new, format = "%d/%m/%Y"),
+    month_closed = as.Date(ticket_data$closed_at, format = "%d/%m/%Y")
   )
 
 # Step-4: Tickets opened per month
@@ -63,8 +88,8 @@ tickets <- ticket_data %>%
   
 # Create a new data frame with relevant columns
 ticket_resolution_data <- ticket_data %>%
-  select(summary, ticket_id, month_opened, month_closed, resolution_time)
-
+  select(Summary, Issue_key, month_opened, month_closed, resolution_time)
+  
 # Write the data to a new CSV file
 write.csv(ticket_resolution_data, "ticket_resolution_statistics.csv", row.names = FALSE)
 
@@ -86,28 +111,8 @@ kable(
   align = "c",
   caption = "Summary of Resolution Times"
 )
-
-# Step-9: Visualization: Distribution of Resolution Times
-ggplot(tickets, aes(x = resolution_time)) +
-  geom_histogram(binwidth = 5, fill = "steelblue", color = "black") +
-  labs(
-    title = "Distribution of Ticket Resolution Times",
-    x = "Resolution Time (Days)",
-    y = "Number of Tickets"
-  ) +
-  theme_minimal()
-
-# Visualization: Resolution Time per Ticket ID
-ggplot(tickets, aes(x = ticket_id, y = resolution_time)) +
-  geom_point(color = "darkred", alpha = 0.6) +
-  labs(
-    title = "Resolution Time for Each Ticket",
-    x = "Ticket ID",
-    y = "Resolution Time (Days)"
-  ) +
-  theme_minimal()
   
-#We will want to understand the tickets that were excluded from resolution calculation
+#Tickets that were excluded from resolution calculation
 # Extract ticket_id for excluded rows
 excluded_ticket_ids <- ticket_data %>%
   mutate(
@@ -116,7 +121,7 @@ excluded_ticket_ids <- ticket_data %>%
   filter(
     is.na(resolution_time) | resolution_time < 0  # Identify invalid rows
   ) %>%
-  select(ticket_id)  # Select only the ticket_id column
+  select(Issue_key)  # Select only the ticket_id column
 
 # Check if there are excluded tickets
 if (nrow(excluded_ticket_ids) > 0) {
